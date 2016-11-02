@@ -14,10 +14,10 @@
 13、 <a href="#13http-协议入门" >HTTP 协议入门</a><br/>
 14、 <a href="#14那些无用的人----人类简史读后感" >那些无用的人----《人类简史》读后感</a><br/>
 15、 <a href="#15布尔代数入门" >布尔代数入门</a><br/>
-16、 <a href="#16this-week's-javascript-news,-issue-307" >This week's JavaScript news, issue 307</a><br/>
-17、 <a href="#17this-week's-javascript-news,-issue-306" >This week's JavaScript news, issue 306</a><br/>
-18、 <a href="#18yarn---a-new,-super-speedy-js-package-manager-from-facebook" >Yarn - a new, super-speedy JS package manager from Facebook</a><br/>
-19、 <a href="#19state-of-javascript-2016-results,-vue-2.0-released,-angular-2-vs-react-comparison" >State of JavaScript 2016 results, Vue 2.0 released, Angular 2 vs React comparison</a><br/><h1 id="#title_0" >1、中文技术文档的写作规范</h1>
+16、 <a href="#16this-weeks-javascript-news-issue-307" >This week's JavaScript news, issue 307</a><br/>
+17、 <a href="#17this-weeks-javascript-news-issue-306" >This week's JavaScript news, issue 306</a><br/>
+18、 <a href="#18yarn---a-new-super-speedy-js-package-manager-from-facebook" >Yarn - a new, super-speedy JS package manager from Facebook</a><br/>
+19、 <a href="#19state-of-javascript-2016-results-vue-20-released-angular-2-vs-react-comparison" >State of JavaScript 2016 results, Vue 2.0 released, Angular 2 vs React comparison</a><br/><h1 id="#title_0" >1、中文技术文档的写作规范</h1>
 阮一峰
 [http://www.ruanyifeng.com/blog/2016/10/document_style_guide.html](http://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
 <p>很多人说，不知道怎么写文档，都是凭着感觉写。</p>
