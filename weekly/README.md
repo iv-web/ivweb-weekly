@@ -1,8 +1,8 @@
 # WEEKLY LIST        
 ## 第46周文章列表       
-1. [别人家的面试题：不用加减乘除，求整数的7倍](https://www.h5jun.com/post/multiply7.html)       
-2. [【译】是什么使一名好程序员变得伟大](https://www.h5jun.com/post/what-makes-a-good-developer-great.html)       
-3. [【译】少写代码少填坑 – Medium](https://www.h5jun.com/post/writing-less-damn-code-medium.html)       
-4. [【译】一家初创公司的 CTO 应当做什么？](https://www.h5jun.com/post/what-does-a-startup-cto-actually-do.html)       
-5. [【译】Hover 已死，永垂不朽](https://www.h5jun.com/post/hover-is-dead-long-live-hover.html)       
+1. [【译】前端是 🤘 而 JavaScript 是 👑](https://www.h5jun.com/post/front-end-is-and-javascript-is.html)       
+2. [【译】巧用 CSS 变量实现自动前缀！| Lea Verou](https://www.h5jun.com/post/autoprefixing-with-css-variables-lea-verou.html)       
+3. [【译】Chrome 的 V8 JavaScript 引擎得到调整 | InfoWorld](https://www.h5jun.com/post/chrome-039-s-v8-javascript-engine-gets-a-tuneup-infoworld.html)       
+4. [值得订阅的 12 份优质前端期刊](https://www.h5jun.com/post/the-12-best-weekly.html)       
+5. [【译】Web 重在当下](https://www.h5jun.com/post/the-web-is-not-tomorrow-but-today.html)       
 [查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_46/)
