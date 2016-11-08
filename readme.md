@@ -8,7 +8,7 @@ IVWEB团队成立于2015年，团队前身是业界知名Web团队IMWEB团队的
 
 ## Weekly 汇总
 
-- 2016年 week[ly 汇总： <https://github.com/iv-web/ivweb-weekly/tree/master/weekly/2016>  
+- 2016年 week[ly 汇总： <https://github.com/iv-web/ivweb-weekly/tree/master/weekly/>  
 
 ## 资源集散中心
 
