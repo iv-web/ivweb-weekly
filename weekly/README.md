@@ -2,9 +2,15 @@
 ## 第47周文章列表       
 1. [[前端] CSS Modules 入门 Ⅲ：与 React 协同](http://gold.xitu.io/entry/582900572e958a005eb6ce8a)       
 2. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
-3. [[前端] wxParse version0.2 - 更好的微信小程序富文本 HTML 及 Markdown 解析](http://gold.xitu.io/entry/5829018eda2f600056e0a31c)       
-4. [[前端] 学习 JavaScript 数据结构(二)——链表](http://gold.xitu.io/entry/582874735bbb50004f1a39c0)       
-5. [React v15.0 Release Candidate 2](https://facebook.github.io/react/blog/2016/03/16/react-v15-rc2.html)       
+3. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 1
+                部分: 新 JavaScript 中的变量声明等功能](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p1/index.html?ca=drs-)       
+4. [[阅读] Mac 系统下安装 Node.js](http://gold.xitu.io/entry/582a46570ce463006cd067b5)       
+5. [[阅读] Windows 系统下安装 Node.js](http://gold.xitu.io/entry/582a460467f35600631a1c96)       
+6. [[前端] wxParse version0.2 - 更好的微信小程序富文本 HTML 及 Markdown 解析](http://gold.xitu.io/entry/5829018eda2f600056e0a31c)       
+7. [[前端] 学习 JavaScript 数据结构(二)——链表](http://gold.xitu.io/entry/582874735bbb50004f1a39c0)       
+8. [[前端] [英] Pjax + React](http://gold.xitu.io/entry/5829e2b0da2f600056e96e5f)       
+9. [[前端] Effective JavaScript](http://gold.xitu.io/entry/5829de13d203090054056c91)       
+10. [React v15.0 Release Candidate 2](https://facebook.github.io/react/blog/2016/03/16/react-v15-rc2.html)       
 [查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)       
 ## 第46周文章列表       
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
