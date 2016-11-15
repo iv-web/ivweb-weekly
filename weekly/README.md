@@ -11,7 +11,8 @@
 8. [[前端] [英] Pjax + React](http://gold.xitu.io/entry/5829e2b0da2f600056e96e5f)       
 9. [[前端] Effective JavaScript](http://gold.xitu.io/entry/5829de13d203090054056c91)       
 10. [React v15.0 Release Candidate 2](https://facebook.github.io/react/blog/2016/03/16/react-v15-rc2.html)       
-[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)       
+[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)     
+
 ## 第46周文章列表       
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
 2. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
