@@ -6,12 +6,10 @@
 4. [[后端] Nodejs 基础：路径处理模块 path 总结](http://gold.xitu.io/entry/582caaa32f301e005948bc32)       
 5. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
 6. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 1
-                部分: 新 JavaScript 中的变量声明等功能](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p1/index.html?ca=drs-)       
-7. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 1
-            部分: 新 JavaScript 中的变量声明等功能](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p1/index.html?ca=drs-)       
-8. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
-9. [[前端] 学习 JavaScript 数据结构(二)——链表](http://gold.xitu.io/entry/582874735bbb50004f1a39c0)       
-10. [[前端] 合理使用 IIFE 优化 JS 引擎的性能](http://gold.xitu.io/entry/582b1e7ba22b9d006b5e61f1)       
+                部分: 新 JavaScript 中的变量声明等功能](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p1/index.html?ca=drs-)              
+7. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
+8. [[前端] 学习 JavaScript 数据结构(二)——链表](http://gold.xitu.io/entry/582874735bbb50004f1a39c0)       
+9. [[前端] 合理使用 IIFE 优化 JS 引擎的性能](http://gold.xitu.io/entry/582b1e7ba22b9d006b5e61f1)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)*       
 
        
