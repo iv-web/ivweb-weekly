@@ -2,15 +2,14 @@
 ## 第47周文章列表       
 1. [[前端] PhantomJS & NodeJS 在京东网站前端监控平台的最佳实践](http://gold.xitu.io/entry/582ecd148ac2470061a90905)       
 2. [文章： PhantomJS 和NodeJS在京东网站前端监控平台的最佳实践](http://www.infoq.com/cn/articles/practise-of-phantomjs-and-nodejs-in-jingdong?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [[前端] Introduction to Node & Express – JavaScript Scene – Medium](http://gold.xitu.io/entry/582ed0aca0bb9f0067b287ff)       
-4. [[前端] 超赞！37 款免费的 HTML5 和 CSS3 加载与预载动画](http://gold.xitu.io/entry/582efca0128fe10069628b6e)       
-5. [[前端] Nodejs 线上服务稳定性保障体系](http://gold.xitu.io/entry/582f1c65a0bb9f0067b5bdc1)       
-6. [[前端] CSS Modules 入门 Ⅲ：与 React 协同](http://gold.xitu.io/entry/582900572e958a005eb6ce8a)       
+3. [[前端] CSS Modules 入门 Ⅲ：与 React 协同](http://gold.xitu.io/entry/582900572e958a005eb6ce8a)       
+4. [[前端] Introduction to Node & Express – JavaScript Scene – Medium](http://gold.xitu.io/entry/582ed0aca0bb9f0067b287ff)       
+5. [[前端] 超赞！37 款免费的 HTML5 和 CSS3 加载与预载动画](http://gold.xitu.io/entry/582efca0128fe10069628b6e)       
+6. [[前端] Nodejs 线上服务稳定性保障体系](http://gold.xitu.io/entry/582f1c65a0bb9f0067b5bdc1)       
 7. [[前端] [译] Node.js v6 LTS 中最激动人心的六个 ES6 特性](http://gold.xitu.io/entry/582dcfb067f356006336c834)       
 8. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
 9. [[后端] Nodejs 基础：路径处理模块 path 总结](http://gold.xitu.io/entry/582caaa32f301e005948bc32)       
-10. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 1
-                部分: 新 JavaScript 中的变量声明等功能](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p1/index.html?ca=drs-)       
+10. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)*       
 
        
