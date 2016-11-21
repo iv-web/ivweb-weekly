@@ -1,4 +1,13 @@
 # WEEKLY LIST        
+## 第48周文章列表       
+1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
+2. [[前端] 在 Vue 工作流中使用 CSS Modules](http://gold.xitu.io/entry/5831b901da2f6000630167fa)       
+3. [[前端] 开源：掘金微信小程序初探](http://gold.xitu.io/entry/5831b58f0ce463006c08eee6)       
+4. [[前端] [干货] 滴滴出行在小程序的实践](http://gold.xitu.io/entry/5831a47f67f356006353c070)       
+5. [[后端] 树莓派上的 Docker 集群管理](http://gold.xitu.io/entry/583237b02f301e00596fbd46)       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
+
+       
 ## 第47周文章列表       
 1. [[前端] PhantomJS & NodeJS 在京东网站前端监控平台的最佳实践](http://gold.xitu.io/entry/582ecd148ac2470061a90905)       
 2. [文章： PhantomJS 和NodeJS在京东网站前端监控平台的最佳实践](http://www.infoq.com/cn/articles/practise-of-phantomjs-and-nodejs-in-jingdong?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
@@ -10,7 +19,7 @@
 8. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
 9. [[后端] Nodejs 基础：路径处理模块 path 总结](http://gold.xitu.io/entry/582caaa32f301e005948bc32)       
 10. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
 
        
 ## 第46周文章列表       
@@ -24,5 +33,5 @@
 8. [[前端] [webpack] 你真的知道 css-loader 怎么用吗？](http://gold.xitu.io/entry/5826e755c4c9710054313d6e)       
 9. [[前端] [英] 掌握了这 8 个简单的规则，你就可以构建一个稳固的、可扩展的 CSS 架构了](http://gold.xitu.io/entry/58219292128fe1005a190fd2)       
 10. [[前端] 基础篇章：关于 & nbsp;React Native 之 & nbsp;RefreshControl 组件的讲解](http://gold.xitu.io/entry/5824f9fea22b9d00670a8271)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_47/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
 
