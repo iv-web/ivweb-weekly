@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第48周文章列表       
 1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
-2. [[前端] 在 Vue 工作流中使用 CSS Modules](http://gold.xitu.io/entry/5831b901da2f6000630167fa)       
-3. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
-4. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
-5. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
-6. [[前端] 最全的资源教程：前端涉及的所有知识体系](http://gold.xitu.io/entry/58338e5f5c497d006b2a77b1)       
-7. [CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends](https://www.smashingmagazine.com/2016/11/css-inheritance-cascade-global-scope-new-old-worst-best-friends/)       
-8. [[前端] 开源：掘金微信小程序初探](http://gold.xitu.io/entry/5831b58f0ce463006c08eee6)       
-9. [[前端] [干货] 滴滴出行在小程序的实践](http://gold.xitu.io/entry/5831a47f67f356006353c070)       
-10. [[后端] 树莓派上的 Docker 集群管理](http://gold.xitu.io/entry/583237b02f301e00596fbd46)       
+2. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
+3. [[前端] 基于 React,Redux 以及 wilddog 的聊天室简单实现](http://gold.xitu.io/entry/58349b4967f356006c395e16)       
+4. [[前端] JavaScript 的同步与异步](http://gold.xitu.io/entry/58349b7d8ac24700647ef70c)       
+5. [[前端] 6 周学习计划，攻克 JavaScript 难关](http://gold.xitu.io/entry/58349e14880741006ca5ddcc)       
+6. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
+7. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
+8. [[前端] 在 Vue 工作流中使用 CSS Modules](http://gold.xitu.io/entry/5831b901da2f6000630167fa)       
+9. [[前端] 最全的资源教程：前端涉及的所有知识体系](http://gold.xitu.io/entry/58338e5f5c497d006b2a77b1)       
+10. [[前端] 我终于弄懂了各种前端 build 工具](http://gold.xitu.io/entry/58349cd761ff4b006ba95457)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
 
        
