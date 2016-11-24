@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第48周文章列表       
 1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
-2. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
-3. [[前端] 基于 React,Redux 以及 wilddog 的聊天室简单实现](http://gold.xitu.io/entry/58349b4967f356006c395e16)       
-4. [[前端] JavaScript 的同步与异步](http://gold.xitu.io/entry/58349b7d8ac24700647ef70c)       
-5. [[前端] 6 周学习计划，攻克 JavaScript 难关](http://gold.xitu.io/entry/58349e14880741006ca5ddcc)       
+2. [[前端] 6 周学习计划，攻克 JavaScript 难关](http://gold.xitu.io/entry/58349e14880741006ca5ddcc)       
+3. [[前端] JavaScript 包管理器工作原理简介](http://gold.xitu.io/entry/5835a2c0c59e0d005772a62f)       
+4. [[前端] JavaScript 时间与日期处理实战: 你肯定被坑过](http://gold.xitu.io/entry/5835b54cc4c9710054a6093c)       
+5. [[前端]  秀才提笔忘了字：javascript 使用 requestAnimationFrame 实现动画](http://gold.xitu.io/entry/5835b93bc59e0d00577354e1)       
 6. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
 7. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
-8. [[前端] 在 Vue 工作流中使用 CSS Modules](http://gold.xitu.io/entry/5831b901da2f6000630167fa)       
-9. [[前端] 最全的资源教程：前端涉及的所有知识体系](http://gold.xitu.io/entry/58338e5f5c497d006b2a77b1)       
-10. [[前端] 我终于弄懂了各种前端 build 工具](http://gold.xitu.io/entry/58349cd761ff4b006ba95457)       
+8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
+9. [[前端] 从 css 谈模块化](http://gold.xitu.io/entry/5835c1cb67f3560065ef7f56)       
+10. [[前端] 基于 React,Redux 以及 wilddog 的聊天室简单实现](http://gold.xitu.io/entry/58349b4967f356006c395e16)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
 
        
