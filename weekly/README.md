@@ -2,14 +2,14 @@
 ## 第48周文章列表       
 1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
 2. [[工具资源] Gloria.js - JavaScript 版本的 jekyll 静态博客工具](http://gold.xitu.io/entry/583706c067f3560065f76d0d)       
-3. [[前端] 微信小程序 require 引用 BASE64.JS 失败问题的分析解决](http://gold.xitu.io/entry/583832f3ac502e006e95cace)       
-4. [[前端] 2016: 编写高性能的 JavaScript](http://gold.xitu.io/entry/583847daac502e006e967344)       
-5. [[前端] JavaScript 实现点击按钮复制指定区域文本](http://gold.xitu.io/entry/5836aef7ac502e006c05abb6)       
+3. [[前端] Vue.js 和 MVVM 的小细节](http://gold.xitu.io/entry/58398143a22b9d006a7f2d84)       
+4. [[前端] 微信小程序 require 引用 BASE64.JS 失败问题的分析解决](http://gold.xitu.io/entry/583832f3ac502e006e95cace)       
+5. [[前端] 2016: 编写高性能的 JavaScript](http://gold.xitu.io/entry/583847daac502e006e967344)       
 6. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
 7. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
 8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
-9. [[前端] 从 css 谈模块化](http://gold.xitu.io/entry/5835c1cb67f3560065ef7f56)       
-10. [[前端] JavaScript 包管理器工作原理简介](http://gold.xitu.io/entry/5835a2c0c59e0d005772a62f)       
+9. [[前端] JavaScript 实现点击按钮复制指定区域文本](http://gold.xitu.io/entry/5836aef7ac502e006c05abb6)       
+10. [[前端] JavaScript 时间与日期处理实战: 你肯定被坑过](http://gold.xitu.io/entry/5835b54cc4c9710054a6093c)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
 
        
