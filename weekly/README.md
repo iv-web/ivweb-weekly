@@ -1,4 +1,13 @@
 # WEEKLY LIST        
+## 第49周文章列表       
+1. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
+2. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
+3. [[前端] 前端阅读笔记 2016-11-26 & 27](http://gold.xitu.io/entry/583ae252ac502e006c235c9a)       
+4. [[Android] 基础篇章：关于 & nbsp;React Native 之 & nbsp;ActivityIndicator 组件的讲解](http://gold.xitu.io/entry/583b6d4461ff4b006b54ff23)       
+5. [[后端] java 知识 之 Integer 自动拆装箱与缓存](http://gold.xitu.io/entry/583ae967ac502e006ea4c083)       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
+
+       
 ## 第48周文章列表       
 1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
 2. [[工具资源] Gloria.js - JavaScript 版本的 jekyll 静态博客工具](http://gold.xitu.io/entry/583706c067f3560065f76d0d)       
@@ -10,7 +19,7 @@
 8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
 9. [[前端] JavaScript 实现点击按钮复制指定区域文本](http://gold.xitu.io/entry/5836aef7ac502e006c05abb6)       
 10. [[前端] JavaScript 时间与日期处理实战: 你肯定被坑过](http://gold.xitu.io/entry/5835b54cc4c9710054a6093c)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
 
        
 ## 第47周文章列表       
@@ -24,7 +33,7 @@
 8. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
 9. [[后端] Nodejs 基础：路径处理模块 path 总结](http://gold.xitu.io/entry/582caaa32f301e005948bc32)       
 10. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
 
        
 ## 第46周文章列表       
@@ -38,5 +47,5 @@
 8. [[前端] [webpack] 你真的知道 css-loader 怎么用吗？](http://gold.xitu.io/entry/5826e755c4c9710054313d6e)       
 9. [[前端] [英] 掌握了这 8 个简单的规则，你就可以构建一个稳固的、可扩展的 CSS 架构了](http://gold.xitu.io/entry/58219292128fe1005a190fd2)       
 10. [[前端] 基础篇章：关于 & nbsp;React Native 之 & nbsp;RefreshControl 组件的讲解](http://gold.xitu.io/entry/5824f9fea22b9d00670a8271)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_48/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
 
