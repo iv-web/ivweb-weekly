@@ -1,10 +1,16 @@
 # WEEKLY LIST        
 ## 第49周文章列表       
 1. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
-2. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
-3. [[前端] 前端阅读笔记 2016-11-26 & 27](http://gold.xitu.io/entry/583ae252ac502e006c235c9a)       
-4. [[Android] 基础篇章：关于 & nbsp;React Native 之 & nbsp;ActivityIndicator 组件的讲解](http://gold.xitu.io/entry/583b6d4461ff4b006b54ff23)       
-5. [[后端] java 知识 之 Integer 自动拆装箱与缓存](http://gold.xitu.io/entry/583ae967ac502e006ea4c083)       
+2. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
+        部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
+3. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
+4. [[前端]  JavaScript 中的 this , 看着一篇就够了](http://gold.xitu.io/entry/583c3074a22b9d006dd0d65d)       
+5. [[前端] 前端阅读笔记 2016-11-26 & 27](http://gold.xitu.io/entry/583ae252ac502e006c235c9a)       
+6. [[前端] 网易蜂巢的工业化前端架构](http://gold.xitu.io/entry/583c3e3f128fe1006ac14686)       
+7. [[前端] 前端阅读笔记 2016-11-28](http://gold.xitu.io/entry/583c361561ff4b006b5a4fa2)       
+8. [[后端] Avatar.js](http://gold.xitu.io/entry/583c244cc59e0d006b441596)       
+9. [[Android] 基础篇章：关于 & nbsp;React Native 之 & nbsp;ActivityIndicator 组件的讲解](http://gold.xitu.io/entry/583b6d4461ff4b006b54ff23)       
+10. [[后端] java 知识 之 Integer 自动拆装箱与缓存](http://gold.xitu.io/entry/583ae967ac502e006ea4c083)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
 
        
