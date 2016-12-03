@@ -1,16 +1,16 @@
 # WEEKLY LIST        
 ## 第49周文章列表       
-1. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
-2. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
-3. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
+1. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
+2. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
+3. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
+4. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
         部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
-5. [[前端]  JavaScript 中的 this , 看着一篇就够了](http://gold.xitu.io/entry/583c3074a22b9d006dd0d65d)       
-6. [[前端] 有趣的话题，为什么 jsx 用 classname 而不是 class](http://gold.xitu.io/entry/583ecefe61ff4b006b67b72a)       
-7. [[前端] CSS3 实现的 3D 相册效果](http://gold.xitu.io/entry/58404db4ac502e006cbf2d46)       
+6. [[前端]  JavaScript 中的 this , 看着一篇就够了](http://gold.xitu.io/entry/583c3074a22b9d006dd0d65d)       
+7. [[前端] 有趣的话题，为什么 jsx 用 classname 而不是 class](http://gold.xitu.io/entry/583ecefe61ff4b006b67b72a)       
 8. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
-9. [[前端] React 应用中最常见的 XSS 漏洞以及防御手段](http://gold.xitu.io/entry/583db15dac502e006eb399f5)       
-10. [[前端] 前端阅读笔记 2016-11-26 & 27](http://gold.xitu.io/entry/583ae252ac502e006c235c9a)       
+9. [[前端] CSS3 实现的 3D 相册效果](http://gold.xitu.io/entry/58404db4ac502e006cbf2d46)       
+10. [[前端] React 应用中最常见的 XSS 漏洞以及防御手段](http://gold.xitu.io/entry/583db15dac502e006eb399f5)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_49/)*       
 
        
