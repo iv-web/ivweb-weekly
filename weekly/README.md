@@ -5,6 +5,11 @@
 3. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
 4. [[前端] 简单几步助你优化 React 应用包体](https://gold.xitu.io/entry/58443c3ea22b9d006c25c07d)       
 5. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
+6. [[前端] js 原型的哲学思想](https://gold.xitu.io/entry/584554030ce4630057815fe5)       
+7. [[Android] Realm Java 官方教程翻译 (一)：Getting Started](https://gold.xitu.io/entry/5845a8550ce4630057836556)       
+8. [文章： Ousta如何在两分钟的测试周期内模拟客流](http://www.infoq.com/cn/articles/microservices-simulation-ride-hailing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 从限流削峰到性能优化,谈1号店抽奖系统架构实践](http://www.infoq.com/cn/articles/practice-of-yhd-lottery-system-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Microsoft Flow发布GA版本](http://www.infoq.com/cn/news/2016/12/microsoft-flow-ga?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
 
        
