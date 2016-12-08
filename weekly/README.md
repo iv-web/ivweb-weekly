@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第50周文章列表       
-1. [[后端] 使用 StatsD + Grafana + InfluxDB 搭建 Node.js 监控系统](https://gold.xitu.io/entry/5846b0c7a22b9d006c328cd2)       
-2. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [[前端] 唠叨一下 js 对象与哈希表那些事](https://gold.xitu.io/entry/5844452a61ff4b006c3326e0)       
-4. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
-5. [[前端] 简单几步助你优化 React 应用包体](https://gold.xitu.io/entry/58443c3ea22b9d006c25c07d)       
-6. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
-7. [[前端] js 原型的哲学思想](https://gold.xitu.io/entry/584554030ce4630057815fe5)       
-8. [[前端] JavaScript 异步编程解决方案笔记](https://gold.xitu.io/entry/584435fb61ff4b006b9c213a)       
-9. [[前端] JavaScript 易错知识点整理](https://gold.xitu.io/entry/5846a331a22b9d006c322299)       
-10. [[前端] 前端优化实践](https://gold.xitu.io/entry/58474862a22b9d007aaa8066)       
+1. [[前端] 《基于 React 的前端工程实战》大纲，也是笔者心中的前端学习路线图](https://gold.xitu.io/entry/58482b3c0ce463005790b50f)       
+2. [[后端] 使用 StatsD + Grafana + InfluxDB 搭建 Node.js 监控系统](https://gold.xitu.io/entry/5846b0c7a22b9d006c328cd2)       
+3. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [[前端] 简单几步助你优化 React 应用包体](https://gold.xitu.io/entry/58443c3ea22b9d006c25c07d)       
+5. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
+6. [[前端] js 原型的哲学思想](https://gold.xitu.io/entry/584554030ce4630057815fe5)       
+7. [[前端] 唠叨一下 js 对象与哈希表那些事](https://gold.xitu.io/entry/5844452a61ff4b006c3326e0)       
+8. [[前端] JavaScript 易错知识点整理](https://gold.xitu.io/entry/5846a331a22b9d006c322299)       
+9. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
+10. [[前端] JavaScript 异步编程解决方案笔记](https://gold.xitu.io/entry/584435fb61ff4b006b9c213a)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
 
        
