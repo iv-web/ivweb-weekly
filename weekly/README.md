@@ -2,14 +2,14 @@
 ## 第50周文章列表       
 1. [[前端] 《基于 React 的前端工程实战》大纲，也是笔者心中的前端学习路线图](https://gold.xitu.io/entry/58482b3c0ce463005790b50f)       
 2. [[后端] 使用 StatsD + Grafana + InfluxDB 搭建 Node.js 监控系统](https://gold.xitu.io/entry/5846b0c7a22b9d006c328cd2)       
-3. [[前端] 割裂的前端工程师 --- 2017 年前端生态窥探](https://gold.xitu.io/entry/584a765dac502e006c5faffb)       
-4. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
+3. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [[前端] 割裂的前端工程师 --- 2017 年前端生态窥探](https://gold.xitu.io/entry/584a765dac502e006c5faffb)       
+5. [[前端] 简单几步助你优化 React 应用包体](https://gold.xitu.io/entry/58443c3ea22b9d006c25c07d)       
 6. [[前端] js 原型的哲学思想](https://gold.xitu.io/entry/584554030ce4630057815fe5)       
 7. [[前端] 奇舞周刊第 188 期 —— JavaScript 有个 Unicode 天坑](https://gold.xitu.io/entry/584a7e76ac502e006c5fedc8)       
-8. [[前端] JavaScript 测试︰ 单元 vs 功能 vs 集成测试](https://gold.xitu.io/entry/584ab2dc128fe1006c7cdc11)       
-9. [[前端] css 预处理语言的模块化实践](https://gold.xitu.io/entry/584ae35061ff4b0058d5f324)       
-10. [[前端] 唠叨一下 js 对象与哈希表那些事](https://gold.xitu.io/entry/5844452a61ff4b006c3326e0)       
+8. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
+9. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
+10. [[前端] JavaScript 易错知识点整理](https://gold.xitu.io/entry/5846a331a22b9d006c322299)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
 
        
