@@ -1,4 +1,16 @@
 # WEEKLY LIST        
+## 第51周文章列表       
+1. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
+2. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
+3. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
+4. [[前端] Top JavaScript Frameworks & Topics to Learn in 2017](https://gold.xitu.io/entry/584d6802a22b9d0058e12074)       
+5. [[前端] 与君同行的前端周刊（第十一期）](https://gold.xitu.io/entry/584d43e4128fe1006c8ad195)       
+6. [[前端] webpack2 译文](https://gold.xitu.io/entry/584d5d468e450a006c644263)       
+7. [[设计] 微服务横行的今天，你的文档跟上节奏了么？](https://gold.xitu.io/entry/584de6f02f301e005730a4dc)       
+8. [[工具资源] Gomix - 一套完整的线上开发部署平台](https://gold.xitu.io/entry/584d70d00ce463005c5f13d1)       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
+
+       
 ## 第50周文章列表       
 1. [[前端] 《基于 React 的前端工程实战》大纲，也是笔者心中的前端学习路线图](https://gold.xitu.io/entry/58482b3c0ce463005790b50f)       
 2. [[后端] 使用 StatsD + Grafana + InfluxDB 搭建 Node.js 监控系统](https://gold.xitu.io/entry/5846b0c7a22b9d006c328cd2)       
@@ -10,7 +22,7 @@
 8. [[前端] stackoverflow 关于 js 的热门回答](https://gold.xitu.io/entry/584416e6128fe10058a9f503)       
 9. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
 10. [[前端] JavaScript 易错知识点整理](https://gold.xitu.io/entry/5846a331a22b9d006c322299)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
        
 ## 第49周文章列表       
@@ -25,7 +37,7 @@
 8. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
 9. [[前端] 有趣的话题，为什么 jsx 用 classname 而不是 class](http://gold.xitu.io/entry/583ecefe61ff4b006b67b72a)       
 10. [[前端] CSS3 实现的 3D 相册效果](http://gold.xitu.io/entry/58404db4ac502e006cbf2d46)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
        
 ## 第48周文章列表       
@@ -39,7 +51,7 @@
 8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
 9. [[前端] JavaScript 实现点击按钮复制指定区域文本](http://gold.xitu.io/entry/5836aef7ac502e006c05abb6)       
 10. [[前端] JavaScript 时间与日期处理实战: 你肯定被坑过](http://gold.xitu.io/entry/5835b54cc4c9710054a6093c)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
        
 ## 第47周文章列表       
@@ -53,7 +65,7 @@
 8. [[前端] Blueprint - React 前端 UI 库](http://gold.xitu.io/entry/58284fa967f35600587f627f)       
 9. [[后端] Nodejs 基础：路径处理模块 path 总结](http://gold.xitu.io/entry/582caaa32f301e005948bc32)       
 10. [[前端] 前端阅读笔记 2016-11-16 - 我的前端探索 - SegmentFault](http://gold.xitu.io/entry/582c7e11da2f600063db6821)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
        
 ## 第46周文章列表       
@@ -67,5 +79,5 @@
 8. [[前端] [webpack] 你真的知道 css-loader 怎么用吗？](http://gold.xitu.io/entry/5826e755c4c9710054313d6e)       
 9. [[前端] [英] 掌握了这 8 个简单的规则，你就可以构建一个稳固的、可扩展的 CSS 架构了](http://gold.xitu.io/entry/58219292128fe1005a190fd2)       
 10. [[前端] 基础篇章：关于 & nbsp;React Native 之 & nbsp;RefreshControl 组件的讲解](http://gold.xitu.io/entry/5824f9fea22b9d00670a8271)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_50/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
