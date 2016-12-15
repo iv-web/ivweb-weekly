@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第51周文章列表       
-1. [[iOS] ObjC & JavaScript 交互，在恰当的时机注入对象](https://gold.xitu.io/entry/584e8ecc8d6d810054578ae5)       
+1. [[后端] 给 Elasticsearch 和 Kibana 安装 X-Pack](https://gold.xitu.io/entry/584ea1b7128fe1006c92f4c2)       
 2. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 3. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
 4. [[前端] Top JavaScript Frameworks & Topics to Learn in 2017](https://gold.xitu.io/entry/584d6802a22b9d0058e12074)       
@@ -9,7 +9,7 @@
 7. [[设计] 微服务横行的今天，你的文档跟上节奏了么？](https://gold.xitu.io/entry/584de6f02f301e005730a4dc)       
 8. [[工具资源] Gomix - 一套完整的线上开发部署平台](https://gold.xitu.io/entry/584d70d00ce463005c5f13d1)       
 9. [【译】一封写给 JavaScript 女神的信 | James K](https://www.h5jun.com/post/a-email-to-miss-javascript.html)       
-10. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
+10. [[iOS] ObjC & JavaScript 交互，在恰当的时机注入对象](https://gold.xitu.io/entry/584e8ecc8d6d810054578ae5)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_51/)*       
 
        
