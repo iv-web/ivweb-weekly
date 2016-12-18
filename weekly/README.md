@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第51周文章列表       
-1. [[后端] Filter，一种 aop 编程思想的体现](https://gold.xitu.io/entry/58500c19128fe1006c9af44f)       
+1. [[阅读] Introducing the React VR Pre-Release | Oculus](https://gold.xitu.io/entry/585169e061ff4b0063a123b6)       
 2. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 3. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
 4. [[前端] Top JavaScript Frameworks & Topics to Learn in 2017](https://gold.xitu.io/entry/584d6802a22b9d0058e12074)       
