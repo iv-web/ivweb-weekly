@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第52周文章列表       
 1. [[前端] 构建稳固的、可升缩的 CSS 框架的八大原则](https://gold.xitu.io/entry/5856475bac502e0067ec4b2a)       
-2. [[前端] 简单粗暴，一晚上用 node、Vue 写个联机五子棋](https://gold.xitu.io/entry/585690da128fe1006db224fc)       
-3. [[前端] Vuetify - Vue.js 2.0 组建库](https://gold.xitu.io/entry/5858052a128fe1006b805e07)       
+2. [[前端] Vuetify - Vue.js 2.0 组建库](https://gold.xitu.io/entry/5858052a128fe1006b805e07)       
+3. [[前端] 简单粗暴，一晚上用 node、Vue 写个联机五子棋](https://gold.xitu.io/entry/585690da128fe1006db224fc)       
 4. [[前端] 畅想未来的前端周刊（第十二期）](https://gold.xitu.io/entry/585662eeb123db0065722792)       
-5. [[前端] 类垂直站点插件实现与分享](https://gold.xitu.io/entry/5856a8e28e450a006ca10d55)       
-6. [[前端] 不造个轮子，你还真以为你会写代码了？](https://gold.xitu.io/entry/58569fe6128fe1006b6e5226)       
+5. [文章： Reactor实例解析](http://www.infoq.com/cn/articles/handle-data-science?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [[前端] Web Storage 实用指南](https://gold.xitu.io/entry/5857c03a8e450a006c75e932)       
 7. [[前端] 230 行实现一个简单的 MVVM](https://gold.xitu.io/entry/5857e419128fe1006b7f5952)       
-8. [[前端] Web Storage 实用指南](https://gold.xitu.io/entry/5857c03a8e450a006c75e932)       
-9. [[后端] 张大胖改 Bug](https://gold.xitu.io/entry/5857cd6b8e450a006cb10450)       
-10. [[后端] PHP 完整实战 23 种设计模式](https://gold.xitu.io/entry/5857b81b1b69e60056ec2f55)       
+8. [[前端] 类垂直站点插件实现与分享](https://gold.xitu.io/entry/5856a8e28e450a006ca10d55)       
+9. [Facebook开源跨平台前端布局引擎Yoga](http://www.infoq.com/cn/news/2016/12/Facebook-open-front-end-Yoga?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [[阅读] 移动前端自适应解决方案和比较](https://gold.xitu.io/entry/58593a9fac502e00670b29f7)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_52/)*       
 
        
