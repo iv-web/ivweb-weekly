@@ -1,10 +1,15 @@
 # WEEKLY LIST        
 ## 第53周文章列表       
-1. [文章： 小文件大问题——海量小文件解决方案初探](http://www.infoq.com/cn/articles/solution-of-massive-small-files?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 移动视频应用即将迎来高潮](http://www.infoq.com/cn/articles/mobile-video-applications-will-usher-in-climax?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： Mobile Growth的方法和实践](http://www.infoq.com/cn/articles/method-and-practise-of-mobile-growth?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频演讲： 如何支持过千万级高并发消息量——网易IM云服务架构设计与实践](http://www.infoq.com/cn/presentations/how-to-support-tens-of-millions-of-high-concurrent-news?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： Netflix Data Benchmark：云数据存储基准测试](http://www.infoq.com/cn/articles/Netflix-Data-Benchmark-cloud-data-storage-test?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 构建 React 同构应用及优化](http://www.infoq.com/cn/presentations/application-and-optimization-of-constructing-react-isomorphism?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 小文件大问题——海量小文件解决方案初探](http://www.infoq.com/cn/articles/solution-of-massive-small-files?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 移动视频应用即将迎来高潮](http://www.infoq.com/cn/articles/mobile-video-applications-will-usher-in-climax?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： Mobile Growth的方法和实践](http://www.infoq.com/cn/articles/method-and-practise-of-mobile-growth?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 如何支持过千万级高并发消息量——网易IM云服务架构设计与实践](http://www.infoq.com/cn/presentations/how-to-support-tens-of-millions-of-high-concurrent-news?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： Netflix Data Benchmark：云数据存储基准测试](http://www.infoq.com/cn/articles/Netflix-Data-Benchmark-cloud-data-storage-test?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： 腾讯游戏运维服务体系演变史](http://www.infoq.com/cn/articles/tencentgame-opsarchitect-history?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： 又拍云-企业容器私有云架构分享](http://www.infoq.com/cn/presentations/sharing-of-architecture-of-ypyun-container-private-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 跨越篱笆：蘑菇街每秒订单数25倍提升历程](http://www.infoq.com/cn/articles/mogujie-orders-per-second-25-times-enhance?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 增进编程技能的万全之计](http://www.infoq.com/cn/articles/one-sure-fire-way-to-improve-your-coding?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2016/week_53/)*       
 
        
