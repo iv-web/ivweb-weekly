@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第3周文章列表       
-1. [iOS 开发周报：部分用户遭遇 AirPods 充电盒异常掉电问题、微信终端跨平台组件 Mars 开源](http://www.infoq.com/cn/news/2017/01/ios-weekly-AirPods-wechat-Mars?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： Progressive Web App：反击序章](http://www.infoq.com/cn/presentations/progressive-web-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 阿里云、Amazon、Google云数据库方案架构与技术分析](http://www.infoq.com/cn/articles/cloud-database-schema-and-technical-analysis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频演讲： 手淘灵活的容器框架-Atlas](http://www.infoq.com/cn/presentations/shoutao-flexible-container-frame-atlas?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 大数据挖掘更多时间都在于清洗数据](http://www.infoq.com/cn/articles/more-time-of-big-data-mining-is-used-to-clean-the-data?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 让时间倒流的保存点：用Apache Flink的保存点技术重新处理数据流](http://www.infoq.com/cn/articles/turning-back-time-savepoints?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： Java 模块化技术演进和对现有应用微服务化的意义](http://www.infoq.com/cn/presentations/the-evolution-of-java-modular-technology?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [视频演讲： 百度iOS输入法性能优化](http://www.infoq.com/cn/presentations/performance-optimization-of-baidu-ios-input-method?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 亿级用户PC主站的PHP7升级实践](http://www.infoq.com/cn/articles/practice-of-PHP7-upgrade-for-the-PC-master-station?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： 火币：深入理解比特币交易的脚本](http://www.infoq.com/cn/articles/deep-understanding-of-bitcoin-transaction-script?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 浅谈代码复用攻击与防御](http://www.infoq.com/cn/presentations/attack-and-defense-of-code-reuse?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
