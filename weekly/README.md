@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [FEX 技术周刊 - 2017/01/09](http://fex.baidu.com/blog/2017/01/fex-weekly-09//)       
-2. [FEX 技术周刊 - 2017/01/03](http://fex.baidu.com/blog/2017/01/fex-weekly-03//)       
-3. [FEX 技术周刊 - 2016/12/26](http://fex.baidu.com/blog/2016/12/fex-weekly-26//)       
-4. [FEX 技术周刊 - 2016/12/19](http://fex.baidu.com/blog/2016/12/fex-weekly-19//)       
-5. [FEX 技术周刊 - 2016/12/12](http://fex.baidu.com/blog/2016/12/fex-weekly-12//)       
+1. [视频演讲： 构建规模化的企业级风险感知体系](http://www.infoq.com/cn/presentations/the-construction-of-a-large-scale-enterprise-level-risk-perception-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [FEX 技术周刊 - 2017/01/16](http://fex.baidu.com/blog/2017/01/fex-weekly-16//)       
+3. [FEX 技术周刊 - 2017/01/03](http://fex.baidu.com/blog/2017/01/fex-weekly-03//)       
+4. [FEX 技术周刊 - 2016/12/26](http://fex.baidu.com/blog/2016/12/fex-weekly-26//)       
+5. [FEX 技术周刊 - 2016/12/19](http://fex.baidu.com/blog/2016/12/fex-weekly-19//)       
 6. [文章： 区块链：中间件的下一件大事](http://www.infoq.com/cn/articles/blockchain-middleware?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [视频演讲： 移动CDN及直播性能优化](http://www.infoq.com/cn/presentations/performance-optimization-of-mobile-cdn-and-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： 构建规模化的企业级风险感知体系](http://www.infoq.com/cn/presentations/the-construction-of-a-large-scale-enterprise-level-risk-perception-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [FEX 技术周刊 - 2017/01/09](http://fex.baidu.com/blog/2017/01/fex-weekly-09//)       
 9. [文章： 为了可测性而设计](http://www.infoq.com/cn/articles/design-for-testability?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： FinTech带来的挑战与机遇](http://www.infoq.com/cn/presentations/challenges-and-opportunities-brought-by-fintech?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_4/)*       
