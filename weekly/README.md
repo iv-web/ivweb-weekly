@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [React的替代方案Inferno发布1.0版本](http://www.infoq.com/cn/news/2017/01/inferno-1-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 网易蜂巢基于万节点kubernetes支撑大规模云应用实践](http://www.infoq.com/cn/presentations/practice-of-wangyi-support-large-scale-cloud-application?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [FEX 技术周刊 - 2017/01/16](http://fex.baidu.com/blog/2017/01/fex-weekly-16//)       
 3. [FEX 技术周刊 - 2017/01/03](http://fex.baidu.com/blog/2017/01/fex-weekly-03//)       
 4. [FEX 技术周刊 - 2016/12/26](http://fex.baidu.com/blog/2016/12/fex-weekly-26//)       
