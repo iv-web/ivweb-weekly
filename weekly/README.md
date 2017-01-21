@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [Inception：LinkedIn是如何利用异常日志实现服务监控的](http://www.infoq.com/cn/news/2017/01/LinkedIn-Inception-Exception-ser?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： AWS上的深度学习架构](http://www.infoq.com/cn/presentations/deep-learning-architecture-on-aws?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [FEX 技术周刊 - 2017/01/16](http://fex.baidu.com/blog/2017/01/fex-weekly-16//)       
 3. [FEX 技术周刊 - 2017/01/03](http://fex.baidu.com/blog/2017/01/fex-weekly-03//)       
 4. [FEX 技术周刊 - 2016/12/26](http://fex.baidu.com/blog/2016/12/fex-weekly-26//)       
