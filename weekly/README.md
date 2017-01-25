@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第5周文章列表       
-1. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [A Case Study: Is App Indexing For Google Worth The Effort?](https://www.smashingmagazine.com/2017/01/case-study-app-indexing-google-worth-the-effort/)       
-3. [Internationalizing React Apps](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)       
-4. [More Than Just Pretty: How Imagery Drives User Experience](https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/)       
-5. [Designing Better App Icons](https://www.smashingmagazine.com/2017/01/designing-better-app-icons/)       
+1. [【译】征服 JavaScript 面试: 什么是函数式编程？| Eric Elliott](https://www.h5jun.com/post/master-the-javascript-interview-what-is-functional-programming.html)       
+2. [Making Responsive HTML Email Coding Easy With MJML](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)       
+3. [Web Development Reading List #166: Efficient Docker, CSP Learnings, And JavaScript’s Global Object](https://www.smashingmagazine.com/2017/01/web-development-reading-list-166/)       
+4. [Internationalizing React Apps](https://www.smashingmagazine.com/2017/01/internationalizing-react-apps/)       
+5. [More Than Just Pretty: How Imagery Drives User Experience](https://www.smashingmagazine.com/2017/01/more-than-just-pretty-how-imagery-drives-user-experience/)       
 6. [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](http://www.infoq.com/cn/news/2017/01/Ali-9-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： Chaos工程](http://www.infoq.com/cn/articles/chaos-engineering?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Web Development Reading List #166: Efficient Docker, CSP Learnings, And JavaScript’s Global Object](https://www.smashingmagazine.com/2017/01/web-development-reading-list-166/)       
+8. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 2016年区块链技术回顾与总结：联盟链与公有链的分道扬镳](http://www.infoq.com/cn/articles/review-and-summary-of-chain-technology-in-2016?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 京东数据中心网络的高可用架构](http://www.infoq.com/cn/presentations/jingdong-data-center-network-highly-available-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_5/)*       
