@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第6周文章列表       
-1. [40 Moth-free Clothing Icons In 9 Styles](https://www.smashingmagazine.com/2017/01/freebie-clothing-icons-9-styles-ai-eps-svg-png/)       
+1. [Mobile-First Is Just Not Good Enough: Meet Journey-Driven Design](https://www.smashingmagazine.com/2017/02/mobile-first-is-just-not-good-enough-meet-journey-driven-design/)       
 2. [线程笔记：Future模式 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5608663.html)       
 3. [HTML5笔记：跨域通讯、多线程、本地存储和多图片上传技术 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5554530.html)       
 4. [Spark笔记：复杂RDD的API的理解（下） - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5521495.html)       
