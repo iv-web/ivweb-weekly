@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第7周文章列表       
-1. [文章： 书评：实战Apache JMeter](http://www.infoq.com/cn/articles/jmeter-by-example-book-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [使用Teal规范](http://www.infoq.com/cn/news/2017/02/applying-teal-paradigm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [5分钟现场撸代码——谈总结会抽奖程序](https://www.h5jun.com/post/luckey-draw-in-5-minutes.html)       
 3. [为什么 [ ] 是 false 而 !![ ] 是 true](https://www.h5jun.com/post/why-false-why-true.html)       
 4. [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)       
 5. [【译】征服 JavaScript 面试：什么是闭包？](https://www.h5jun.com/post/master-the-javascript-interview-what-is-a-closure.html)       
 6. [视频演讲： 比 Buck 更快——蚂蚁聚宝 Android 秒级编译方案 Freeline](http://www.infoq.com/cn/presentations/android-second-compilation-scheme-freeline?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 2016机器学习大盘点（第3篇）](http://www.infoq.com/cn/articles/2016-machine-learning-market-part03?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [【译】征服 JavaScript 面试: 什么是函数式编程？| Eric Elliott](https://www.h5jun.com/post/master-the-javascript-interview-what-is-functional-programming.html)       
+8. [文章： 书评：实战Apache JMeter](http://www.infoq.com/cn/articles/jmeter-by-example-book-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 处理分布式团队间的文化差异](http://www.infoq.com/cn/articles/culture-distributed-team?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [使用Teal规范](http://www.infoq.com/cn/news/2017/02/applying-teal-paradigm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [【译】征服 JavaScript 面试: 什么是函数式编程？| Eric Elliott](https://www.h5jun.com/post/master-the-javascript-interview-what-is-functional-programming.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_7/)*       
 
        
