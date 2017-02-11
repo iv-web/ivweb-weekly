@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第7周文章列表       
-1. [2016年JavaScript领域中最受欢迎的“明星”们](http://www.infoq.com/cn/news/2017/02/JavaScript-2016-star?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 采访《以魂为中心的领导力》作者之问答](http://www.infoq.com/cn/articles/book-review-soul-centered-leadership?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [5分钟现场撸代码——谈总结会抽奖程序](https://www.h5jun.com/post/luckey-draw-in-5-minutes.html)       
 3. [为什么 [ ] 是 false 而 !![ ] 是 true](https://www.h5jun.com/post/why-false-why-true.html)       
 4. [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)       
