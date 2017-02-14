@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第8周文章列表       
-1. [React v15.4.0](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)       
-2. [Our First 50,000 Stars](https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html)       
+1. [文章： 使用聚合、事件溯源和CQRS开发事务型微服务（第二部分）](http://www.infoq.com/cn/articles/microservices-aggregates-events-cqrs-part-2-richardson?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [React v15.4.0](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)       
 3. [Relay: State of the State](https://facebook.github.io/react/blog/2016/08/05/relay-state-of-the-state.html)       
 4. [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)       
 5. [Mixins Considered Harmful](https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html)       
 6. [视频演讲： 基于大数据的业务风控体系](http://www.infoq.com/cn/presentations/business-risk-control-system-based-on-large-data?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 2016机器学习大盘点（第四篇）](http://www.infoq.com/cn/articles/2016-machine-learning-market-part04?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 使用聚合、事件溯源和CQRS开发事务型微服务（第二部分）](http://www.infoq.com/cn/articles/microservices-aggregates-events-cqrs-part-2-richardson?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Our First 50,000 Stars](https://facebook.github.io/react/blog/2016/09/28/our-first-50000-stars.html)       
 9. [文章： “针对产品负责人的分析技巧”在线课程的问答](http://www.infoq.com/cn/articles/analysis-techniques-product-owners?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频访谈： 李丽：高并发高用户量高存储量场景，建议非关系型数据服务方案](http://www.infoq.com/cn/interviews/interview-with-lili-talk-storage-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_8/)*       
