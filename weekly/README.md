@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第8周文章列表       
-1. [Oracle提醒Java开发者们，很快就没有浏览器可以运行Applets了](http://www.infoq.com/cn/news/2017/02/oracle-java-browser-applet?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 基于容器服务的持续集成与云端交付（一）- 交付之禅](http://www.infoq.com/cn/articles/CICDInCaaS-DeliveryPrinciple?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [React v15.4.0](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)       
 3. [Relay: State of the State](https://facebook.github.io/react/blog/2016/08/05/relay-state-of-the-state.html)       
 4. [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)       
