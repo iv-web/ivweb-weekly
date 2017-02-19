@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第8周文章列表       
-1. [视频演讲： 转型路上，苏宁技术的砥砺与涅槃](http://www.infoq.com/cn/presentations/transformation-road-suning-technology-and-nirvana?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [摩根大通和Intuit将通过API安全地分享数据](http://www.infoq.com/cn/news/2017/02/chase-oxf2?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [React v15.4.0](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)       
 3. [Relay: State of the State](https://facebook.github.io/react/blog/2016/08/05/relay-state-of-the-state.html)       
 4. [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)       
