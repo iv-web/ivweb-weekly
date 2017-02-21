@@ -1,13 +1,15 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [Bootstrap 4 Alpha 6](http://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/)       
-2. [Bootstrap 4 Alpha 5](http://blog.getbootstrap.com/2016/10/19/bootstrap-4-alpha-5/)       
+1. [文章： 基于容器服务的持续集成与云端交付（二）- 多维度打磨交付能力](http://www.infoq.com/cn/articles/CICDInCaaS-ImproveCD?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Bootstrap 4 Alpha 6](http://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/)       
 3. [Bootstrap 4 Alpha 4](http://blog.getbootstrap.com/2016/09/05/bootstrap-4-alpha-4/)       
 4. [Bootstrap 4 Alpha 3](http://blog.getbootstrap.com/2016/07/27/bootstrap-4-alpha-3/)       
 5. [Bootstrap 3.3.7 released](http://blog.getbootstrap.com/2016/07/25/bootstrap-3-3-7-released/)       
 6. [文章： 就《在企业中发起和推广DevOps》的问答](http://www.infoq.com/cn/articles/book-review-scaling-DevOps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 基于容器服务的持续集成与云端交付（二）- 多维度打磨交付能力](http://www.infoq.com/cn/articles/CICDInCaaS-ImproveCD?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [Bootstrap 4 Alpha 5](http://blog.getbootstrap.com/2016/10/19/bootstrap-4-alpha-5/)       
 8. [文章： 真正的投资者如何区分AI的炒作与现实](http://www.infoq.com/cn/articles/how-real-investors-separate-ai-hype-from-reality?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [第二届GMTC全球移动技术大会正式启动  11大技术专场等你来](http://www.infoq.com/cn/news/2017/02/GMTC-2017-launch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [FEX 技术周刊 - 2017/02/20](http://fex.baidu.com/blog/2017/02/fex-weekly-20//)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_9/)*       
 
        
