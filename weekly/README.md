@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [文章： 基于智能手机传感器数据的人类行为识别](http://www.infoq.com/cn/articles/human-behavior-recognition-based-on-smart-phone-sensor-data?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 将持久数据从Redis中迁出](http://www.infoq.com/cn/articles/github-moves-persistent-data-out-of-redis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Bootstrap 4 Alpha 6](http://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/)       
 3. [Bootstrap 4 Alpha 4](http://blog.getbootstrap.com/2016/09/05/bootstrap-4-alpha-4/)       
 4. [Bootstrap 4 Alpha 3](http://blog.getbootstrap.com/2016/07/27/bootstrap-4-alpha-3/)       
