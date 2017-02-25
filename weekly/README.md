@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [文章： 将持久数据从Redis中迁出](http://www.infoq.com/cn/articles/github-moves-persistent-data-out-of-redis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 当互联网金融遇到区块链](http://www.infoq.com/cn/presentations/when-the-internet-financial-encounter-block-chain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Bootstrap 4 Alpha 6](http://blog.getbootstrap.com/2017/01/06/bootstrap-4-alpha-6/)       
 3. [Bootstrap 4 Alpha 4](http://blog.getbootstrap.com/2016/09/05/bootstrap-4-alpha-4/)       
 4. [Bootstrap 4 Alpha 3](http://blog.getbootstrap.com/2016/07/27/bootstrap-4-alpha-3/)       
