@@ -1,15 +1,16 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [编辑精选：2016 年 Web 专区优秀文章](http://www.ibm.com/developerworks/cn/web/wa-2016-web-good-article/index.html?ca=drs-)       
-2. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 4
-        部分: 标准库中的新对象和类型](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p4/index.html?ca=drs-)       
+1. [视频演讲： 证券极速交易系统关键技术分析以及架构实践](http://www.infoq.com/cn/presentations/key-technology-of-the-securities-trading-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [编辑精选：2016 年 Web 专区优秀文章](http://www.ibm.com/developerworks/cn/web/wa-2016-web-good-article/index.html?ca=drs-)       
 3. [一种在 IBM OpenWhisk 中配置和调用操作的简单方法](http://www.ibm.com/developerworks/cn/cloud/library/cl-python-openwhisk-bluemix-trs/index.html?ca=drs-)       
 4. [使用 JQuery Globalization 函数库开发全球化网页应用程序](http://www.ibm.com/developerworks/cn/web/wa-cn-jquery-globalize/index.html?ca=drs-)       
 5. [使用 Bluemix、Watson 和 Apache Cordova 创建混合移动应用程序](http://www.ibm.com/developerworks/cn/mobile/mo-transform-existing-web-app-to-hybrid-mobile/index.html?ca=drs-)       
 6. [文章： GANs将改变世界](http://www.infoq.com/cn/articles/gans-change-the-world?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 我在ThoughtWorks中的敏捷实践](http://www.infoq.com/cn/articles/my-agile-practice-in-thoughtworks?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： 证券极速交易系统关键技术分析以及架构实践](http://www.infoq.com/cn/presentations/key-technology-of-the-securities-trading-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 4
+        部分: 标准库中的新对象和类型](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p4/index.html?ca=drs-)       
 9. [文章： 京东从OpenStack切换到Kubernetes的经验之谈](http://www.infoq.com/cn/articles/jingdong-from-openstack-to-kubernetes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [为IoT应用搭建DevOps管道](http://www.infoq.com/cn/news/2017/02/setting-up-devops-iot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_10/)*       
 
        
