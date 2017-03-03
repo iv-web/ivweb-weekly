@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [文章： JVM为什么需要GC](http://www.infoq.com/cn/articles/why-jvm-need-gc?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Microsoft发布新工具，简化JavaScript Web应用的创建](http://www.infoq.com/cn/news/2017/02/dotnet-new-javascript-spa?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [编辑精选：2016 年 Web 专区优秀文章](http://www.ibm.com/developerworks/cn/web/wa-2016-web-good-article/index.html?ca=drs-)       
 3. [一种在 IBM OpenWhisk 中配置和调用操作的简单方法](http://www.ibm.com/developerworks/cn/cloud/library/cl-python-openwhisk-bluemix-trs/index.html?ca=drs-)       
 4. [使用 JQuery Globalization 函数库开发全球化网页应用程序](http://www.ibm.com/developerworks/cn/web/wa-cn-jquery-globalize/index.html?ca=drs-)       
