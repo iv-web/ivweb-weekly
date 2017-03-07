@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第11周文章列表       
-1. [[前端] React Native 开源项目 - 高仿「ONE· 一个」，兼容 Android、iOS 双平台](http://gold.xitu.io/entry/58169039c4c971005550d50e)       
+1. [视频演讲： React Native 业务实践和性能优化](http://www.infoq.com/cn/presentations/react-native-business-practice-and-performance-optimization?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [在 IBM ODM Decision Server Insights 中给热实体降温](http://www.ibm.com/developerworks/cn/middleware/library/mw-1611-crowther-trs/1611-crowther.html?ca=drs-)       
 3. [使用 Bluemix 在云中创建移动地理围栏应用程序](http://www.ibm.com/developerworks/cn/mobile/mo-mobile-geofencing-apps-cloud-bluemix-trs/index.html?ca=drs-)       
 4. [编辑精选：有关 Bluemix 的强大功能的最受欢迎教程](http://www.ibm.com/developerworks/cn/cloud/library/cl-best-of-bluemix-tutorials-2016-trs/index.html?ca=drs-)       
 5. [探讨当前关于移动应用程序的国际化翻译多元问题](http://www.ibm.com/developerworks/cn/mobile/mo-cn-translation/index.html?ca=drs-)       
 6. [[前端] 给微信小程序开发工具加 “料” 一：获取源码](http://gold.xitu.io/entry/581696afd203090055c69732)       
 7. [[前端] Growth 编程周刊第一期——从零开始学门技术](http://gold.xitu.io/entry/58169375bf22ec006895e8a8)       
-8. [使用 Bluemix、Watson 和 Apache Cordova 创建混合移动应用程序](http://www.ibm.com/developerworks/cn/mobile/mo-transform-existing-web-app-to-hybrid-mobile/index.html?ca=drs-)       
+8. [[前端] React Native 开源项目 - 高仿「ONE· 一个」，兼容 Android、iOS 双平台](http://gold.xitu.io/entry/58169039c4c971005550d50e)       
 9. [[阅读] 关于 Code Review，你「必须」了解的一些关键点……](http://gold.xitu.io/entry/58168f132f301e005ce163f1)       
 10. [[前端] JavaScript 知识点整理](http://gold.xitu.io/entry/58168a3a2e958a00549fa8c3)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_11/)*       
