@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第11周文章列表       
-1. [文章： HDFS NameNode重启优化](http://www.infoq.com/cn/articles/namenode-restart-optimization?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 如何设计一个小而美的秒杀系统？](http://www.infoq.com/cn/articles/how-to-design-a-small-and-beautiful-spike-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [在 IBM ODM Decision Server Insights 中给热实体降温](http://www.ibm.com/developerworks/cn/middleware/library/mw-1611-crowther-trs/1611-crowther.html?ca=drs-)       
 3. [使用 Bluemix 在云中创建移动地理围栏应用程序](http://www.ibm.com/developerworks/cn/mobile/mo-mobile-geofencing-apps-cloud-bluemix-trs/index.html?ca=drs-)       
 4. [编辑精选：有关 Bluemix 的强大功能的最受欢迎教程](http://www.ibm.com/developerworks/cn/cloud/library/cl-best-of-bluemix-tutorials-2016-trs/index.html?ca=drs-)       
