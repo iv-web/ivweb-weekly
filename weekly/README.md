@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [Code Briefing: Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/code-briefing-learn-google-analytics-from-santa-and-his-elves-15219d730068?source=rss----336d898217ee---4)       
-2. [Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/learn-google-analytics-from-santa-and-his-elves-59ea82fbd99a?source=rss----336d898217ee---4)       
+1. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Code Briefing: Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/code-briefing-learn-google-analytics-from-santa-and-his-elves-15219d730068?source=rss----336d898217ee---4)       
 3. [AJAX Explained by Upgrading Your Video Game Character](https://medium.freecodecamp.com/ajax-explained-by-upgrading-your-video-game-character-17d26305163c?source=rss----336d898217ee---4)       
 4. [How to hack together a graphical Python debugger](https://medium.freecodecamp.com/hacking-together-a-simple-graphical-python-debugger-efe7e6b1f9a8?source=rss----336d898217ee---4)       
 5. [Code Briefing: REST in Peace — when to use microservices and when to use monoliths](https://medium.freecodecamp.com/code-briefing-rest-in-peace-when-to-use-microservices-and-when-to-use-monoliths-6a3f8fc7477d?source=rss----336d898217ee---4)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/learn-google-analytics-from-santa-and-his-elves-59ea82fbd99a?source=rss----336d898217ee---4)       
 9. [文章： 历经8年双11流量洗礼，淘宝开放平台如何攻克技术难关？](http://www.infoq.com/cn/articles/taobao-open-platform-overcome-technical-difficulties?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 就欧盟的通用数据保护法规(GDPR)影响采访Immuta](http://www.infoq.com/cn/articles/immuta-gdpr-implications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_12/)*       
