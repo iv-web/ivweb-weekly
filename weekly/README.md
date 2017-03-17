@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [文章： UCloud下一代VPC架构平滑演进方案和技术详解](http://www.infoq.com/cn/articles/ucloud-next-generation-vpc-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [How To Develop An Interactive Command Line Application Using Node.js](https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/)       
 2. [Code Briefing: Learn Google Analytics from Santa and his Elves](https://medium.freecodecamp.com/code-briefing-learn-google-analytics-from-santa-and-his-elves-15219d730068?source=rss----336d898217ee---4)       
 3. [AJAX Explained by Upgrading Your Video Game Character](https://medium.freecodecamp.com/ajax-explained-by-upgrading-your-video-game-character-17d26305163c?source=rss----336d898217ee---4)       
 4. [How to hack together a graphical Python debugger](https://medium.freecodecamp.com/hacking-together-a-simple-graphical-python-debugger-efe7e6b1f9a8?source=rss----336d898217ee---4)       
