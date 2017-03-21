@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7?source=rss----3a8144eabfe3---4)       
-2. [I Made Myself a Smart Mirror](https://hackernoon.com/i-made-myself-a-smart-mirror-50e56966c478?source=rss----3a8144eabfe3---4)       
+1. [视频演讲： 如何打造一个百万亿级的日志搜索引擎：Poseidon](http://www.infoq.com/cn/presentations/how-to-build-a-million-level-log-search-engine-poseidon?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7?source=rss----3a8144eabfe3---4)       
 3. [Probably the best business negotiation talks](https://hackernoon.com/probably-the-best-business-negotiation-talks-2e4f93ab7360?source=rss----3a8144eabfe3---4)       
 4. [GraphQL: Tips after a year in production](https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3?source=rss----3a8144eabfe3---4)       
 5. [The Programmer’s Guide to Booking a Plane](https://hackernoon.com/the-programmers-guide-to-booking-a-plane-11e37d610045?source=rss----3a8144eabfe3---4)       
 6. [文章： 差分隐私简介](http://www.infoq.com/cn/articles/differential-privacy-intro?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 测试工程能力容器化改造方案](http://www.infoq.com/cn/articles/test-engineering-capacity-container-transformation-scheme?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： 如何打造一个百万亿级的日志搜索引擎：Poseidon](http://www.infoq.com/cn/presentations/how-to-build-a-million-level-log-search-engine-poseidon?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [I Made Myself a Smart Mirror](https://hackernoon.com/i-made-myself-a-smart-mirror-50e56966c478?source=rss----3a8144eabfe3---4)       
 9. [文章： 迷失的中层管理者以及使用Kanban逃离无序管理](http://www.infoq.com/cn/articles/agile2016-middle-management-kanban?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 构建高效的私有云平台：今日头条私有云架构设计](http://www.infoq.com/cn/presentations/private-cloud-architecture-of-toutiao?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_13/)*       
