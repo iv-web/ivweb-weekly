@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [塑造Visual Studio的未来](http://www.infoq.com/cn/news/2017/03/visual-studio-preview?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 安卓 APK 的防二次打包解决方案](http://www.infoq.com/cn/presentations/android-apk-anti-two-pack-solution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7?source=rss----3a8144eabfe3---4)       
 3. [Probably the best business negotiation talks](https://hackernoon.com/probably-the-best-business-negotiation-talks-2e4f93ab7360?source=rss----3a8144eabfe3---4)       
 4. [GraphQL: Tips after a year in production](https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3?source=rss----3a8144eabfe3---4)       
