@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [视频演讲： 饿了么微服务负载均衡实践：HAProxy 从使用到放弃](http://www.infoq.com/cn/presentations/hungry-micro-service-load-balancing-practice-haproxy-from-use-to-give-up?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 数据中心的Yarn on Docker集群方案](http://www.infoq.com/cn/articles/YarnOnDocker-forDCCluster?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7?source=rss----3a8144eabfe3---4)       
 3. [Probably the best business negotiation talks](https://hackernoon.com/probably-the-best-business-negotiation-talks-2e4f93ab7360?source=rss----3a8144eabfe3---4)       
 4. [GraphQL: Tips after a year in production](https://hackernoon.com/graphql-tips-after-a-year-in-production-419341db52e3?source=rss----3a8144eabfe3---4)       
