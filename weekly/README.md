@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [从一道坑人的面试题说函数式编程](https://www.h5jun.com/post/parseInt-to-functional.html)       
+1. [Building For Mobile: RWD, PWA, AMP Or Instant Articles?](https://www.smashingmagazine.com/2017/03/building-for-mobile-rwd-pwa-amp-instant-articles/)       
 2. [[Android]  Gradle for Android 系列： Gradle 文件你真的了解吗？](https://gold.xitu.io/entry/585ab6b861ff4b006cc4a1eb)       
 3. [[前端] 减少前端代码耦合](https://gold.xitu.io/entry/585aa547128fe1006dd7b39e)       
 4. [[工具资源] 让 Sublime Text 3 更好的为我们工作 - Sublime Text 3 使用小教程](https://gold.xitu.io/entry/585a9ee8570c35006923160d)       
