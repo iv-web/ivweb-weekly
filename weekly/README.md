@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [Building For Mobile: RWD, PWA, AMP Or Instant Articles?](https://www.smashingmagazine.com/2017/03/building-for-mobile-rwd-pwa-amp-instant-articles/)       
-2. [[Android]  Gradle for Android 系列： Gradle 文件你真的了解吗？](https://gold.xitu.io/entry/585ab6b861ff4b006cc4a1eb)       
-3. [[前端] 减少前端代码耦合](https://gold.xitu.io/entry/585aa547128fe1006dd7b39e)       
-4. [[工具资源] 让 Sublime Text 3 更好的为我们工作 - Sublime Text 3 使用小教程](https://gold.xitu.io/entry/585a9ee8570c35006923160d)       
-5. [[后端] Java 学习记录 -- 参数传递分析](https://gold.xitu.io/entry/585a9e6c61ff4b0063e2591d)       
+1. [文章： 提升运维稳定性的利器——故障复盘](http://www.infoq.com/cn/articles/fault-checking-to-improve-operation-stability?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Image Processing in Javascript](http://blog.webkid.io/image-processing-in-javascript/)       
+3. [React UI Libraries](http://blog.webkid.io/react-ui-libraries/)       
+4. [Brexit in interactive maps and charts](http://blog.webkid.io/brexit-maps-charts/)       
+5. [Document Classification in Javascript](http://blog.webkid.io/document-classification-in-javascript/)       
 6. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 7. [[后端] 广州站｜一场 36 小时的集中脑爆式 Docker 培训课程](http://gold.xitu.io/entry/5817da1fd203090055ce6d40)       
 8. [[后端] 深入了解 Docker 存储驱动](http://gold.xitu.io/entry/5817d929a0bb9f005880bad9)       
