@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [文章： 提升运维稳定性的利器——故障复盘](http://www.infoq.com/cn/articles/fault-checking-to-improve-operation-stability?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [迷你书： 架构师特刊：用户画像实践](http://www.infoq.com/cn/minibooks/profile-in-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Image Processing in Javascript](http://blog.webkid.io/image-processing-in-javascript/)       
 3. [React UI Libraries](http://blog.webkid.io/react-ui-libraries/)       
 4. [Brexit in interactive maps and charts](http://blog.webkid.io/brexit-maps-charts/)       
