@@ -1,6 +1,8 @@
 # WEEKLY LIST        
 ## 第15周文章列表       
 1. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： 应对持续交付实施挑战的策略](http://www.infoq.com/cn/presentations/strategies-for-coping-with-continuous-delivery-challenges?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_15/)*       
 
        
