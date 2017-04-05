@@ -3,6 +3,11 @@
 1. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [视频演讲： 应对持续交付实施挑战的策略](http://www.infoq.com/cn/presentations/strategies-for-coping-with-continuous-delivery-challenges?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [How To Secure Your Web App With HTTP Headers](https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/)       
+4. [视频演讲： 计算广告的训练和平滑思想](http://www.infoq.com/cn/presentations/calculate-the-training-and-smoothing-of-advertising?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： NanoNets：数据不足时如何深度学习](http://www.infoq.com/cn/articles/how-to-learn-when-the-data-is-insufficient?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 首届TensorFlow开发者大会：TensorFlow发展这一年来的总结](http://www.infoq.com/cn/articles/tensorflow-development-this-year?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： 用深度学习技术来找到Yelp上的美图](http://www.infoq.com/cn/articles/finding-beautiful-yelp-photos-use-deep-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： Evernote从自有数据中心到Google云的迁移-第2篇](http://www.infoq.com/cn/articles/migration-of-evernote-to-google-cloud-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_15/)*       
 
        
