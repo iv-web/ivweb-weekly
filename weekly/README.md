@@ -2,13 +2,13 @@
 ## 第15周文章列表       
 1. [CSS in JS 简介](http://www.ruanyifeng.com/blog/2017/04/css_in_js.html)       
 2. [前端每周清单第 7 期：Next 2.0 发布，Safari 10.1 新增系列重要特性，Vue.js 2.2 完整API 手册](http://www.infoq.com/cn/news/2017/04/FE-Weekly-7?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： Protobuf 有没有比 JSON 快 5 倍？](http://www.infoq.com/cn/articles/json-is-5-times-faster-than-protobuf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [第三届360前端星计划在线作业题](https://www.h5jun.com/post/75team-star-handlock.html)       
-6. [视频演讲： Golang+Lua 在京东前端业务系统中最佳实践](http://www.infoq.com/cn/presentations/golang-lua-in-Jingdong-front-end-business-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 用深度学习技术来找到Yelp上的美图](http://www.infoq.com/cn/articles/finding-beautiful-yelp-photos-use-deep-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： Evernote从自有数据中心到Google云的迁移-第2篇](http://www.infoq.com/cn/articles/migration-of-evernote-to-google-cloud-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [物联网技术周报第 85 期: W3C万维物联网（WoT）工作组已开展工作](http://www.infoq.com/cn/news/2017/04/iot-weekly-85?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： Protobuf 有没有比 JSON 快 5 倍？](http://www.infoq.com/cn/articles/json-is-5-times-faster-than-protobuf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [#329: An opinionated comparison of React, Angular and Aurelia](http://javascriptweekly.com/issues/329)       
+5. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [React v15.5.0](https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html)       
+7. [第三届360前端星计划在线作业题](https://www.h5jun.com/post/75team-star-handlock.html)       
+8. [视频演讲： Golang+Lua 在京东前端业务系统中最佳实践](http://www.infoq.com/cn/presentations/golang-lua-in-Jingdong-front-end-business-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 一个云管理平台的架构与功能设计经验谈](http://www.infoq.com/cn/articles/cloud-manage-platform-arch-and-function?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [Creating One Browser Extension For All Browsers: Edge, Chrome, Firefox, Opera, Brave And Vivaldi](https://www.smashingmagazine.com/2017/04/browser-extension-edge-chrome-firefox-opera-brave-vivaldi/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_15/)*       
 
