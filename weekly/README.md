@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第16周文章列表       
 1. [Next.js 2.0添加所需功能而不失简洁](http://www.infoq.com/cn/news/2017/04/next-js-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： Ruff：IoT 开发也敏捷？](http://www.infoq.com/cn/presentations/ruff-iot-development-is-also-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [IaaS市场不是只有一种形态 企业级IaaS是刚需](http://www.infoq.com/cn/news/2017/04/IaaS-enterprises-rigid-demand?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [分布式调度中间件Elastic-Job 2.1.0发布：Cloud Native里程碑版本](http://www.infoq.com/cn/news/2017/04/Elastic-Job-2.1.0?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [视频演讲： 到家立体化监控平台](http://www.infoq.com/cn/presentations/daojia-monitoring-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： Hive事务管理避坑指南](http://www.infoq.com/cn/articles/guide-of-hive-transaction-management?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： Google 内部是如何实施大规模前端项目的](http://www.infoq.com/cn/presentations/how-to-implement-a-large-scale-front-end-project-in-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 阿里Goldeneye业务监控平台之架构演进，如何实时处理100T+/天的日志量？](http://www.infoq.com/cn/articles/how-to-deal-with-100t-one-day-log?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [视频演讲： 到家立体化监控平台](http://www.infoq.com/cn/presentations/daojia-monitoring-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： Hive事务管理避坑指南](http://www.infoq.com/cn/articles/guide-of-hive-transaction-management?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [视频演讲： Ruff：IoT 开发也敏捷？](http://www.infoq.com/cn/presentations/ruff-iot-development-is-also-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [迷你书： 架构师（2017年4月）](http://www.infoq.com/cn/minibooks/architect-201704?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 阿里Goldeneye业务监控平台之架构演进，如何实时处理100T+/天的日志量？](http://www.infoq.com/cn/articles/how-to-deal-with-100t-one-day-log?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [IaaS市场不是只有一种形态 企业级IaaS是刚需](http://www.infoq.com/cn/news/2017/04/IaaS-enterprises-rigid-demand?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 智能的供应链——阿里智慧供应链中台2.0](http://www.infoq.com/cn/presentations/alibaba-smart-supply-chain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： iOS持续集成：Xcode Server、Jenkins、Travis和fastlane](http://www.infoq.com/cn/articles/ios-code-server-jenkins-travis-fastlane?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_16/)*       
