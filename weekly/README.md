@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第16周文章列表       
 1. [Next.js 2.0添加所需功能而不失简洁](http://www.infoq.com/cn/news/2017/04/next-js-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： Google 内部是如何实施大规模前端项目的](http://www.infoq.com/cn/presentations/how-to-implement-a-large-scale-front-end-project-in-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [分布式调度中间件Elastic-Job 2.1.0发布：Cloud Native里程碑版本](http://www.infoq.com/cn/news/2017/04/Elastic-Job-2.1.0?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频演讲： 到家立体化监控平台](http://www.infoq.com/cn/presentations/daojia-monitoring-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： Hive事务管理避坑指南](http://www.infoq.com/cn/articles/guide-of-hive-transaction-management?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
+4. [视频演讲： Google 内部是如何实施大规模前端项目的](http://www.infoq.com/cn/presentations/how-to-implement-a-large-scale-front-end-project-in-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： HDFS Federation在美团点评的应用与改进](http://www.infoq.com/cn/articles/application-and-improve-of-hdfs-federation-in-meituan?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： Ruff：IoT 开发也敏捷？](http://www.infoq.com/cn/presentations/ruff-iot-development-is-also-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [迷你书： 架构师（2017年4月）](http://www.infoq.com/cn/minibooks/architect-201704?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 阿里Goldeneye业务监控平台之架构演进，如何实时处理100T+/天的日志量？](http://www.infoq.com/cn/articles/how-to-deal-with-100t-one-day-log?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
