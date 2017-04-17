@@ -4,11 +4,11 @@
 2. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
 4. [#330: Prettier 1.0, What is GraphQL, and Crockford's Post JavaScript Apocalypse](http://javascriptweekly.com/issues/330)       
-5. [视频演讲： Google 内部是如何实施大规模前端项目的](http://www.infoq.com/cn/presentations/how-to-implement-a-large-scale-front-end-project-in-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Apple计划开发完全定制的GPU架构](http://www.infoq.com/cn/news/2017/04/apple-custom-gpu-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [迷你书： 架构师（2017年4月）](http://www.infoq.com/cn/minibooks/architect-201704?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 阿里Goldeneye业务监控平台之架构演进，如何实时处理100T+/天的日志量？](http://www.infoq.com/cn/articles/how-to-deal-with-100t-one-day-log?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [视频演讲： 智能的供应链——阿里智慧供应链中台2.0](http://www.infoq.com/cn/presentations/alibaba-smart-supply-chain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [#330: Prettier 1.0, What is GraphQL, and Crockford's Post JavaScript Apocalypse](http://javascriptweekly.com/issues/330)       
+7. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
+8. [视频演讲： Google 内部是如何实施大规模前端项目的](http://www.infoq.com/cn/presentations/how-to-implement-a-large-scale-front-end-project-in-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： Spark性能调优之道——解决Spark数据倾斜（Data Skew）的N种姿势](http://www.infoq.com/cn/articles/the-road-of-spark-performance-tuning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： iOS持续集成：Xcode Server、Jenkins、Travis和fastlane](http://www.infoq.com/cn/articles/ios-code-server-jenkins-travis-fastlane?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_16/)*       
 
