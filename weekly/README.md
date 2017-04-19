@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第17周文章列表       
 1. [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)       
-2. [FEX 技术周刊 - 2017/04/17](http://fex.baidu.com/blog/2017/04/fex-weekly-17//)       
+2. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [iOS 开发周报：迪拜独特艺术长廊 Apple Store 建成、使用 Visual Studio Code 编写 Swift 代码](http://www.infoq.com/cn/news/2017/04/ios-weekly-Visual-Studio-Code-Sw?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Android开发周报：Android份额超越Windows、Apk瘦身探索](http://www.infoq.com/cn/news/2017/04/Android-weekly-over-windows?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Microsoft对Azure Functions添加了Application Insights的支持](http://www.infoq.com/cn/news/2017/04/Azure-Functions-Insight?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： 无服务器计算的未来](http://www.infoq.com/cn/articles/future-serverless?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [视频演讲： 外卖物流配送的大数据创新实践](http://www.infoq.com/cn/presentations/big-data-innovation-practice-of-take-out-logistics-distribution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： QQ红包技术方案全解密](http://www.infoq.com/cn/articles/qq-red-envelopes-technology-program?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [FEX 技术周刊 - 2017/04/17](http://fex.baidu.com/blog/2017/04/fex-weekly-17//)       
 9. [文章： 秒杀系统的架构解决之道](http://www.infoq.com/cn/articles/solution-to-the-architecture-of-spike-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 拥抱创新：移动平台创新玩法架构与实践](http://www.infoq.com/cn/presentations/architecture-and-practice-of-mobile-platform-innovation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_17/)*       
