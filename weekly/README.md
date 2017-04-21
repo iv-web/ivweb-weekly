@@ -1,11 +1,11 @@
 # WEEKLY LIST        
 ## 第17周文章列表       
-1. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [前端每周清单第9期：向重度 jQuery 开发者介绍Vue.js；React Studio 1.0.2、ECharts GL 1.0 alpha、Prettier 1.0、Meteor 1.4.4发布](http://www.infoq.com/cn/news/2017/04/Front-end-weekly-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)       
-3. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)       
+3. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)       
-5. [文章： 借助性能优化促进用户数增长](http://www.infoq.com/cn/articles/driving-user-growth-with-performance-improvements?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Microsoft对Azure Functions添加了Application Insights的支持](http://www.infoq.com/cn/news/2017/04/Azure-Functions-Insight?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)       
+6. [Phantom.js维护者退出，项目的未来成疑](http://www.infoq.com/cn/news/2017/04/Phantomjs-future-uncertain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [视频演讲： 外卖物流配送的大数据创新实践](http://www.infoq.com/cn/presentations/big-data-innovation-practice-of-take-out-logistics-distribution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： QQ红包技术方案全解密](http://www.infoq.com/cn/articles/qq-red-envelopes-technology-program?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 秒杀系统的架构解决之道](http://www.infoq.com/cn/articles/solution-to-the-architecture-of-spike-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
