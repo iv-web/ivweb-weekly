@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第18周文章列表       
-1. [文章： Transcrypt：剖析Python转JavaScript编译器](http://www.infoq.com/cn/articles/transcrypt-python-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Slack从JavaScript切换至TypeScript](http://www.infoq.com/cn/news/2017/04/going-typescript-slack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [熵：宇宙的终极规则](http://www.ruanyifeng.com/blog/2017/04/entropy.html)       
-4. [视频演讲： 产品思维和设计思维详解](http://www.infoq.com/cn/presentations/product-thinking-and-design-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 深度学习利器： TensorFlow系统架构及高性能程序设计](http://www.infoq.com/cn/articles/tensorflow-architecture-and-programming?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： DevOps详解](http://www.infoq.com/cn/articles/detail-analysis-of-devops?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [视频演讲： 基于视频大数据和人工智能的新天网](http://www.infoq.com/cn/presentations/network-base-on-video-big-data-and-artificial-intelligence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [微软宣布Azure Service Fabric SDK开源](http://www.infoq.com/cn/news/2017/04/service-fabric-sdk-open-source?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [前端每周清单第10期：Firefox 53、React VR发布、JS测试技术概述、Microsoft Edge现代DOM树构建及性能之道](http://www.infoq.com/cn/news/2017/04/Front-end-weekly-10?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： Transcrypt：剖析Python转JavaScript编译器](http://www.infoq.com/cn/articles/transcrypt-python-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Slack从JavaScript切换至TypeScript](http://www.infoq.com/cn/news/2017/04/going-typescript-slack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [微软宣布Azure Service Fabric SDK开源](http://www.infoq.com/cn/news/2017/04/service-fabric-sdk-open-source?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 基于视频大数据和人工智能的新天网](http://www.infoq.com/cn/presentations/network-base-on-video-big-data-and-artificial-intelligence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [熵：宇宙的终极规则](http://www.ruanyifeng.com/blog/2017/04/entropy.html)       
+7. [文章： 深度学习利器： TensorFlow系统架构及高性能程序设计](http://www.infoq.com/cn/articles/tensorflow-architecture-and-programming?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： 产品思维和设计思维详解](http://www.infoq.com/cn/presentations/product-thinking-and-design-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 如何从业务和平台两方面入手，设计更具可靠性的微服务](http://www.infoq.com/cn/articles/design-a-more-reliable-micro-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [谷歌的Fuchsia：一个新的操作系统](http://www.infoq.com/cn/news/2017/04/Fuchsia-Google-OS?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_18/)*       
