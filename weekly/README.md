@@ -5,7 +5,7 @@
 3. [文章： Transcrypt：剖析Python转JavaScript编译器](http://www.infoq.com/cn/articles/transcrypt-python-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Slack从JavaScript切换至TypeScript](http://www.infoq.com/cn/news/2017/04/going-typescript-slack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 四个Webix实例：生成多种类型的JavaScript列表](http://www.infoq.com/cn/articles/javascript-lists-with-webix?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： 无论成败：Selenium脚本在随机测试中的复用](http://www.infoq.com/cn/articles/selenium-scripts-random?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Marcin Grzejszczak访谈：Spring Cloud Contract](http://www.infoq.com/cn/news/2017/04/spring-cloud-contract?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 深度学习利器： TensorFlow系统架构及高性能程序设计](http://www.infoq.com/cn/articles/tensorflow-architecture-and-programming?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [微软宣布Azure Service Fabric SDK开源](http://www.infoq.com/cn/news/2017/04/service-fabric-sdk-open-source?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 如何从业务和平台两方面入手，设计更具可靠性的微服务](http://www.infoq.com/cn/articles/design-a-more-reliable-micro-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
