@@ -1,12 +1,15 @@
 # WEEKLY LIST        
 ## 第19周文章列表       
-1. [视频演讲： Spotify 是如何管理软件开发团队的](http://www.infoq.com/cn/presentations/how-spotify-manages-the-software-development-team?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [All Things Seem Possible In May! Unique Wallpapers To Freshen Up Your Desktop](https://www.smashingmagazine.com/2017/04/desktop-wallpaper-calendars-may-2017/)       
+1. [视频演讲： Spotify-广告系统架构演进](http://www.infoq.com/cn/presentations/spotify-advertising-system-arch-evolution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： Spotify 是如何管理软件开发团队的](http://www.infoq.com/cn/presentations/how-spotify-manages-the-software-development-team?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [Fish shell 入门教程](http://www.ruanyifeng.com/blog/2017/05/fish_shell.html)       
 4. [文章： 信息架构（IA）之不存，人工智能（AI）将焉附](http://www.infoq.com/cn/articles/artificial-intelligence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 深度学习指南：在iOS平台上使用TensorFlow](http://www.infoq.com/cn/articles/getting-started-with-tensorflow-on-ios?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： MIP移动页面加速器的架构与原理](http://www.infoq.com/cn/presentations/arch-and-principle-of-mip-mobile-page-accelerator?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [视频演讲： Spotify-广告系统架构演进](http://www.infoq.com/cn/presentations/spotify-advertising-system-arch-evolution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [All Things Seem Possible In May! Unique Wallpapers To Freshen Up Your Desktop](https://www.smashingmagazine.com/2017/04/desktop-wallpaper-calendars-may-2017/)       
+8. [视频演讲： PWA的探索与实践](http://www.infoq.com/cn/presentations/exploration-and-practice-of-pwa?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [FEX 技术周刊 - 2017/05/02](http://fex.baidu.com/blog/2017/05/fex-weekly-02//)       
+10. [文章： The Rise and Fall of Software Recipes作者访谈](http://www.infoq.com/cn/articles/book-review-rise-software-recipes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_19/)*       
 
        
