@@ -5,6 +5,11 @@
 3. [视频演讲： 多维度实时可视化分析](http://www.infoq.com/cn/presentations/multi-dimensional-real-time-visualization-analysis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [红帽峰会2017第三天回顾：自动化的未来](http://www.infoq.com/cn/news/2017/05/rhsummit-2017-day3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： Uber如何在生产环境中部署IPv6](http://www.infoq.com/cn/articles/how-uber-deploy-ipv6-in-a-production-environment?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [FEX 技术周刊 - 2017/05/08](http://fex.baidu.com/blog/2017/05/fex-weekly-08//)       
+7. [文章： 实战大规模敏捷](http://www.infoq.com/cn/articles/agile-scaling-action?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 深入浅出Tensorflow（四）：卷积神经网络](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part4?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [视频演讲： 深度学习框架的性能优化及其在医药行业的应用实践](http://www.infoq.com/cn/presentations/deep-learning-optimization-in-pharmaceutical-industry?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Android开发周报：不使用虚拟机的Kotlin发布、Android方法数杂谈](http://www.infoq.com/cn/news/2017/05/Android-weekly-Kotlin-way?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_20/)*       
 
        
