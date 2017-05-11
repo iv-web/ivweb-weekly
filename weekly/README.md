@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第20周文章列表       
-1. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
-3. [文章： 深入浅出Tensorflow（四）：卷积神经网络](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part4?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [深入了解React新引擎：React Fiber](http://www.infoq.com/cn/news/2017/05/react-fiber-closer-look?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
 4. [红帽峰会2017第三天回顾：自动化的未来](http://www.infoq.com/cn/news/2017/05/rhsummit-2017-day3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： Uber如何在生产环境中部署IPv6](http://www.infoq.com/cn/articles/how-uber-deploy-ipv6-in-a-production-environment?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [FEX 技术周刊 - 2017/05/08](http://fex.baidu.com/blog/2017/05/fex-weekly-08//)       
 7. [文章： 实战大规模敏捷](http://www.infoq.com/cn/articles/agile-scaling-action?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [迷你书： 架构师（2017年5月）](http://www.infoq.com/cn/minibooks/architect-201705?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 深入浅出Tensorflow（四）：卷积神经网络](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part4?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 深度学习框架的性能优化及其在医药行业的应用实践](http://www.infoq.com/cn/presentations/deep-learning-optimization-in-pharmaceutical-industry?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [Android开发周报：不使用虚拟机的Kotlin发布、Android方法数杂谈](http://www.infoq.com/cn/news/2017/05/Android-weekly-Kotlin-way?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_20/)*       
