@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第20周文章列表       
 1. [深入了解React新引擎：React Fiber](http://www.infoq.com/cn/news/2017/05/react-fiber-closer-look?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
-4. [ReactorKit：iOS单向数据流架构](http://www.infoq.com/cn/news/2017/05/ReactorKit-iOS-data-flow-danxian?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 数据伸缩性和可用性的实现之路](http://www.infoq.com/cn/articles/scalability-and-availability-of-data-stores?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [FEX 技术周刊 - 2017/05/08](http://fex.baidu.com/blog/2017/05/fex-weekly-08//)       
-7. [文章： 实战大规模敏捷](http://www.infoq.com/cn/articles/agile-scaling-action?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [使用 Node.js 对文本内容分词和关键词抽取](https://www.h5jun.com/post/segment-with-nodejs.html)       
+3. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
+5. [ReactorKit：iOS单向数据流架构](http://www.infoq.com/cn/news/2017/05/ReactorKit-iOS-data-flow-danxian?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Web Development Reading List #182: IPFS Wikipedia, New Webpack CLI, And CSS Grid Breakout](https://www.smashingmagazine.com/2017/05/web-development-reading-list-182/)       
+7. [JavaScript编译器Prepack：旨在减少启动时间](http://www.infoq.com/cn/news/2017/05/prepack-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 深入浅出Tensorflow（四）：卷积神经网络](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part4?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 深度学习框架的性能优化及其在医药行业的应用实践](http://www.infoq.com/cn/presentations/deep-learning-optimization-in-pharmaceutical-industry?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [Android开发周报：不使用虚拟机的Kotlin发布、Android方法数杂谈](http://www.infoq.com/cn/news/2017/05/Android-weekly-Kotlin-way?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
