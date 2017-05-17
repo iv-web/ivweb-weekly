@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第21周文章列表       
 1. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
-2. [视频演讲： 从容创业，冲突、客户、团队的打磨之路](http://www.infoq.com/cn/presentations/easy-to-start-conflict-customers-the-team-road-to-polish?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： Building Security——构筑坚若磐石的安全软件](http://www.infoq.com/cn/presentations/building-security-build-a-hard-rock-security-software?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： C# 7编程模式与实践](http://www.infoq.com/cn/articles/Patterns-Practices-CSharp-7?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： serf中去中心化系统的原理和实现](http://www.infoq.com/cn/articles/principle-and-impleme-of-de-centering-system-in-serf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： 从分布式到云端服务：Spanner成长之路](http://www.infoq.com/cn/articles/growth-path-of-spanner?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
+3. [视频演讲： 德比软件数据对接平台高可用架构实践](http://www.infoq.com/cn/presentations/high-availability-architecture-of-the-software-platform-for-software-docking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： serf中去中心化系统的原理和实现](http://www.infoq.com/cn/articles/principle-and-impleme-of-de-centering-system-in-serf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： 从分布式到云端服务：Spanner成长之路](http://www.infoq.com/cn/articles/growth-path-of-spanner?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [视频演讲： 从容创业，冲突、客户、团队的打磨之路](http://www.infoq.com/cn/presentations/easy-to-start-conflict-customers-the-team-road-to-polish?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)       
-8. [视频演讲： 德比软件数据对接平台高可用架构实践](http://www.infoq.com/cn/presentations/high-availability-architecture-of-the-software-platform-for-software-docking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： Building Security——构筑坚若磐石的安全软件](http://www.infoq.com/cn/presentations/building-security-build-a-hard-rock-security-software?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 付钱拉金融云系统架构演进和最佳实践](http://www.infoq.com/cn/presentations/pay-financial-cloud-system-architecture-evolution-and-best-practices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 全球最大游戏网站运维过程中积累的SRE经验](http://www.infoq.com/cn/articles/world-largest-gaming-site-sre-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_21/)*       
