@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第21周文章列表       
-1. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
-2. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
+1. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
+2. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
 3. [最终，JavaScript成为了一流语言](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Shoutem旨在成为React Native移动应用领域的WordPress](http://www.infoq.com/cn/news/2017/05/shoutem-react-native-mobile-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 从分布式到云端服务：Spanner成长之路](http://www.infoq.com/cn/articles/growth-path-of-spanner?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： Spark Streaming中流式计算的困境与解决之道](http://www.infoq.com/cn/articles/dilemma-and-solution-streaming-computing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 从容创业，冲突、客户、团队的打磨之路](http://www.infoq.com/cn/presentations/easy-to-start-conflict-customers-the-team-road-to-polish?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)       
 8. [视频演讲： 德比软件数据对接平台高可用架构实践](http://www.infoq.com/cn/presentations/high-availability-architecture-of-the-software-platform-for-software-docking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
