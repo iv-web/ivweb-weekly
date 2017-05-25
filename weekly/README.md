@@ -1,10 +1,15 @@
 # WEEKLY LIST        
 ## 第22周文章列表       
-1. [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)       
-2. [文章： 为异构的大数据运行环境构建数据管道](http://www.infoq.com/cn/articles/big-data-processing-building-pipelines?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： 公共安全领域智能积分模型构建](http://www.infoq.com/cn/presentations/intelligent-integral-model-in-public-security-field?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 可预测的敏捷交付：管理挑战](http://www.infoq.com/cn/articles/predictable-agile-delivery-executive-challenge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [FEX 技术周刊 - 2017/05/22](http://fex.baidu.com/blog/2017/05/fex-weekly-22//)       
+1. [前端每周清单第14期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-14?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)       
+3. [文章： 为异构的大数据运行环境构建数据管道](http://www.infoq.com/cn/articles/big-data-processing-building-pipelines?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [视频演讲： 公共安全领域智能积分模型构建](http://www.infoq.com/cn/presentations/intelligent-integral-model-in-public-security-field?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： 可预测的敏捷交付：管理挑战](http://www.infoq.com/cn/articles/predictable-agile-delivery-executive-challenge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [FEX 技术周刊 - 2017/05/22](http://fex.baidu.com/blog/2017/05/fex-weekly-22//)       
+7. [文章： “从此社区再无 Docker？” 那 “Moby” 又是什么？](http://www.infoq.com/cn/articles/no-docker-in-the-community-moby?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 60分钟搞定，基于ResNet和Azure GPU加速的肺癌CT图像识别](http://www.infoq.com/cn/articles/resnet-azure-gpu?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_22/)*       
 
        
