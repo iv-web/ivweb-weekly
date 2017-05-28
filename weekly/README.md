@@ -1,8 +1,8 @@
 # WEEKLY LIST        
 ## 第22周文章列表       
 1. [前端每周清单第14期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-14?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [计算机视觉研究突飞猛进，走向实用仍任重道远](http://www.infoq.com/cn/news/2017/05/computer-vision-leap-bound-use?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： 公共安全领域智能积分模型构建](http://www.infoq.com/cn/presentations/intelligent-integral-model-in-public-security-field?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [智能时代的大前端：GMTC2017全球移动技术大会](http://www.infoq.com/cn/news/2017/05/gmtc-2017-bj?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 人工智能与软件架构](http://www.infoq.com/cn/articles/artificial-intelligence-and-software-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 可预测的敏捷交付：管理挑战](http://www.infoq.com/cn/articles/predictable-agile-delivery-executive-challenge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [FEX 技术周刊 - 2017/05/22](http://fex.baidu.com/blog/2017/05/fex-weekly-22//)       
 6. [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)       
