@@ -1,6 +1,8 @@
 # WEEKLY LIST        
 ## 第23周文章列表       
 1. [视频演讲： Java 9 新特性介绍及 Jigsaw 一览](http://www.infoq.com/cn/presentations/introduction-of-java9-new-features-jigsaw?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： 如何利用 AWS 搭建跨地区应用](http://www.infoq.com/cn/presentations/how-use-aws-build-cross-regional-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [How To Build Your Own Action For Google Home Using API.AI](https://www.smashingmagazine.com/2017/05/build-action-google-home-api-ai/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_23/)*       
 
        
