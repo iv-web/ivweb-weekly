@@ -1,13 +1,15 @@
 # WEEKLY LIST        
 ## 第23周文章列表       
 1. [Developing A Chatbot Using Microsoft’s Bot Framework, LUIS And Node.js (Part 1)](https://www.smashingmagazine.com/2017/05/chatbot-microsoft-bot-framework-luis-nodejs-part1/)       
-2. [视频演讲： Java 9 新特性介绍及 Jigsaw 一览](http://www.infoq.com/cn/presentations/introduction-of-java9-new-features-jigsaw?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： 如何利用 AWS 搭建跨地区应用](http://www.infoq.com/cn/presentations/how-use-aws-build-cross-regional-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [How To Build Your Own Action For Google Home Using API.AI](https://www.smashingmagazine.com/2017/05/build-action-google-home-api-ai/)       
+2. [文章： 深入浅出Tensorflow（五）：循环神经网络简介](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part05?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [How To Build Your Own Action For Google Home Using API.AI](https://www.smashingmagazine.com/2017/05/build-action-google-home-api-ai/)       
+4. [视频演讲： Java 9 新特性介绍及 Jigsaw 一览](http://www.infoq.com/cn/presentations/introduction-of-java9-new-features-jigsaw?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 360 Wonder监控系统，设计和开发经验之谈](http://www.infoq.com/cn/articles/360-wonder-monitoring-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： 用Apache Spark进行大数据处理 - 第六部分: 用Spark GraphX进行图数据分析](http://www.infoq.com/cn/articles/apache-spark-graphx?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 深入浅出Tensorflow（五）：循环神经网络简介](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part05?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [视频演讲： 如何利用 AWS 搭建跨地区应用](http://www.infoq.com/cn/presentations/how-use-aws-build-cross-regional-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 使用Amazon ECS构建容器化的深度学习平台](http://www.infoq.com/cn/presentations/use-amazon-ecs-to-build-a-container-deep-learning-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [视频演讲： Tera在百亿级实时搜索架构中的应用](http://www.infoq.com/cn/presentations/tera-in-the-ten-thousand-level-real-time-search-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [XOR 加密简介](http://www.ruanyifeng.com/blog/2017/05/xor.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_23/)*       
 
        
