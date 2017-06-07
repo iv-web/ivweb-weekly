@@ -1,9 +1,15 @@
 # WEEKLY LIST        
 ## 第24周文章列表       
-1. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 焕然一新的Mesos](http://www.infoq.com/cn/articles/talk-about-new-mesos?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： AWS 数据中心与 VPC 揭秘](http://www.infoq.com/cn/presentations/aws-data-center-and-vpc-secret?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [文章： 深入浅出时序数据库之压缩篇](http://www.infoq.com/cn/articles/condense-in-sequential-databases?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [视频演讲： 移动 App 性能监测](http://www.infoq.com/cn/presentations/mobile-app-performance-monitoring-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [从责任界定和问题预警角度 解读全栈溯源对DevOps的价值](http://www.infoq.com/cn/news/2017/06/APM-tingyun-DevOps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [FEX 技术周刊 - 2017/06/05](http://fex.baidu.com/blog/2017/06/fex-weekly-05//)       
+7. [文章： nginScript系列：通过TCP负载均衡和Galera集群来扩展MySQL](http://www.infoq.com/cn/articles/introduction-to-nginscript-part03?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 焕然一新的Mesos](http://www.infoq.com/cn/articles/talk-about-new-mesos?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 共享行业的分布式MQTT设计](http://www.infoq.com/cn/articles/distributed-mqtt-design-for-shared-industries?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_24/)*       
 
        
