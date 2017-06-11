@@ -3,7 +3,7 @@
 1. [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-16?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
-4. [文章： CVaaS计算机视觉即服务 ——从算法,应用到服务的技术演变](http://www.infoq.com/cn/articles/cvaas-computer-vision-as-a-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [从责任界定和问题预警角度 解读全栈溯源对DevOps的价值](http://www.infoq.com/cn/news/2017/06/APM-tingyun-DevOps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [FEX 技术周刊 - 2017/06/05](http://fex.baidu.com/blog/2017/06/fex-weekly-05//)       
 7. [文章： nginScript系列：通过TCP负载均衡和Galera集群来扩展MySQL](http://www.infoq.com/cn/articles/introduction-to-nginscript-part03?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
