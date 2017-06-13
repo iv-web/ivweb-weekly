@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第25周文章列表       
-1. [[前端] AMP 如何为网络广告构建用户体验优先的生态系统？](http://gold.xitu.io/entry/58195c69570c350060827dcf)       
+1. [视频演讲： 灵雀云容器化持续交付实践](http://www.infoq.com/cn/presentations/practice-of-persistent-delivery-of-the-spirit-cloud-container?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [[Android] Android 性能优化之利用 LeakCanary 检测内存泄漏及解决办法](http://gold.xitu.io/entry/5817e6e0a0bb9f005880fc5d)       
 3. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
 4. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
 5. [[工具资源] 在 Centos7 中安装 Node.js](http://gold.xitu.io/entry/5819576a570c3500608252b6)       
 6. [[前端] 构建流式应用—RxJS 详解](http://gold.xitu.io/entry/58193bd4a0bb9f00588aa212)       
-7. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
+7. [[前端] AMP 如何为网络广告构建用户体验优先的生态系统？](http://gold.xitu.io/entry/58195c69570c350060827dcf)       
 8. [[后端] Spring 5 新功能：函数式 Web 框架 - ImportNew](http://gold.xitu.io/entry/58194ec52f301e005cf3abde)       
 9. [[后端] 聊一聊微信开发那些事儿](http://gold.xitu.io/entry/58195b9aa0bb9f00588b87c5)       
-10. [视频演讲： 灵雀云容器化持续交付实践](http://www.infoq.com/cn/presentations/practice-of-persistent-delivery-of-the-spirit-cloud-container?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_25/)*       
 
        
