@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第25周文章列表       
-1. [视频演讲： 逢云化雨技术决策论：UCloud“云汉”云计算体系解析](http://www.infoq.com/cn/presentations/the-analytical-calculation-system-ucloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [无我编程的十条戒律](http://www.infoq.com/cn/news/2017/06/10-Commandments-without-program?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [[Android] Android 性能优化之利用 LeakCanary 检测内存泄漏及解决办法](http://gold.xitu.io/entry/5817e6e0a0bb9f005880fc5d)       
 3. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
 4. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
