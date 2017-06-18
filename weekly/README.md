@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第25周文章列表       
-1. [GitHub是如何改进自身的DNS架构的](http://www.infoq.com/cn/news/2017/06/github-dns-infrastructure?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [云原生这么火你学好Spring了吗？让Spring大神教教你](http://www.infoq.com/cn/news/2017/06/cloud-spring-summit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [[Android] Android 性能优化之利用 LeakCanary 检测内存泄漏及解决办法](http://gold.xitu.io/entry/5817e6e0a0bb9f005880fc5d)       
 3. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
 4. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
