@@ -1,10 +1,15 @@
 # WEEKLY LIST        
 ## 第26周文章列表       
-1. [视频演讲： 重塑系统平台，云化金融 IT 服务](http://www.infoq.com/cn/presentations/reshape-the-system-platform-cloud-financial-it-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [京东618：商城交易平台的高可用架构之路](http://www.infoq.com/cn/news/2017/06/jd-618-high-avail-arch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [京东618：六年历程步步为营，京东商城的安全保卫战](http://www.infoq.com/cn/news/2017/06/jd-618-Security-war?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [京东618：机器学习与商品数据挖掘和知识抽取](http://www.infoq.com/cn/news/2017/06/jd-618-Machine-learning-commodit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [京东618：智能机器人JIMI的进击之路](http://www.infoq.com/cn/news/2017/06/jd-618-Intelligent-robot-JIMI?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： 重塑系统平台，云化金融 IT 服务](http://www.infoq.com/cn/presentations/reshape-the-system-platform-cloud-financial-it-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [京东618：商城交易平台的高可用架构之路](http://www.infoq.com/cn/news/2017/06/jd-618-high-avail-arch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [京东618：六年历程步步为营，京东商城的安全保卫战](http://www.infoq.com/cn/news/2017/06/jd-618-Security-war?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [京东618：机器学习与商品数据挖掘和知识抽取](http://www.infoq.com/cn/news/2017/06/jd-618-Machine-learning-commodit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [京东618：智能机器人JIMI的进击之路](http://www.infoq.com/cn/news/2017/06/jd-618-Intelligent-robot-JIMI?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [FEX 技术周刊 - 2017/06/19](http://fex.baidu.com/blog/2017/06/fex-weekly-19//)       
+8. [文章： 制定代码规范并不难，但你知道如何让它可执行吗？](http://www.infoq.com/cn/articles/how-can-code-specification-be-executable?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [Reaching The Milllennials: Mobile Marketing Trends And Techniques](https://www.smashingmagazine.com/2017/06/mobile-marketing-experiences-millennial/)       
+10. [Web Development Reading List #186: Tor 7, Designing Depth, And Mac Ransomware](https://www.smashingmagazine.com/2017/06/web-development-reading-list-186/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_26/)*       
 
        
