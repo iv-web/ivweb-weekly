@@ -1,9 +1,9 @@
 # WEEKLY LIST        
 ## 第26周文章列表       
 1. [前端每周清单第18期：Firefox、Chrome、React、Angular发布新版本；提升RN应用性能的方法](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-18?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [如何利用云计算为AI推力 这些专家都有自己的看法](http://www.infoq.com/cn/news/2017/06/tengxun-Cloud-AI?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [京东618：机器学习与商品数据挖掘和知识抽取](http://www.infoq.com/cn/news/2017/06/jd-618-Machine-learning-commodit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)       
+3. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 基于PostgreSQL的内存计算引擎，来自Lenovo的设计开发经验](http://www.infoq.com/cn/articles/lenovo-postgresql-based-memory-computing-engine?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [京东618：智能机器人JIMI的进击之路](http://www.infoq.com/cn/news/2017/06/jd-618-Intelligent-robot-JIMI?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 重塑系统平台，云化金融 IT 服务](http://www.infoq.com/cn/presentations/reshape-the-system-platform-cloud-financial-it-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [FEX 技术周刊 - 2017/06/19](http://fex.baidu.com/blog/2017/06/fex-weekly-19//)       
