@@ -3,13 +3,13 @@
 1. [前端每周清单第 19 期： Vue的优势与劣势；Node.js有望超越Java；JS在嵌入式及物联网的应用现状](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-19?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [漫谈 JS 函数式编程（一）](https://www.h5jun.com/post/js-functional-1.html)       
 3. [视频演讲： QQ 空间萌宠之舞——HTML5 骨骼动画实践](http://www.infoq.com/cn/presentations/dancing-in-qq-space-html-5-skeleton-animation-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频访谈： 专访明略数据邵蓥侠：传统公安领域的机器学习实践](http://www.infoq.com/cn/interviews/interview-with-shaoyingxia-talk-machine-learning-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [视频访谈： 冯忠旗：以用户和业务角度去考虑技术层面的问题才能做好产品](http://www.infoq.com/cn/interviews/interview-with-fengzhongqi-talk-how-to-take-good-product?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [如何验证 Email 地址：SMTP 协议入门教程](http://www.ruanyifeng.com/blog/2017/06/smtp-protocol.html)       
 6. [学会思考，而不只是编程](http://www.infoq.com/cn/news/2017/06/Dont-learn-code-Learn-think?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 深入浅出TensorFlow（六）TensorFlow高层封装](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part06?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 从容器到运维，一篇文章看懂技术的变革与未来](http://www.infoq.com/cn/articles/an-article-to-understand-technological-change-and-future?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频访谈： 专访明略数据邵蓥侠：传统公安领域的机器学习实践](http://www.infoq.com/cn/interviews/interview-with-shaoyingxia-talk-machine-learning-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [应用工程师的分布式系统理论](http://www.infoq.com/cn/news/2017/06/distributed-systems-theory?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 谈服务发现的背景、架构以及落地方案](http://www.infoq.com/cn/articles/background-architecture-and-solutions-of-service-discovery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 从容器到运维，一篇文章看懂技术的变革与未来](http://www.infoq.com/cn/articles/an-article-to-understand-technological-change-and-future?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_27/)*       
 
        
