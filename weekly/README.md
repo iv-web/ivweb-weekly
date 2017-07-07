@@ -2,14 +2,14 @@
 ## 第28周文章列表       
 1. [前端每周清单第20期：Angular 2/4 是否为时已晚？React 组件解耦之道；基于 Headless Chrome 的自动化测试](http://www.infoq.com/cn/news/2017/07/Front-end-weekly-20?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Sonatype收购Vor Security，扩展对Nexus开源组件的支持](http://www.infoq.com/cn/news/2017/07/nexus-open-source-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： iOS 11：人人可体验的机器学习](http://www.infoq.com/cn/articles/ios-11-machine-learning-for-everyone?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： MXNet API入门 —第2篇](http://www.infoq.com/cn/articles/an-introduction-to-the-mxnet-api-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 《Doing It - Management 3.0 Experiences》作者访谈](http://www.infoq.com/cn/articles/management-30-experiences?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [我们为什么需要一个时序数据库？](http://www.infoq.com/cn/news/2017/07/Why-time-series-database?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 发展中的工作](http://www.infoq.com/cn/articles/jobs-marching-in?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： A/B测试之外：Netflix通过实验和数据科学改善流媒体播放体验](http://www.infoq.com/cn/articles/netflix-improves-streaming-media-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [FEX 技术周刊 - 2017/07/03](http://fex.baidu.com/blog/2017/07/fex-weekly-03//)       
-10. [视频演讲： 用人工智能来高效测试 App](http://www.infoq.com/cn/presentations/using-artificial-intelligence-to-efficiently-test-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Sonatype收购Vor Security，扩展对Nexus开源组件的支持](http://www.infoq.com/cn/news/2017/07/nexus-open-source-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_28/)*       
 
        
