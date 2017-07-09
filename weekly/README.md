@@ -4,7 +4,7 @@
 2. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [#342: Some Best Practices for JavaScript Projects](http://javascriptweekly.com/issues/342)       
-5. [文章： 《Doing It - Management 3.0 Experiences》作者访谈](http://www.infoq.com/cn/articles/management-30-experiences?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： “Scaling Lean”作者Ash Maurya访谈](http://www.infoq.com/cn/articles/scaling-lean-ash-maurya?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [我们为什么需要一个时序数据库？](http://www.infoq.com/cn/news/2017/07/Why-time-series-database?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 发展中的工作](http://www.infoq.com/cn/articles/jobs-marching-in?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： A/B测试之外：Netflix通过实验和数据科学改善流媒体播放体验](http://www.infoq.com/cn/articles/netflix-improves-streaming-media-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
