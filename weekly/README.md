@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第30周文章列表       
-1. [文章： 当DevOps遇见AI，智能运维的黄金时代](http://www.infoq.com/cn/articles/when-devops-meets-ai?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 分布式数据库和 Hadoop 都不够好，于是我们设计了分布式 SQL 计算系统](http://www.infoq.com/cn/articles/distributed-database-hadoop-distributed-sql-computing-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [文章： 隆重介绍：FaunaDB无服务器云](http://www.infoq.com/cn/articles/faunadb-serverless?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [视频演讲： 星际争霸与人工智能](http://www.infoq.com/cn/presentations/starcraft-and-artificial-intelligence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： MXNet API入门 —第4篇](http://www.infoq.com/cn/articles/an-introduction-to-the-mxnet-api-part04?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Netflix发布Genie3](http://www.infoq.com/cn/news/2017/07/netflix-genie-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 复杂环境下的视觉同时定位与地图构建](http://www.infoq.com/cn/presentations/simultaneous-visual-localization-and-map-building-in-complex-environments?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 《It's All Upside Down》作者访谈录](http://www.infoq.com/cn/articles/book-review-upside-down?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 双方同意的软件：如何优先考虑用户安全](http://www.infoq.com/cn/articles/consensual-software?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 当DevOps遇见AI，智能运维的黄金时代](http://www.infoq.com/cn/articles/when-devops-meets-ai?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Blazor将.NET带回到浏览器](http://www.infoq.com/cn/news/2017/07/Blazor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 分布式数据库和 Hadoop 都不够好，于是我们设计了分布式 SQL 计算系统](http://www.infoq.com/cn/articles/distributed-database-hadoop-distributed-sql-computing-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 双方同意的软件：如何优先考虑用户安全](http://www.infoq.com/cn/articles/consensual-software?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_30/)*       
 
        
