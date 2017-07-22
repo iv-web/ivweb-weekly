@@ -1,8 +1,8 @@
 # WEEKLY LIST        
 ## 第30周文章列表       
 1. [WebAssembly：解决 JavaScript 痼疾的一颗银弹？](http://www.infoq.com/cn/news/2017/07/WebAssembly-solve-JavaScript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： GitLab首席执行官Sid Sijbrandij畅谈当前开发实践](http://www.infoq.com/cn/articles/gitlab-sid-interview-sw-development?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [视频演讲： 星际争霸与人工智能](http://www.infoq.com/cn/presentations/starcraft-and-artificial-intelligence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [#344: JavaScript Factory Functions with ES6+](http://javascriptweekly.com/issues/344)       
+3. [谷歌开源可视化工具Facets，将用于人+AI协作项目研究](http://www.infoq.com/cn/news/2017/07/goole-sight-facets-ai?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： MXNet API入门 —第4篇](http://www.infoq.com/cn/articles/an-introduction-to-the-mxnet-api-part04?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Netflix发布Genie3](http://www.infoq.com/cn/news/2017/07/netflix-genie-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 复杂环境下的视觉同时定位与地图构建](http://www.infoq.com/cn/presentations/simultaneous-visual-localization-and-map-building-in-complex-environments?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
