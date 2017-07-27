@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第31周文章列表       
-1. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-2. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-3. [文章： 单元测试是绩效评估的一部分？](http://www.infoq.com/cn/articles/unit-tests-performance-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 2017年，你还在用用户画像和协同过滤做推荐系统吗？](http://www.infoq.com/cn/articles/user-portrait-collaborative-filtering-for-recommend-systems?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： MXNet API入门 —第6篇](http://www.infoq.com/cn/articles/an-introduction-to-the-mxnet-api-part06?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端](http://www.infoq.com/cn/news/2017/07/arch-weekly-23?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： 探究 Node.js 的服务端之路](http://www.infoq.com/cn/presentations/explore-the-node.js-server-side-of-the-road?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+4. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+5. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
 6. [IaaS，PaaS，SaaS 的区别](http://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)       
 7. [FEX 技术周刊 - 2017/07/24](http://fex.baidu.com/blog/2017/07/fex-weekly-24//)       
-8. [文章： 《Timimg is Almost Everything》作者访谈](http://www.infoq.com/cn/articles/book-review-timing-everything?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 单元测试是绩效评估的一部分？](http://www.infoq.com/cn/articles/unit-tests-performance-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 搜狗商业云平台实践与思考](http://www.infoq.com/cn/presentations/practice-and-reflection-of-Sogou-commercial-cloud-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： OpenStack 七年盘点，热潮褪去后的明天在哪？](http://www.infoq.com/cn/articles/openstack-seven-years-tomorrow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_31/)*       
