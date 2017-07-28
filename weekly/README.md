@@ -2,10 +2,10 @@
 ## 第31周文章列表       
 1. [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端](http://www.infoq.com/cn/news/2017/07/arch-weekly-23?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [视频演讲： 探究 Node.js 的服务端之路](http://www.infoq.com/cn/presentations/explore-the-node.js-server-side-of-the-road?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-4. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+3. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+4. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
 5. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
-6. [IaaS，PaaS，SaaS 的区别](http://www.ruanyifeng.com/blog/2017/07/iaas-paas-saas.html)       
+6. [视频演讲： 云网分析与可视化——发掘网络数据的真正价值](http://www.infoq.com/cn/presentations/network-analysis-and-visualization?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [FEX 技术周刊 - 2017/07/24](http://fex.baidu.com/blog/2017/07/fex-weekly-24//)       
 8. [文章： 单元测试是绩效评估的一部分？](http://www.infoq.com/cn/articles/unit-tests-performance-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： 搜狗商业云平台实践与思考](http://www.infoq.com/cn/presentations/practice-and-reflection-of-Sogou-commercial-cloud-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
