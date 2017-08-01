@@ -5,6 +5,11 @@
 3. [视频演讲： 百度 Matrix 集群管理系统](http://www.infoq.com/cn/presentations/baidu-matrix-cluster-management-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 京东iOS客户端组件管理实践](http://www.infoq.com/cn/articles/jd-ios-component-management?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [视频演讲： 快手在大数据驱动下的直播体验优化](http://www.infoq.com/cn/presentations/kuaishou-live-experience-optimization?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [极客邦科技发布轻量级内容搜索引擎「极客搜索」](http://www.infoq.com/cn/news/2017/07/Geekbang-search-news?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [FEX 技术周刊 - 2017/07/31](http://fex.baidu.com/blog/2017/07/fex-weekly-31//)       
+8. [视频演讲： ROS在百度自动驾驶的探索和实践](http://www.infoq.com/cn/presentations/ros-in-baidu-automatic-driving?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： Yelp将核心商家搜索功能迁移至Elasticsearch](http://www.infoq.com/cn/articles/yelp-moves-core-merchant-search-function-to-elasticsearch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 从算法实现到MiniFlow实现，打造机器学习的基础架构平台](http://www.infoq.com/cn/articles/miniflow-build-machine-learning-infrastructure-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_32/)*       
 
        
