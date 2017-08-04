@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第32周文章列表       
-1. [文章： React的新引擎—React Fiber是什么？](http://www.infoq.com/cn/articles/what-the-new-engine-of-react?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Node.js 2017企业用户调查结果发布](http://www.infoq.com/cn/news/2017/08/node-2017-user-survey-results?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Node.js 2017企业用户调查结果发布](http://www.infoq.com/cn/news/2017/08/node-2017-user-survey-results?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： React的新引擎—React Fiber是什么？](http://www.infoq.com/cn/articles/what-the-new-engine-of-react?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [前端每周清单第 24 期：React 16 中异常处理与 Fiber 实战、Vue 图表与 jQuery 插件、V8 Turbofan 性能优化](http://www.infoq.com/cn/news/2017/08/arch-weekly-24?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 用GraphQL增强React](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)       
+4. [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)       
+5. [文章： 用GraphQL增强React](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： 美团点评收银台前端可用性保障实践](http://www.infoq.com/cn/articles/the-availability-of-meituan-cash-front-desk-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 游戏服务器架构的演进简史](http://www.infoq.com/cn/articles/a-brief-history-of-the-game-server-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [FEX 技术周刊 - 2017/07/31](http://fex.baidu.com/blog/2017/07/fex-weekly-31//)       
+7. [FEX 技术周刊 - 2017/07/31](http://fex.baidu.com/blog/2017/07/fex-weekly-31//)       
+8. [视频演讲： ROS在百度自动驾驶的探索和实践](http://www.infoq.com/cn/presentations/ros-in-baidu-automatic-driving?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： Yelp将核心商家搜索功能迁移至Elasticsearch](http://www.infoq.com/cn/articles/yelp-moves-core-merchant-search-function-to-elasticsearch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 从算法实现到MiniFlow实现，打造机器学习的基础架构平台](http://www.infoq.com/cn/articles/miniflow-build-machine-learning-infrastructure-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_32/)*       
