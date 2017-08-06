@@ -7,7 +7,7 @@
 5. [文章： 用GraphQL增强React](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)       
 7. [文章： 美团点评收银台前端可用性保障实践](http://www.infoq.com/cn/articles/the-availability-of-meituan-cash-front-desk-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： Kafka设计解析（七）- 流式计算的新贵 Kafka Stream](http://www.infoq.com/cn/articles/kafka-analysis-part-7?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [脱离“体验”和“安全”谈盈利的游戏运营 都是耍流氓](http://www.infoq.com/cn/news/2017/08/CDN-Akamai-Games-Safety?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： ROS在百度自动驾驶的探索和实践](http://www.infoq.com/cn/presentations/ros-in-baidu-automatic-driving?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 从算法实现到MiniFlow实现，打造机器学习的基础架构平台](http://www.infoq.com/cn/articles/miniflow-build-machine-learning-infrastructure-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_32/)*       
