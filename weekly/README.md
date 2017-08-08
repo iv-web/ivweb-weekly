@@ -3,6 +3,11 @@
 1. [文章： IP负载与DR负载的实现原理与简单示例](http://www.infoq.com/cn/articles/principle-and-example-of-ip-load-and-dr-load?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [文章： 使用Angular组件的四个技巧](http://www.infoq.com/cn/articles/angular-components-tips?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [视频演讲： 蘑菇街高并发多终端无线网关实践](http://www.infoq.com/cn/presentations/mogujie-high-concurrent-multi-terminal-wireless-gateway-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [FEX 技术周刊 - 2017/08/07](http://fex.baidu.com/blog/2017/08/fex-weekly-08//)       
+5. [视频演讲： 微信广告引擎与播放节奏算法实践](http://www.infoq.com/cn/presentations/practice-of-wechat-advertising-engine-and-rhythm-algorithm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 企业的组织架构是如何影响技术架构的？](http://www.infoq.com/cn/articles/organization-arch-influence-technology-arch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： 案例学习：Jigsaw模块化迁移](http://www.infoq.com/cn/articles/Java-Jigsaw-Migration-Guide?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 无痛的增强学习入门： 策略迭代](http://www.infoq.com/cn/articles/painless-enhanced-learning-portal-part03?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_33/)*       
 
        
