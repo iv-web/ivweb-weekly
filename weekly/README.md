@@ -5,7 +5,7 @@
 3. [前端每周清单第 27 期：React Patent License 回复，Shopify WebVR 购物，原生 JS MVC 设计，Flow 优化 React 支持](http://www.infoq.com/cn/news/2017/08/arch-weekly-27?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [#349: React in a single post, Node forked, and using JS in key-value stores](http://javascriptweekly.com/issues/349)       
 5. [前端每周清单第 28 期：JS 运行原理与优化，高性能 CSS 引擎，Coursera GraphQL 实践](http://www.infoq.com/cn/news/2017/08/arch-weekly-28?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： 开源配置中心Apollo的设计与实现](http://www.infoq.com/cn/articles/open-source-configuration-center-apollo?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [#353: Quantifying Detectable Bugs in JS](http://javascriptweekly.com/issues/353)       
 7. [文章： 深度学习不是万能良药](http://www.infoq.com/cn/articles/when-not-to-use-deep-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： Java云托管服务的开支削减策略](http://www.infoq.com/cn/articles/java-cloud-cost-reduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频访谈： 左耳朵耗子：技术一定会让人失业，但我没有生不逢时](http://www.infoq.com/cn/interviews/interview-with-chenhao-talk-technology?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
