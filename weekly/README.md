@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第40周文章列表       
-1. [视频演讲： 怎样“显”得很会演讲](http://www.infoq.com/cn/presentations/how-to-be-a-good-presentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 如何使用Python对Instagram进行数据分析？](http://www.infoq.com/cn/articles/a-guide-to-instagramming-with-python-for-data-analysis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 服务层分片——RDB分片新思路](http://www.infoq.com/cn/articles/new-idea-of-rdb-fragmentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [视频演讲： 怎样“显”得很会演讲](http://www.infoq.com/cn/presentations/how-to-be-a-good-presentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [文章： LinkedIn如何构建安全可缩放的Web生态](http://www.infoq.com/cn/articles/secure-scalable-web-ecosystem-linkedin?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [视频演讲： 数百微服务的治理之策](http://www.infoq.com/cn/presentations/governance--of-hundreds-of-micro-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 京东金融私有云HTTPS性能优化实践](http://www.infoq.com/cn/articles/jingdong-financial-private-cloud-https-practices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [NetBeans第一部分代码提交Apache](http://www.infoq.com/cn/news/2017/09/netbeans-code-to-asf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [如何读懂火焰图？](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)       
-8. [文章： 服务层分片——RDB分片新思路](http://www.infoq.com/cn/articles/new-idea-of-rdb-fragmentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 如何使用Python对Instagram进行数据分析？](http://www.infoq.com/cn/articles/a-guide-to-instagramming-with-python-for-data-analysis?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 使用现代敏捷和OKR，跳出“特性工厂”思维](http://www.infoq.com/cn/articles/transcend-factory-modern-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 阿里电商故障治理和故障演练实践](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_40/)*       
