@@ -6,8 +6,8 @@
 4. [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)       
 5. [React v15.6.2](https://facebook.github.io/react/blog/2017/09/25/react-v15.6.2.html)       
 6. [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)       
-7. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： 他山之石，可以攻御——谈谈一类没“技术”含量的绕过漏洞](http://www.infoq.com/cn/presentations/talk-about-class-of-no-technology-content-to-bypass-loopholes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [#354: React 16 Released](http://javascriptweekly.com/issues/354)       
+8. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 使用现代敏捷和OKR，跳出“特性工厂”思维](http://www.infoq.com/cn/articles/transcend-factory-modern-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 阿里电商故障治理和故障演练实践](http://www.infoq.com/cn/presentations/ali-electricity-supplier-fault-management-and-fault-drills-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_40/)*       
