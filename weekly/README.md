@@ -4,6 +4,8 @@
 2. [视频演讲： 分布式异地多活架构实践之路](http://www.infoq.com/cn/presentations/the-practice-of-distributed-multi-live-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [苹果在GitHub上正式开源iOS内核源码](http://www.infoq.com/cn/news/2017/10/apple-open-source-ios-kernel?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 聊聊Apache Arrow](http://www.infoq.com/cn/articles/apache-arrow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 业务端技术团队真的痛](http://www.infoq.com/cn/presentations/business-side-technology-team-really-hurts?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Non-Disclosure Agreements For Developers: What To Know Before You Sign](https://www.smashingmagazine.com/2017/10/developer-non-disclosure-agreements/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_41/)*       
 
        
