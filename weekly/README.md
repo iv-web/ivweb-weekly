@@ -6,6 +6,9 @@
 4. [文章： 聊聊Apache Arrow](http://www.infoq.com/cn/articles/apache-arrow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [视频演讲： 业务端技术团队真的痛](http://www.infoq.com/cn/presentations/business-side-technology-team-really-hurts?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Non-Disclosure Agreements For Developers: What To Know Before You Sign](https://www.smashingmagazine.com/2017/10/developer-non-disclosure-agreements/)       
+7. [文章： 创业公司如何用好OKR](http://www.infoq.com/cn/articles/how-to-make-okrs-actually-work-at-your-startup?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： 高可用实践：从淘宝到上云的差异](http://www.infoq.com/cn/presentations/high-availability-practices-differences-from-taobao-to-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 从设计理念解读实时操作系统RT-Thread](http://www.infoq.com/cn/articles/rt-thread?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_41/)*       
 
        
