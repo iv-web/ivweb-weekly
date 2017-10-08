@@ -4,7 +4,7 @@
 2. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
 3. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
 4. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
-5. [落地机器学习前，我们应该思考清楚的几个问题](http://www.infoq.com/cn/news/2017/10/talk-about-machine-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 3 x 3：提速移动 App 交付](http://www.infoq.com/cn/presentations/speed-mobile-app-delivery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Non-Disclosure Agreements For Developers: What To Know Before You Sign](https://www.smashingmagazine.com/2017/10/developer-non-disclosure-agreements/)       
 7. [文章： 创业公司如何用好OKR](http://www.infoq.com/cn/articles/how-to-make-okrs-actually-work-at-your-startup?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 高可用实践：从淘宝到上云的差异](http://www.infoq.com/cn/presentations/high-availability-practices-differences-from-taobao-to-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
