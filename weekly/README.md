@@ -1,10 +1,15 @@
 # WEEKLY LIST        
 ## 第42周文章列表       
-1. [HyperApp 0.14.0 发布，构建前端应用的 JS 库](https://www.oschina.net/news/89393/hyperapp-0-14-0)       
-2. [flatpickr 3.1.2 版本发布 ，Javascript 日期选择器](https://www.oschina.net/news/89387/flatpickr-3-1-2)       
-3. [fastjson-1.1.64.android 增强对 Kotlin 的支持，修复 BUG](https://www.oschina.net/news/89384/fastjson-1-1-64-android)       
-4. [建模工具 Astah 7.2 版发布，改进及修复bug](https://www.oschina.net/news/89386/astah-7-2-released)       
-5. [Highcharts 6 正式发布，带来 15 种新的图表类型](https://www.oschina.net/news/89396/highcharts-6-0-1)       
+1. [Node.js 内容管理框架 DoraCMS v2.0.0 版本更新](https://www.oschina.net/news/89417/doracms-2-0-0)       
+2. [HyperApp 0.14.0 发布，构建前端应用的 JS 库](https://www.oschina.net/news/89393/hyperapp-0-14-0)       
+3. [flatpickr 3.1.2 版本发布 ，Javascript 日期选择器](https://www.oschina.net/news/89387/flatpickr-3-1-2)       
+4. [fastjson-1.1.64.android 增强对 Kotlin 的支持，修复 BUG](https://www.oschina.net/news/89384/fastjson-1-1-64-android)       
+5. [TinyMCE 4.7.0 发布，JavaScript 富文本编辑器](https://www.oschina.net/news/89438/tinymce-4-7-0)       
+6. [Phaser 3.0.0 Beta6 发布，优秀的 HTML5 游戏框架](https://www.oschina.net/news/89435/phaser-3-0-0-beta6)       
+7. [Searchkit 2.3.0 发布，基于 React 的 UI 组件](https://www.oschina.net/news/89434/searchkit-2-3-0)       
+8. [Framework7 v2.0.0-beta.9 发布，HTML 移动端框架](https://www.oschina.net/news/89426/framework7-v2-0-0-beta9)       
+9. [建模工具 Astah 7.2 版发布，改进及修复bug](https://www.oschina.net/news/89386/astah-7-2-released)       
+10. [Highcharts 6 正式发布，带来 15 种新的图表类型](https://www.oschina.net/news/89396/highcharts-6-0-1)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_42/)*       
 
        
