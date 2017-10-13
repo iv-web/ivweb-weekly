@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第42周文章列表       
 1. [Node.js v8.7.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/89497/nodejs-8-7-0)       
-2. [Node.js基金会官方的开发者认证准备就绪](http://www.infoq.com/cn/news/2017/10/Node-certified-developer-exam?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [core-js —— JavaScript 的模块化标准库](https://www.oschina.net/p/core-js)       
+2. [core-js —— JavaScript 的模块化标准库](https://www.oschina.net/p/core-js)       
+3. [Next.js 4.0.2 发布，支持 React 16 提速 2.6 倍](https://www.oschina.net/news/89468/nextjs-4-0-2)       
 4. [Node.js 内容管理框架 DoraCMS v2.0.0 版本更新](https://www.oschina.net/news/89417/doracms-2-0-0)       
-5. [Next.js 4.0.2 发布，支持 React 16 提速 2.6 倍](https://www.oschina.net/news/89468/nextjs-4-0-2)       
+5. [Node.js基金会官方的开发者认证准备就绪](http://www.infoq.com/cn/news/2017/10/Node-certified-developer-exam?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [HyperApp 0.14.0 发布，构建前端应用的 JS 库](https://www.oschina.net/news/89393/hyperapp-0-14-0)       
 7. [前端每周清单第 34 期：Vue 现状盘点与 3.0 展望，React 代码迁移与优化，图片优化详论](http://www.infoq.com/cn/news/2017/10/arch-weekly-34?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [DeepLearn.js 0.3.0 发布，新增对 iOS 的支持](https://www.oschina.net/news/89465/deeplearnjs-0-3-0)       
+8. [fastjson-1.1.64.android 增强对 Kotlin 的支持，修复 BUG](https://www.oschina.net/news/89384/fastjson-1-1-64-android)       
 9. [Phaser 3.0.0 Beta6 发布，优秀的 HTML5 游戏框架](https://www.oschina.net/news/89435/phaser-3-0-0-beta6)       
 10. [Framework7 v2.0.0-beta.9 发布，HTML 移动端框架](https://www.oschina.net/news/89426/framework7-v2-0-0-beta9)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_42/)*       
