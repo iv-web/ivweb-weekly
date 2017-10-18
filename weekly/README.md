@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第43周文章列表       
 1. [Sequelize 4.13.16 和 4.13.17 发布，Node.js 的 ORM](https://www.oschina.net/news/89608/sequelize-4-13-16-and-17)       
-2. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
+2. [Handlebars.js 4.0.11 发布，JavaScript 页面模板库](https://www.oschina.net/news/89689/handlebars-js-4-0-11)       
 3. [Next.js 4.1.0 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89647/next-js-4-1-0)       
 4. [Sequelize 4.14.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89646/sequelize-4-14-0)       
-5. [MongooseJS 4.12.3 发布，MongoDB 连接包](https://www.oschina.net/news/89651/mongoosejs-4-12-3)       
-6. [PearPlayer.js 2.2.6 发布，流媒体播放器](https://www.oschina.net/news/89631/pearplayer-2-2-6)       
-7. [协作翻译 | 提升代码可读性的 10 个技巧](https://www.oschina.net/translate/10-tips-how-to-improve-the-readability-of-your-sof)       
-8. [NHibernate 5.0 发布，面向.NET框架的对象关系映射解决方案](https://www.oschina.net/news/89611/nhibernate-5-0)       
-9. [Redmine 3.4.3, 3.3.5 和 3.2.8 发布，项目管理和缺陷跟踪工具](https://www.oschina.net/news/89610/redmine-3-4-3-and-3-3-5-and-3-2-8)       
-10. [GoodERP 17.4.2 发布 ，开源 ERP 系统](https://www.oschina.net/news/89625/gooderp-17-4-2)       
+5. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
+6. [Sequelize 4.15.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89686/sequelize-4-15-0)       
+7. [Naming Things In CSS Grid Layout](https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/)       
+8. [MongooseJS 4.12.3 发布，MongoDB 连接包](https://www.oschina.net/news/89651/mongoosejs-4-12-3)       
+9. [PearPlayer.js 2.2.6 发布，流媒体播放器](https://www.oschina.net/news/89631/pearplayer-2-2-6)       
+10. [Ember.js 2.17.0-beta.1 发布，Bug 修复版本](https://www.oschina.net/news/89688/ember-js-2-17-0-beta-1)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_43/)*       
 
        
