@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第43周文章列表       
 1. [前端每周清单第 35 期：Vue.js 2.5 发布、微前端概念详解、浏览器扩展开发实践](http://www.infoq.com/cn/news/2017/10/arch-weekly-35?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Sequelize 4.15.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89686/sequelize-4-15-0)       
-3. [Sequelize 4.13.16 和 4.13.17 发布，Node.js 的 ORM](https://www.oschina.net/news/89608/sequelize-4-13-16-and-17)       
-4. [Handlebars.js 4.0.11 发布，JavaScript 页面模板库](https://www.oschina.net/news/89689/handlebars-js-4-0-11)       
-5. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
-6. [Next.js 4.1.0 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89647/next-js-4-1-0)       
-7. [Sequelize 4.14.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89646/sequelize-4-14-0)       
-8. [Ember.js 2.17.0-beta.1 发布，Bug 修复版本](https://www.oschina.net/news/89688/ember-js-2-17-0-beta-1)       
-9. [MongooseJS 4.12.3 发布，MongoDB 连接包](https://www.oschina.net/news/89651/mongoosejs-4-12-3)       
-10. [Ember.js 2.17.0-beta.2 发布，Bug 修复版本](https://www.oschina.net/news/89716/ember-js-2-17-0-beta-2)       
+2. [Sequelize 4.13.16 和 4.13.17 发布，Node.js 的 ORM](https://www.oschina.net/news/89608/sequelize-4-13-16-and-17)       
+3. [Next.js 4.1.0 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89647/next-js-4-1-0)       
+4. [Sequelize 4.14.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89646/sequelize-4-14-0)       
+5. [Next.js 4.1.1 发布，添加 styled-jsx-plugin-sass 示例](https://www.oschina.net/news/89761/next-js-4-1-1)       
+6. [Sequelize 4.15.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89686/sequelize-4-15-0)       
+7. [Handlebars.js 4.0.11 发布，JavaScript 页面模板库](https://www.oschina.net/news/89689/handlebars-js-4-0-11)       
+8. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
+9. [PearPlayer.js 2.2.6 发布，流媒体播放器](https://www.oschina.net/news/89631/pearplayer-2-2-6)       
+10. [极客邦科技十年赞助公益组织，今年联手Vue.js推动开源技术发展](http://www.infoq.com/cn/news/2017/10/Geekbang-support-vue?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_43/)*       
 
        
