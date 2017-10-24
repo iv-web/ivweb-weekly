@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第44周文章列表       
-1. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
-2. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
-3. [JavaScript与函数式编程](http://geek.csdn.net/news/detail/111968)       
-4. [看看各大科技公司都是如何使用CSS的](http://geek.csdn.net/news/detail/112032)       
-5. [SVN版本管理系统的安装 CentOS + Subversion + Apache + Jsvnadmin](http://geek.csdn.net/news/detail/112017)       
-6. [Javascript window.fetch API](http://geek.csdn.net/news/detail/112007)       
-7. [js监听事件的绑定与移除](http://geek.csdn.net/news/detail/112001)       
-8. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
-9. [码云推荐 | Go 语言的分布式爬虫平台 YiSpider](https://gitee.com/bilibala/YiSpider)       
-10. [Redash 2.0.1 发布，开源数据图表工具](https://www.oschina.net/news/89841/redash-2-0-1)       
+1. [Nodemailer 4.1.3 发布，Node.js 邮件发送组件](https://www.oschina.net/news/89880/nodemailer-4-1-3)       
+2. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
+3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
+4. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
+5. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
+6. [JavaScript与函数式编程](http://geek.csdn.net/news/detail/111968)       
+7. [SVN版本管理系统的安装 CentOS + Subversion + Apache + Jsvnadmin](http://geek.csdn.net/news/detail/112017)       
+8. [看看各大科技公司都是如何使用CSS的](http://geek.csdn.net/news/detail/112032)       
+9. [JsPlumb 2.5.7 发布，WebAPP 的可视化元素连接](https://www.oschina.net/news/89881/jsplumb-2-5-7)       
+10. [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_44/)*       
 
        
