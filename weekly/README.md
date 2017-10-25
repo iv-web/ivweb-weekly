@@ -4,12 +4,12 @@
 2. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
 3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
 4. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
-5. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
+5. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
 6. [JavaScript与函数式编程](http://geek.csdn.net/news/detail/111968)       
 7. [SVN版本管理系统的安装 CentOS + Subversion + Apache + Jsvnadmin](http://geek.csdn.net/news/detail/112017)       
-8. [看看各大科技公司都是如何使用CSS的](http://geek.csdn.net/news/detail/112032)       
-9. [JsPlumb 2.5.7 发布，WebAPP 的可视化元素连接](https://www.oschina.net/news/89881/jsplumb-2-5-7)       
-10. [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)       
+8. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
+9. [Maptalks — 原生 ES6 Javascript 开发的地图引擎](https://www.oschina.net/p/maptalks)       
+10. [Recharts 1.0.0 beta.0，React 和 D3 构建的图表库](https://www.oschina.net/news/89912/recharts-1-0-0-beta0)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_44/)*       
 
        
