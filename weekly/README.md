@@ -5,7 +5,7 @@
 3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
 4. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
 5. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
-6. [JavaScript与函数式编程](http://geek.csdn.net/news/detail/111968)       
+6. [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)       
 7. [SVN版本管理系统的安装 CentOS + Subversion + Apache + Jsvnadmin](http://geek.csdn.net/news/detail/112017)       
 8. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
 9. [Maptalks — 原生 ES6 Javascript 开发的地图引擎](https://www.oschina.net/p/maptalks)       
