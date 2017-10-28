@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第44周文章列表       
 1. [Nodemailer 4.1.3 发布，Node.js 邮件发送组件](https://www.oschina.net/news/89880/nodemailer-4-1-3)       
-2. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
-3. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
-4. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
-5. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
+2. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
+3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
+4. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
+5. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
 6. [微软发布Azure Application Insights for Node.js 1.0版本](http://www.infoq.com/cn/news/2017/10/application-insights-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [翻译 | 我们为什么以及是如何从Angular.js迁移到Vue.js？](https://www.oschina.net/translate/why-and-how-we-migrated-from-angularjs-to-vuejs)       
-8. [Popper.js v1.12.6 发布，轻量级 tooltips 提示插件](https://www.oschina.net/news/89839/popperjs-1-12-6)       
-9. [V8 JavaScript 引擎 6.3 版本改进了速度和内存消耗](https://www.oschina.net/news/89980/v8-release-63)       
-10. [Ionic 3.8.0 发布，HTML5 移动应用框架](https://www.oschina.net/news/89991/ionic-3-8-0)       
+8. [Recharts 1.0.0 beta.0，React 和 D3 构建的图表库](https://www.oschina.net/news/89912/recharts-1-0-0-beta0)       
+9. [uiw v1.2.8 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90022/uiw-1-2-8)       
+10. [Framework7 v2.0.0-beta.15 发布，HTML 移动端框架](https://www.oschina.net/news/90029/framework7-2-0-0-beta-15)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_44/)*       
 
        
