@@ -4,7 +4,12 @@
 2. [ReactOS 0.4.7-rc1 发布，类 XP 的操作系统](https://www.oschina.net/news/90074/reactos-0-4-7-rc1)       
 3. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
 4. [eBay 将开源 UI 库 Marko 移交给 JS 基金会](https://www.oschina.net/news/90059/marko-moves-js-foundation)       
-5. [每日一博 | 手把手教你用1行代码实现人脸识别](https://my.oschina.net/kangvcar/blog/1556783)       
+5. [Layui 2.1.6 发布，原生态模块化前端 UI 方案](https://www.oschina.net/news/90096/layui-2-1-6)       
+6. [每日一博 | 手把手教你用1行代码实现人脸识别](https://my.oschina.net/kangvcar/blog/1556783)       
+7. [API 集成测试工具 Hitchhiker 0.3 发布： 自动同步](https://www.oschina.net/news/90086/hitchhiker-0-3)       
+8. [Apache OpenOffice 漏洞预警，升级新版可解决](https://www.oschina.net/news/90107/code-execution-flaws-patched-apache-openoffice)       
+9. [Ubuntu 18.04 LTS 开发工作启动，不求功能求稳定](https://www.oschina.net/news/90106/ubuntu-18-04-lts-now-open-for-development)       
+10. [Eclipse 4.8 Photon M3 发布，多项新特性](https://www.oschina.net/news/90105/eclipse-4-8-m3)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_45/)*       
 
        
