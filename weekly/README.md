@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第45周文章列表       
-1. [Ember.js 2.16.1 发布，JavaScript MVC 框架](https://www.oschina.net/news/90072/emberjs-2-16-1)       
-2. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
-3. [eBay 将开源 UI 库 Marko 移交给 JS 基金会](https://www.oschina.net/news/90059/marko-moves-js-foundation)       
-4. [ReactOS 0.4.7-rc1 发布，类 XP 的操作系统](https://www.oschina.net/news/90074/reactos-0-4-7-rc1)       
-5. [uiw v1.2.10 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90119/uiw-1-2-10)       
-6. [Layui 2.1.6 发布，原生态模块化前端 UI 方案](https://www.oschina.net/news/90096/layui-2-1-6)       
-7. [文章： 一次前后端分离的实践](http://www.infoq.com/cn/articles/practice-frontend-backend-separation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [每日一博 | 手把手教你用1行代码实现人脸识别](https://my.oschina.net/kangvcar/blog/1556783)       
-9. [Ubuntu 18.04 LTS 开发工作启动，不求功能求稳定](https://www.oschina.net/news/90106/ubuntu-18-04-lts-now-open-for-development)       
-10. [Eclipse 4.8 Photon M3 发布，多项新特性](https://www.oschina.net/news/90105/eclipse-4-8-m3)       
+1. [Node.js v9.0.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90138/nodejs-9-0-0)       
+2. [Ember.js 2.16.1 发布，JavaScript MVC 框架](https://www.oschina.net/news/90072/emberjs-2-16-1)       
+3. [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](http://www.infoq.com/cn/news/2017/11/arch-weekly-37?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [eBay 将开源 UI 库 Marko 移交给 JS 基金会](https://www.oschina.net/news/90059/marko-moves-js-foundation)       
+5. [MongooseJS 4.12.6 发布，MongoDB 连接包](https://www.oschina.net/news/90164/mongoosejs-4-12-6)       
+6. [uiw v1.2.10 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90119/uiw-1-2-10)       
+7. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
+8. [ReactOS 0.4.7-rc1 发布，类 XP 的操作系统](https://www.oschina.net/news/90074/reactos-0-4-7-rc1)       
+9. [文章： 漫极客 CTO 李焱：大前端之路 - 如何用Web技术一统三端（Web、Desktop、Mobile）开发](http://www.infoq.com/cn/articles/web-desktop-mobile-frontend-develop?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Layui 2.1.6 发布，原生态模块化前端 UI 方案](https://www.oschina.net/news/90096/layui-2-1-6)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_45/)*       
 
        
