@@ -2,14 +2,14 @@
 ## 第45周文章列表       
 1. [Node.js v9.0.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90138/nodejs-9-0-0)       
 2. [Ember.js 2.16.1 发布，JavaScript MVC 框架](https://www.oschina.net/news/90072/emberjs-2-16-1)       
-3. [Ember.js 2.16.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/90171/emberjs-2-16-2)       
-4. [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](http://www.infoq.com/cn/news/2017/11/arch-weekly-37?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [uiw v1.2.10 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90119/uiw-1-2-10)       
-6. [ReactOS 0.4.7-rc1 发布，类 XP 的操作系统](https://www.oschina.net/news/90074/reactos-0-4-7-rc1)       
-7. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
-8. [MongooseJS 4.12.6 发布，MongoDB 连接包](https://www.oschina.net/news/90164/mongoosejs-4-12-6)       
-9. [eBay 将开源 UI 库 Marko 移交给 JS 基金会](https://www.oschina.net/news/90059/marko-moves-js-foundation)       
-10. [uiw 1.2.12 发布，基于 React 16 的组件库](https://www.oschina.net/news/90197/uiw-1-2-12)       
+3. [React 16.1.0-beta 发布，开源的 JavaScript 库](https://www.oschina.net/news/90236/react-16-1-0-beta)       
+4. [Ember.js 2.16.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/90171/emberjs-2-16-2)       
+5. [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](http://www.infoq.com/cn/news/2017/11/arch-weekly-37?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [MongooseJS 4.12.6 发布，MongoDB 连接包](https://www.oschina.net/news/90164/mongoosejs-4-12-6)       
+7. [Slate.js —— 完全可定制的富文本编辑框架](https://www.oschina.net/p/slate-editor)       
+8. [MongooseJS 4.13.0 发布，MongoDB 连接包](https://www.oschina.net/news/90237/mongoose-4-13-0)       
+9. [fastjson-1.1.65.android 发布, 增强 Kotlin 支持](https://www.oschina.net/news/90240/fastjson-1-1-65-android)       
+10. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_45/)*       
 
        
