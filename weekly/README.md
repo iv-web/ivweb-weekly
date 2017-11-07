@@ -2,14 +2,14 @@
 ## 第46周文章列表       
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
 2. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
-3. [Web Development Reading List #158: Form Usability, Vue.js, And Unfolding Critical CSS](https://www.smashingmagazine.com/2016/11/web-development-reading-list-158/)       
-4. [DevExtreme v17.2 BETA 发布，HTML5 JavaScript 组件套件](https://www.oschina.net/news/90287/devextreme-17-2-beta)       
-5. [Sequelize 4.22.5 发布，Node.js 的 ORM](https://www.oschina.net/news/90297/sequelize-4-22-5)       
-6. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
-7. [[前端] Vue.js 2.0 快速上手 - 基础篇 - 知乎专栏 ·「魔都三帅」](http://gold.xitu.io/entry/58234b9ba0bb9f0058d3be70)       
-8. [[前端] [译] 成为一个编译器之「使用 JavaScript 来制作编译器」](http://gold.xitu.io/entry/582343555bbb500059056d4b)       
-9. [[前端] [webpack] 你真的知道 css-loader 怎么用吗？](http://gold.xitu.io/entry/5826e755c4c9710054313d6e)       
-10. [[前端] CSS Modules 入门 Ⅱ：快速上手](http://gold.xitu.io/entry/5827ab518ac2470059686190)       
+3. [DevExtreme v17.2 BETA 发布，HTML5 JavaScript 组件套件](https://www.oschina.net/news/90287/devextreme-17-2-beta)       
+4. [Node 8进入LTS，Node 9开始登场](http://www.infoq.com/cn/news/2017/11/Node-8-LTS-Node-9-show?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
+6. [Sequelize 4.22.5 发布，Node.js 的 ORM](https://www.oschina.net/news/90297/sequelize-4-22-5)       
+7. [Web Development Reading List #158: Form Usability, Vue.js, And Unfolding Critical CSS](https://www.smashingmagazine.com/2016/11/web-development-reading-list-158/)       
+8. [jsoup 1.11.1 发布，最强的 Java HTML 解析器](https://www.oschina.net/news/90310/jsoup-1-11-1)       
+9. [[前端] [译] 成为一个编译器之「使用 JavaScript 来制作编译器」](http://gold.xitu.io/entry/582343555bbb500059056d4b)       
+10. [[前端] CSS 滤镜](http://gold.xitu.io/entry/582743e3570c3500586e5b1e)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_46/)*       
 
        
