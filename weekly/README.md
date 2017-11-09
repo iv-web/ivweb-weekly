@@ -3,13 +3,13 @@
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
 2. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
 3. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
-4. [Node.js CMS 内容管理框架 DoraCMS v2.0.1 版本更新](https://www.oschina.net/news/90349/doracms-2-0-1)       
-5. [Web Development Reading List #158: Form Usability, Vue.js, And Unfolding Critical CSS](https://www.smashingmagazine.com/2016/11/web-development-reading-list-158/)       
+4. [切版 CSS 框架 v1.6 发布，移动优先的 CSS 框架](https://www.oschina.net/news/90327/qieban-1-6)       
+5. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
 6. [码云推荐 | 基于ES6模板字符串的CSS预处理器 PowCSS](https://gitee.com/powjs/powcss)       
-7. [切版 CSS 框架 v1.6 发布，移动优先的 CSS 框架](https://www.oschina.net/news/90327/qieban-1-6)       
-8. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
-9. [jsoup 1.11.1 发布，最强的 Java HTML 解析器](https://www.oschina.net/news/90310/jsoup-1-11-1)       
-10. [DevExtreme v17.2 BETA 发布，HTML5 JavaScript 组件套件](https://www.oschina.net/news/90287/devextreme-17-2-beta)       
+7. [Node.js CMS 内容管理框架 DoraCMS v2.0.1 版本更新](https://www.oschina.net/news/90349/doracms-2-0-1)       
+8. [Node v8.9.1 (LTS)  发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/node-8-9-1-lts)       
+9. [Egg 1.11.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/90399/egg-1-11-0)       
+10. [Node 8进入LTS，Node 9开始登场](http://www.infoq.com/cn/news/2017/11/Node-8-LTS-Node-9-show?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_46/)*       
 
        
