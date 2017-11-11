@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第46周文章列表       
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
-2. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
-3. [前端每周清单第 38 期: Node 9 发布，Kotlin 与 React，Netflix 架构解密](http://www.infoq.com/cn/news/2017/11/arch-weekly-38?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
-5. [切版 CSS 框架 v1.6 发布，移动优先的 CSS 框架](https://www.oschina.net/news/90327/qieban-1-6)       
+2. [Nodemailer 4.4.0 发布，Node.js 邮件发送组件](https://www.oschina.net/news/90470/nodemailer-4-4-0)       
+3. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
+4. [前端每周清单第 38 期: Node 9 发布，Kotlin 与 React，Netflix 架构解密](http://www.infoq.com/cn/news/2017/11/arch-weekly-38?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
 6. [Node v8.9.1 (LTS)  发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/node-8-9-1-lts)       
-7. [Egg 1.11.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/90399/egg-1-11-0)       
-8. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
-9. [10月新增开源项目：号称最快的 Node.js 应用框架来了](https://my.oschina.net/editorial-story/blog/1563990)       
-10. [码云推荐 | 基于ES6模板字符串的CSS预处理器 PowCSS](https://gitee.com/powjs/powcss)       
+7. [Web Development Reading List #158: Form Usability, Vue.js, And Unfolding Critical CSS](https://www.smashingmagazine.com/2016/11/web-development-reading-list-158/)       
+8. [Egg 2.0.0 首个测试版发布，企业级 Node.js 框架](https://www.oschina.net/news/90472/egg-2-0-0-beta0)       
+9. [切版 CSS 框架 v1.6 发布，移动优先的 CSS 框架](https://www.oschina.net/news/90327/qieban-1-6)       
+10. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_46/)*       
 
        
