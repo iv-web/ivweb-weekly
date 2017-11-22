@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第48周文章列表       
 1. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
-2. [Node.js 8.9 LTS版本发布](http://www.infoq.com/cn/news/2017/11/node-8-lts-node-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Sequelize 4.22.9 发布，Node.js 的 ORM](https://www.oschina.net/news/90753/sequelize-4-22-9-released)       
-4. [jsoup 1.11.2 发布，Java 的 HTML 解析器](https://www.oschina.net/news/90749/jsoup-1-11-2)       
+2. [jsoup 1.11.2 发布，Java 的 HTML 解析器](https://www.oschina.net/news/90749/jsoup-1-11-2)       
+3. [Node.js 8.9 LTS版本发布](http://www.infoq.com/cn/news/2017/11/node-8-lts-node-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [Sequelize 4.22.9 发布，Node.js 的 ORM](https://www.oschina.net/news/90753/sequelize-4-22-9-released)       
 5. [[工具资源] Gloria.js - JavaScript 版本的 jekyll 静态博客工具](http://gold.xitu.io/entry/583706c067f3560065f76d0d)       
-6. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
-7. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
-8. [[前端] 6 周学习计划，攻克 JavaScript 难关](http://gold.xitu.io/entry/58349e14880741006ca5ddcc)       
-9. [[前端] JavaScript 的同步与异步](http://gold.xitu.io/entry/58349b7d8ac24700647ef70c)       
-10. [[前端] 基于 React,Redux 以及 wilddog 的聊天室简单实现](http://gold.xitu.io/entry/58349b4967f356006c395e16)       
+6. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
+7. [[前端] 探索 RxJS - 做一个 github 小应用](http://gold.xitu.io/entry/58338f53570c350059e2efa4)       
+8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
+9. [[前端] Vue.js 和 MVVM 的小细节](http://gold.xitu.io/entry/58398143a22b9d006a7f2d84)       
+10. [[前端] 微信小程序 require 引用 BASE64.JS 失败问题的分析解决](http://gold.xitu.io/entry/583832f3ac502e006e95cace)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_48/)*       
 
        
