@@ -2,14 +2,14 @@
 ## 第48周文章列表       
 1. [前端每周清单第 40 期: JS 的 Core 与 Cost，Node 内存溢出调试，Software 2.0](http://www.infoq.com/cn/news/2017/11/arch-weekly-40?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [[前端] 前端开发之走进 Vue.js](http://gold.xitu.io/entry/5831af7c128fe10069763797)       
-3. [Advanced CSS Layouts With Flexbox and CSS Grid](https://www.smashingmagazine.com/workshops/advanced-css-layouts-with-flexbox-and-css-grid-toronto/)       
-4. [jsoup 1.11.2 发布，Java 的 HTML 解析器](https://www.oschina.net/news/90749/jsoup-1-11-2)       
-5. [Node.js 8.9 LTS版本发布](http://www.infoq.com/cn/news/2017/11/node-8-lts-node-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Sequelize 4.22.9 发布，Node.js 的 ORM](https://www.oschina.net/news/90753/sequelize-4-22-9-released)       
-7. [[工具资源] Gloria.js - JavaScript 版本的 jekyll 静态博客工具](http://gold.xitu.io/entry/583706c067f3560065f76d0d)       
-8. [[前端] 如何写出漂亮的 React 组件](http://gold.xitu.io/entry/5832dae0c4c971005f5608ff)       
-9. [[前端] Vue.js 和 MVVM 的小细节](http://gold.xitu.io/entry/58398143a22b9d006a7f2d84)       
-10. [[前端] 理解 js 事件循环二 (macrotask 和 microtask)](http://gold.xitu.io/entry/58332d560ce46300610e4bad)       
+3. [Sequelize 4.22.16 和 4.23.0 发布，Node.js 的 ORM](https://www.oschina.net/news/90905/sequelize-4-22-16-and-4-23-0)       
+4. [Advanced CSS Layouts With Flexbox and CSS Grid](https://www.smashingmagazine.com/workshops/advanced-css-layouts-with-flexbox-and-css-grid-toronto/)       
+5. [jsoup 1.11.2 发布，Java 的 HTML 解析器](https://www.oschina.net/news/90749/jsoup-1-11-2)       
+6. [[工具资源] Gloria.js - JavaScript 版本的 jekyll 静态博客工具](http://gold.xitu.io/entry/583706c067f3560065f76d0d)       
+7. [Node.js 8.9 LTS版本发布](http://www.infoq.com/cn/news/2017/11/node-8-lts-node-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Sequelize 4.22.9 发布，Node.js 的 ORM](https://www.oschina.net/news/90753/sequelize-4-22-9-released)       
+9. [[前端] 6 周学习计划，攻克 JavaScript 难关](http://gold.xitu.io/entry/58349e14880741006ca5ddcc)       
+10. [[前端] JavaScript 的同步与异步](http://gold.xitu.io/entry/58349b7d8ac24700647ef70c)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_48/)*       
 
        
