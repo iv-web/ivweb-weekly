@@ -6,10 +6,10 @@
 4. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
 5. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
         部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
-6. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [[前端]  JavaScript 中的 this , 看着一篇就够了](http://gold.xitu.io/entry/583c3074a22b9d006dd0d65d)       
-8. [[前端] Typer | React Component](http://gold.xitu.io/entry/583b0558a22b9d006a87b06d)       
-9. [[前端] 有趣的话题，为什么 jsx 用 classname 而不是 class](http://gold.xitu.io/entry/583ecefe61ff4b006b67b72a)       
+6. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [[前端]  JavaScript 中的 this , 看着一篇就够了](http://gold.xitu.io/entry/583c3074a22b9d006dd0d65d)       
+9. [[前端] React 应用中最常见的 XSS 漏洞以及防御手段](http://gold.xitu.io/entry/583db15dac502e006eb399f5)       
 10. [[前端] CSS3 实现的 3D 相册效果](http://gold.xitu.io/entry/58404db4ac502e006cbf2d46)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_49/)*       
 
