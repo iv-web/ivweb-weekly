@@ -1,16 +1,16 @@
 # WEEKLY LIST        
 ## 第49周文章列表       
 1. [Total.js v2.9.1 发布，Node.js 的 MVC 框架](https://www.oschina.net/news/90927/totaljs-2-9-1)       
-2. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
-3. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
+2. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
+3. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
 4. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
-5. [React 16.2.0 发布，构建用户界面的 JavaScript 库](https://www.oschina.net/news/90999/react-16-2-0)       
-6. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
+5. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
         部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
-7. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [[前端] React 应用中最常见的 XSS 漏洞以及防御手段](http://gold.xitu.io/entry/583db15dac502e006eb399f5)       
-10. [[前端]  微信小程序脚手架工具 (帮助你快速部署源码) 基于 node](https://gold.xitu.io/entry/5842971461ff4b005886d3c8)       
+6. [Egg 1.12.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/91032/egg-1-12-0)       
+7. [DoraCMS v2.0.3 发布，Node.js CMS 内容管理框架](https://www.oschina.net/news/91017/doracms-2-0-3)       
+8. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [Realm为Node.js发布对象数据库](http://www.infoq.com/cn/news/2016/11/Realm-database-nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Jsonnet-PHP v1.2.0 发布， PHP 支持 Jsonnet 扩展](https://www.oschina.net/news/91018/jsonnet-php-1-2-0-released)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_49/)*       
 
        
