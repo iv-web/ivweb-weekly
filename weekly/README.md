@@ -4,11 +4,11 @@
 2. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
 3. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
 4. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
-5. [Jsonnet-PHP v1.2.0 发布， PHP 支持 Jsonnet 扩展](https://www.oschina.net/news/91018/jsonnet-php-1-2-0-released)       
-6. [yuri2web v0.9.4 发布，Node.js web 服务多进程外壳](https://www.oschina.net/news/91025/yuri2web-0-9-4)       
-7. [Tailwind CSS —— 定制化快速 UI 开发 CSS 框架](https://www.oschina.net/p/tailwindcss)       
-8. [React 16.2.0 发布，构建用户界面的 JavaScript 库](https://www.oschina.net/news/90999/react-16-2-0)       
-9. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Egg 1.12.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/91032/egg-1-12-0)       
+7. [yuri2web v0.9.4 发布，Node.js web 服务多进程外壳](https://www.oschina.net/news/91025/yuri2web-0-9-4)       
+8. [Jsonnet-PHP v1.2.0 发布， PHP 支持 Jsonnet 扩展](https://www.oschina.net/news/91018/jsonnet-php-1-2-0-released)       
+9. [Tailwind CSS —— 定制化快速 UI 开发 CSS 框架](https://www.oschina.net/p/tailwindcss)       
 10. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
         部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_49/)*       
