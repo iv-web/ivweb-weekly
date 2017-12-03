@@ -1,16 +1,15 @@
 # WEEKLY LIST        
 ## 第49周文章列表       
 1. [Total.js v2.9.1 发布，Node.js 的 MVC 框架](https://www.oschina.net/news/90927/totaljs-2-9-1)       
-2. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
-3. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
-4. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
-5. [你需要知道的CSS-in-JS](http://www.infoq.com/cn/news/2017/11/css-in-js-need-know?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Egg 1.12.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/91032/egg-1-12-0)       
-7. [yuri2web v0.9.4 发布，Node.js web 服务多进程外壳](https://www.oschina.net/news/91025/yuri2web-0-9-4)       
-8. [Jsonnet-PHP v1.2.0 发布， PHP 支持 Jsonnet 扩展](https://www.oschina.net/news/91018/jsonnet-php-1-2-0-released)       
-9. [Tailwind CSS —— 定制化快速 UI 开发 CSS 框架](https://www.oschina.net/p/tailwindcss)       
-10. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 3
-        部分: JavaScript 中的类](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p3/index.html?ca=drs-)       
+2. [Useful HTML-, CSS- and JavaScript Tools That Do Pretty Much Everything](https://www.smashingmagazine.com/2011/06/useful-html-css-and-javascript-tools-and-libraries/)       
+3. [How To Build A CLI Tool With Node.js And PhantomJS](https://www.smashingmagazine.com/2014/02/build-cli-tool-nodejs-phantomjs/)       
+4. [Sailing With Sails.js: An MVC-style Framework For Node.js](https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/)       
+5. [Finally, CSS In JS! Meet CSSX](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)       
+6. [[前端] [译] 阅读 NodeJS 文档，我学到了这 19 件事情](http://gold.xitu.io/entry/583ad71d128fe1006be5ddd6)       
+7. [[前端] ajax 上传文件；nodejs 接收文件；](https://gold.xitu.io/entry/58413d870ce46300576aa950)       
+8. [[前端] 15 个有趣的 JavaScript 与 CSS 库](http://gold.xitu.io/entry/583ed0d561ff4b006ce73623)       
+9. [Jsonnet-PHP v1.2.0 发布， PHP 支持 Jsonnet 扩展](https://www.oschina.net/news/91018/jsonnet-php-1-2-0-released)       
+10. [Mithril.js 1.1.6 发布，JavaScript MVC 框架](https://www.oschina.net/news/91135/mithriljs-1-1-6)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_49/)*       
 
        
