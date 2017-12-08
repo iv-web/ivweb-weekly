@@ -5,11 +5,11 @@
 3. [[后端] 使用 StatsD + Grafana + InfluxDB 搭建 Node.js 监控系统](https://gold.xitu.io/entry/5846b0c7a22b9d006c328cd2)       
 4. [Fastify 0.35.5 发布，极速 Node.js 的 Web 框架](https://www.oschina.net/news/91221/fastify-0-35-5)       
 5. [Lunr.js 2.1.5 发布，小巧精确的 JavaScript 搜索引擎](https://www.oschina.net/news/91157/lunrjs-2-1-5)       
-6. [Fastify 0.35.3 发布，极速 Node.js 的 Web 框架](https://www.oschina.net/news/91158/fastify-0-35-3)       
-7. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Pinterest转向通用JavaScript和React](http://www.infoq.com/cn/news/2016/12/pinterest-react-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [Fastify 0.35.3 发布，极速 Node.js 的 Web 框架](https://www.oschina.net/news/91158/fastify-0-35-3)       
 8. [[前端] 割裂的前端工程师 --- 2017 年前端生态窥探](https://gold.xitu.io/entry/584a765dac502e006c5faffb)       
-9. [[前端] JavaScript 测试︰ 单元 vs 功能 vs 集成测试](https://gold.xitu.io/entry/584ab2dc128fe1006c7cdc11)       
-10. [[前端] 简单几步助你优化 React 应用包体](https://gold.xitu.io/entry/58443c3ea22b9d006c25c07d)       
+9. [[前端] Hello RxJS](https://gold.xitu.io/entry/584c215c61ff4b006cc74eb7)       
+10. [[前端] [译] 如何用 JavaScript 作画](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_50/)*       
 
        
