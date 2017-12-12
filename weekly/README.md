@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第51周文章列表       
-1. [[前端] Weex 在双十一会场的大规模应用](https://gold.xitu.io/entry/58514f0f1b69e60056bf6f7c)       
+1. [[前端] Vue-Quill-Editor 基于Quill、适用于Vue2的富文本编辑器](https://gold.xitu.io/entry/5852b6fc61ff4b006c89b49d)       
 2. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 3. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
 4. [[前端] Top JavaScript Frameworks & Topics to Learn in 2017](https://gold.xitu.io/entry/584d6802a22b9d0058e12074)       
