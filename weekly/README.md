@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第51周文章列表       
-1. [[后端] [译]-500 行 Python 代码实现一个功能系列之：实现一个最简单的对象模型](https://gold.xitu.io/entry/5852965661ff4b0063a72977)       
+1. [[前端] Vue.js 2.0 迁移指南](https://gold.xitu.io/entry/5853bf7761ff4b0063ad13cd)       
 2. [[前端] WxNotificationCenter - 微信小程序通知模式类, 页间传值及降低小程序开发的耦合度](http://gold.xitu.io/entry/5817da472e958a0054ac6968)       
 3. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
 4. [[前端] Top JavaScript Frameworks & Topics to Learn in 2017](https://gold.xitu.io/entry/584d6802a22b9d0058e12074)       
