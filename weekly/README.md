@@ -7,9 +7,9 @@
 5. [[前端] 基于 Vue.js 的表格分页组件](https://gold.xitu.io/entry/585a6d7d61ff4b0058fd4b19)       
 6. [[前端] 畅想未来的前端周刊（第十二期）](https://gold.xitu.io/entry/585662eeb123db0065722792)       
 7. [[前端] 减少前端代码耦合](https://gold.xitu.io/entry/585aa547128fe1006dd7b39e)       
-8. [The best of JavaScript Weekly in 2016](http://javascriptweekly.com/issues/315)       
+8. [fastjson 1.2.43 版本发布，Bug 修复以及安全加固](https://www.oschina.net/news/91605/fastjson-1-2-43-released)       
 9. [协作翻译 | 解读 JavaScript 之 V8 引擎及代码优化技巧](https://www.oschina.net/translate/how-does-javascript-actually-work-part-2)       
-10. [[Android] ReactNative For Android(RN4A) 源码解读 - 运行环境的创建流程](https://gold.xitu.io/entry/585a9d72da2f600065759e92)       
+10. [JSON for Modern C++ 3.0.0 正式发布：包含重大变更](https://www.oschina.net/news/91620/json-hpp-3-0-0-released)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_52/)*       
 
        
