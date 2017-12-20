@@ -5,11 +5,11 @@
 3. [[前端] Vuetify - Vue.js 2.0 组建库](https://gold.xitu.io/entry/5858052a128fe1006b805e07)       
 4. [[前端] 简单粗暴，一晚上用 node、Vue 写个联机五子棋](https://gold.xitu.io/entry/585690da128fe1006db224fc)       
 5. [[前端] 基于 Vue.js 的表格分页组件](https://gold.xitu.io/entry/585a6d7d61ff4b0058fd4b19)       
-6. [[前端] 畅想未来的前端周刊（第十二期）](https://gold.xitu.io/entry/585662eeb123db0065722792)       
-7. [[前端] 减少前端代码耦合](https://gold.xitu.io/entry/585aa547128fe1006dd7b39e)       
-8. [fastjson 1.2.43 版本发布，Bug 修复以及安全加固](https://www.oschina.net/news/91605/fastjson-1-2-43-released)       
-9. [协作翻译 | 解读 JavaScript 之 V8 引擎及代码优化技巧](https://www.oschina.net/translate/how-does-javascript-actually-work-part-2)       
-10. [JSON for Modern C++ 3.0.0 正式发布：包含重大变更](https://www.oschina.net/news/91620/json-hpp-3-0-0-released)       
+6. [[前端] 减少前端代码耦合](https://gold.xitu.io/entry/585aa547128fe1006dd7b39e)       
+7. [[前端] 畅想未来的前端周刊（第十二期）](https://gold.xitu.io/entry/585662eeb123db0065722792)       
+8. [React 组件库 uiw 1.6.0 发布，新增多个功能](https://www.oschina.net/news/91629/uiw-1-6-0-released)       
+9. [SpringOne 2017：与Pivotal聊大会、Spring、Reactor、WebFlux及其他](http://www.infoq.com/cn/news/2017/12/s1p-Conference-reactor-webflux?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： Reactor实例解析](http://www.infoq.com/cn/articles/handle-data-science?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_52/)*       
 
        
