@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第53周文章列表       
 1. [文章： 前端组件化开发方案及其在React Native中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： 构建 React 同构应用及优化](http://www.infoq.com/cn/presentations/application-and-optimization-of-constructing-react-isomorphism?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： ExtJS十年浮沉录](http://www.infoq.com/cn/articles/the-rise-and-fall-of-ext-js?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [协作翻译 | 不使用 JS 匿名函数的三个理由](https://www.oschina.net/translate/three-reasons-i-avoid-anonymous-js-functions-like-the-plague)       
-5. [文章： Netflix Data Benchmark：云数据存储基准测试](http://www.infoq.com/cn/articles/Netflix-Data-Benchmark-cloud-data-storage-test?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： 小文件大问题——海量小文件解决方案初探](http://www.infoq.com/cn/articles/solution-of-massive-small-files?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 腾讯游戏运维服务体系演变史](http://www.infoq.com/cn/articles/tencentgame-opsarchitect-history?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： 又拍云-企业容器私有云架构分享](http://www.infoq.com/cn/presentations/sharing-of-architecture-of-ypyun-container-private-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： 跨越篱笆：蘑菇街每秒订单数25倍提升历程](http://www.infoq.com/cn/articles/mogujie-orders-per-second-25-times-enhance?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [每日一博 | 用 Vue.js 递归组件构建一个可折叠的树形菜单](https://my.oschina.net/u/2275217/blog/1594183)       
+3. [视频演讲： 构建 React 同构应用及优化](http://www.infoq.com/cn/presentations/application-and-optimization-of-constructing-react-isomorphism?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： ExtJS十年浮沉录](http://www.infoq.com/cn/articles/the-rise-and-fall-of-ext-js?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [协作翻译 | 不使用 JS 匿名函数的三个理由](https://www.oschina.net/translate/three-reasons-i-avoid-anonymous-js-functions-like-the-plague)       
+6. [Jackson 2.8.11 发布，高性能 JSON 处理](https://www.oschina.net/news/91846/jackson-2-8-11-released)       
+7. [iView 2.8.0 发布，基于 Vue.js 的企业级 UI 组件库](https://www.oschina.net/news/91844/iview-2-8-0-released)       
+8. [React 组件库 uiw 1.6.2 发布，新增多个功能](https://www.oschina.net/news/91837/uiw-react-1-6-2-released)       
+9. [协作翻译 | 解读 JavaScript 内存管理和常见内存泄露处理](https://www.oschina.net/translate/how-does-javascript-actually-work-part-3)       
 10. [文章： 增进编程技能的万全之计](http://www.infoq.com/cn/articles/one-sure-fire-way-to-improve-your-coding?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_53/)*       
 
