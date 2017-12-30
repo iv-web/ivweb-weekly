@@ -2,14 +2,14 @@
 ## 第53周文章列表       
 1. [每日一博 | JSDuck 与 AngularJS 融合技巧](https://my.oschina.net/lsjcoder/blog/1595374)       
 2. [Ember.js v2.18.0-beta.5 发布，JavaScript MVC 框架](https://www.oschina.net/news/91916/emberjs-2-18-0-beta-5)       
-3. [文章： 前端组件化开发方案及其在React Native中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [2018 年，React 将独占前端框架鳌头？](https://www.oschina.net/news/91865/react-js-in-2018)       
-5. [Vue 2.5.12 和 2.5.13 发布，轻量级 JavaScript 框架](https://www.oschina.net/news/91858/vuejs-2-5-12-and-2-5-13)       
-6. [iView 2.8.0 发布，基于 Vue.js 的企业级 UI 组件库](https://www.oschina.net/news/91844/iview-2-8-0-released)       
-7. [React 组件库 uiw 1.6.2 发布，新增多个功能](https://www.oschina.net/news/91837/uiw-react-1-6-2-released)       
+3. [Knockout.js 3.5.0 Beta 发布，JavaScript 的 UI 库](https://www.oschina.net/news/91978/knockout-js-3-5-0-beta)       
+4. [文章： 前端组件化开发方案及其在React Native中的运用](http://www.infoq.com/cn/articles/front-end-component-develop-and-application-in-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [2018 年，React 将独占前端框架鳌头？](https://www.oschina.net/news/91865/react-js-in-2018)       
+6. [前端每周清单第 45 期: Safari 支持 Service Worker, Parcel 完整教程, 2017 前端大事件](http://www.infoq.com/cn/news/2017/12/arch-weekly-45?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [WebStorm 2017.3.2 发布，JavaScript 编辑器](https://www.oschina.net/news/91911/webstorm-2017-3-2)       
 8. [协作翻译 | 解读 JavaScript 内存管理和常见内存泄露处理](https://www.oschina.net/translate/how-does-javascript-actually-work-part-3)       
 9. [每日一博 | 用 Vue.js 递归组件构建一个可折叠的树形菜单](https://my.oschina.net/u/2275217/blog/1594183)       
-10. [Jackson 2.8.11 发布，高性能 JSON 处理](https://www.oschina.net/news/91846/jackson-2-8-11-released)       
+10. [React 组件库 uiw 1.6.2 发布，新增多个功能](https://www.oschina.net/news/91837/uiw-react-1-6-2-released)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2017/week_53/)*       
 
        
