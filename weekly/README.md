@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第2周文章列表       
-1. [文章： Netflix Conductor : 一个微服务的编排器](http://www.infoq.com/cn/articles/netflix-conductor-a-micro-service-orchestration?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 实时Web的发展与实践](http://www.infoq.com/cn/articles/JavaScript-Web?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [#366: 10 Insights from the State of JS Survey](http://javascriptweekly.com/issues/366)       
 3. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
 4. [This week's JavaScript news, issue 363](http://javascriptweekly.com/issues/363)       
