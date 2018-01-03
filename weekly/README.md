@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第2周文章列表       
-1. [文章： 实时Web的发展与实践](http://www.infoq.com/cn/articles/JavaScript-Web?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Gartner有关Java EE正在消亡的报告是否太言过其实了？](http://www.infoq.com/cn/news/2017/01/Gartner-downgrades-Java-EE?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [#366: 10 Insights from the State of JS Survey](http://javascriptweekly.com/issues/366)       
 3. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
 4. [This week's JavaScript news, issue 363](http://javascriptweekly.com/issues/363)       
