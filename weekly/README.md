@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第2周文章列表       
-1. [协作翻译 | 8 个帮助编写可维护前端代码的 CSS 策略](https://www.oschina.net/translate/8-css-strategies-for-writing-maintainable-streamli)       
+1. [Linux Kernel 4.15-rc6，4.14.10: stable 发布](https://www.oschina.net/news/92019/linux-kernel-4-15-rc6-released)       
 2. [#366: 10 Insights from the State of JS Survey](http://javascriptweekly.com/issues/366)       
 3. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
 4. [This week's JavaScript news, issue 363](http://javascriptweekly.com/issues/363)       
