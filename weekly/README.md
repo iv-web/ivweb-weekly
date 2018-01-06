@@ -1,9 +1,9 @@
 # WEEKLY LIST        
 ## 第2周文章列表       
-1. [Linux Kernel 4.15-rc6，4.14.10: stable 发布](https://www.oschina.net/news/92019/linux-kernel-4-15-rc6-released)       
-2. [#366: 10 Insights from the State of JS Survey](http://javascriptweekly.com/issues/366)       
-3. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
-4. [This week's JavaScript news, issue 363](http://javascriptweekly.com/issues/363)       
+1. [Ember.js v2.18.0 发布，JavaScript MVC 框架](https://www.oschina.net/news/92038/emberjs-2-18-0-released)       
+2. [#367: Hyperapp 1.0, Stimulus, and the best of 2017](http://javascriptweekly.com/issues/367)       
+3. [#365: Results From The State of JavaScript 2017 Survey](http://javascriptweekly.com/issues/365)       
+4. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
 5. [CanJS 3.0版将框架划分为更细粒度的模块](http://www.infoq.com/cn/news/2017/01/canjs-30?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [面向 JavaScript 开发人员的 ECMAScript 6 指南，第 4
         部分: 标准库中的新对象和类型](http://www.ibm.com/developerworks/cn/web/wa-ecmascript6-neward-p4/index.html?ca=drs-)       
