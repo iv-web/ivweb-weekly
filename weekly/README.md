@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第2周文章列表       
-1. [Ember.js v2.18.0 发布，JavaScript MVC 框架](https://www.oschina.net/news/92038/emberjs-2-18-0-released)       
+1. [Apache OpenWebBeans 2.0.3 发布](https://www.oschina.net/news/92041/apache-openwebbeans-2-0-3)       
 2. [#367: Hyperapp 1.0, Stimulus, and the best of 2017](http://javascriptweekly.com/issues/367)       
 3. [#365: Results From The State of JavaScript 2017 Survey](http://javascriptweekly.com/issues/365)       
 4. [#364: Angular 5.1, a React course, and an all new webapp bundler](http://javascriptweekly.com/issues/364)       
