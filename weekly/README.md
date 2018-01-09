@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第3周文章列表       
-1. [视频演讲： 蘑方业务架构的演变过程](http://www.infoq.com/cn/presentations/mofang-business-architecture-evolution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 中小型研发团队架构实践：如何规范公司所有应用分层？](http://www.infoq.com/cn/articles/architecture-practice-12-application-layer?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 阿里巴巴AAAI 2018录用论文：基于词尾预测提高英俄翻译质量](http://www.infoq.com/cn/articles/alibaba-AAAI-2018-improve-translate-quantity?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频演讲： 京东商城无线端运营后台（通天塔）架构演变](http://www.infoq.com/cn/presentations/jingdong-mall-wireless-terminal-operations-background?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [视频演讲： 微博混合云架构及快速弹性扩缩容实践](http://www.infoq.com/cn/presentations/hybrid-cloud-architecture-and-rapid-resilience-expansion-capacity?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 百度iOS输入法性能优化](http://www.infoq.com/cn/presentations/performance-optimization-of-baidu-ios-input-method?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： FaaS如何在云2.0时代发挥优势，又将走向何方？](http://www.infoq.com/cn/articles/faas-cloud-2.0?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： WSO2流处理器上的近似查询](http://www.infoq.com/cn/articles/WSO2-algorithms-applied?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 奔驰在打造未来汽车时的DevOps实践](http://www.infoq.com/cn/articles/benz-devops?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： BaaS（后端即服务）在公有云上的最佳实践](http://www.infoq.com/cn/presentations/the-best-practice-of-baas-on-the-public-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 浅谈代码复用攻击与防御](http://www.infoq.com/cn/presentations/attack-and-defense-of-code-reuse?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
