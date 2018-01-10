@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第3周文章列表       
-1. [视频演讲： 百度iOS输入法性能优化](http://www.infoq.com/cn/presentations/performance-optimization-of-baidu-ios-input-method?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： FaaS如何在云2.0时代发挥优势，又将走向何方？](http://www.infoq.com/cn/articles/faas-cloud-2.0?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： WSO2流处理器上的近似查询](http://www.infoq.com/cn/articles/WSO2-algorithms-applied?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 奔驰在打造未来汽车时的DevOps实践](http://www.infoq.com/cn/articles/benz-devops?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [视频演讲： BaaS（后端即服务）在公有云上的最佳实践](http://www.infoq.com/cn/presentations/the-best-practice-of-baas-on-the-public-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [This week's JavaScript news, issue 317](http://javascriptweekly.com/issues/317)       
+2. [文章： 使用SpringBoot开启微服务之旅](http://www.infoq.com/cn/articles/Microservices-SpringBoot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 全流程重构京东服务市场系统](http://www.infoq.com/cn/articles/fw-jd-refactor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [视频演讲： 蘑菇街混合云架构实践](http://www.infoq.com/cn/presentations/mogujie-mixed-cloud-architecture-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 华为Git实践：工作模式创新，及多中心分布式架构](http://www.infoq.com/cn/presentations/huawei-git-practice-work-pattern-innovation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 浅谈代码复用攻击与防御](http://www.infoq.com/cn/presentations/attack-and-defense-of-code-reuse?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
