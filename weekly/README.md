@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第3周文章列表       
-1. [This week's JavaScript news, issue 317](http://javascriptweekly.com/issues/317)       
-2. [文章： 使用SpringBoot开启微服务之旅](http://www.infoq.com/cn/articles/Microservices-SpringBoot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 全流程重构京东服务市场系统](http://www.infoq.com/cn/articles/fw-jd-refactor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [视频演讲： 蘑菇街混合云架构实践](http://www.infoq.com/cn/presentations/mogujie-mixed-cloud-architecture-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [视频演讲： 华为Git实践：工作模式创新，及多中心分布式架构](http://www.infoq.com/cn/presentations/huawei-git-practice-work-pattern-innovation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 腾讯云容器集群实践](http://www.infoq.com/cn/presentations/tencent-cloud-container-cluster-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 如何实现金服业务流程动态化](http://www.infoq.com/cn/articles/xstate-ctrip-dynamic-business-flow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [视频演讲： 百度统计助力精细化数据分析与营销](http://www.infoq.com/cn/presentations/baidu-statistical-help-data-analysis-and-marketing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 榨取最后一滴油水](http://www.infoq.com/cn/articles/most-training-data-svm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 蘑菇街分布式消息中间件 Corgi 在多场景下应用架构演进](http://www.infoq.com/cn/presentations/mogujie-corgi-in-multi-scene-architecture-evolution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 浅谈代码复用攻击与防御](http://www.infoq.com/cn/presentations/attack-and-defense-of-code-reuse?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
