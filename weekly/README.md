@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第3周文章列表       
-1. [Yelp开源数据管道项目最新组件——数据管道客户端库](http://www.infoq.com/cn/news/2017/01/yelp-data-pipeline-client?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： 百度移动统计重磅升级](http://www.infoq.com/cn/presentations/baidu-mobile-statistics-upgrade?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [以敏捷支撑数字化领导力](http://www.infoq.com/cn/news/2018/01/digital-leadership-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [Facebook开源其Java竞争条件检测工具RacerD](http://www.infoq.com/cn/news/2018/01/java-concurrency-infer-racerd?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [基于Kubernetes构建现代大数据管道](http://www.infoq.com/cn/news/2018/01/big-data-pipelines-kubernetes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [npm 发布 2017 JavaScript 框架报告：React 占主导地位](https://www.oschina.net/news/92218/npm-state-of-javascript-frameworks-2017-part-1)       
+2. [视频演讲： “一框多用”Android通用脚本测试解决方案](http://www.infoq.com/cn/presentations/the-solution-of-android-general-script-test?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [视频演讲： 基于卷积神经网络在手机端实现文档检测](http://www.infoq.com/cn/presentations/document-detection-based-on-convolution-neural-network-in-mobile-terminal?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [以敏捷支撑数字化领导力](http://www.infoq.com/cn/news/2018/01/digital-leadership-agile?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Facebook开源其Java竞争条件检测工具RacerD](http://www.infoq.com/cn/news/2018/01/java-concurrency-infer-racerd?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 浅谈代码复用攻击与防御](http://www.infoq.com/cn/presentations/attack-and-defense-of-code-reuse?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于clang插件的一种iOS包大小瘦身方案](http://www.infoq.com/cn/articles/clang-plugin-ios-app-size-reducing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
