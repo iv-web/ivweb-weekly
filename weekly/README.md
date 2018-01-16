@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [Google发布新的图像压缩技术，最高可节省75％带宽](http://www.infoq.com/cn/news/2017/01/Google-RAISR?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [FEX 技术周刊 - 2018/01/08](http://fex.baidu.com/blog/2018/01/fex-weekly-08//)       
-3. [FEX 技术周刊 - 2017/12/25](http://fex.baidu.com/blog/2017/12/fex-weekly-25//)       
-4. [FEX 技术周刊 - 2017/12/18](http://fex.baidu.com/blog/2017/12/fex-weekly-18//)       
-5. [FEX 技术周刊 - 2017/12/11](http://fex.baidu.com/blog/2017/12/fex-weekly-11//)       
+1. [This week's JavaScript news, issue 318](http://javascriptweekly.com/issues/318)       
+2. [FEX 技术周刊 - 2018/01/15](http://fex.baidu.com/blog/2018/01/fex-weekly-15//)       
+3. [FEX 技术周刊 - 2018/01/01](http://fex.baidu.com/blog/2018/01/fex-weekly-01//)       
+4. [FEX 技术周刊 - 2017/12/25](http://fex.baidu.com/blog/2017/12/fex-weekly-25//)       
+5. [FEX 技术周刊 - 2017/12/18](http://fex.baidu.com/blog/2017/12/fex-weekly-18//)       
 6. [文章： 区块链：中间件的下一件大事](http://www.infoq.com/cn/articles/blockchain-middleware?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [视频演讲： 移动CDN及直播性能优化](http://www.infoq.com/cn/presentations/performance-optimization-of-mobile-cdn-and-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 构建规模化的企业级风险感知体系](http://www.infoq.com/cn/presentations/the-construction-of-a-large-scale-enterprise-level-risk-perception-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
