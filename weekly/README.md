@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [视频演讲： 基于用户分级的个性化应用分发的系统架构](http://www.infoq.com/cn/presentations/system-architecture-of-personalized-app-distribution-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Web Development Reading List #166: Efficient Docker, CSP Learnings, And JavaScript’s Global Object](https://www.smashingmagazine.com/2017/01/web-development-reading-list-166/)       
 2. [FEX 技术周刊 - 2018/01/15](http://fex.baidu.com/blog/2018/01/fex-weekly-15//)       
 3. [FEX 技术周刊 - 2018/01/01](http://fex.baidu.com/blog/2018/01/fex-weekly-01//)       
 4. [FEX 技术周刊 - 2017/12/25](http://fex.baidu.com/blog/2017/12/fex-weekly-25//)       
