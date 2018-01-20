@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第4周文章列表       
-1. [WeexConf 2017：Weex新版发布，推出Market插件市场](http://www.infoq.com/cn/news/2017/01/weex-conf-2017?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： Fregata: 基于Spark的无参数快速大规模机器学习算法库](http://www.infoq.com/cn/presentations/fregata-large-scale-machine-learning-algorithm-based-on-spark?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [FEX 技术周刊 - 2018/01/15](http://fex.baidu.com/blog/2018/01/fex-weekly-15//)       
 3. [FEX 技术周刊 - 2018/01/01](http://fex.baidu.com/blog/2018/01/fex-weekly-01//)       
 4. [FEX 技术周刊 - 2017/12/25](http://fex.baidu.com/blog/2017/12/fex-weekly-25//)       
