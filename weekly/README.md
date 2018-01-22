@@ -1,4 +1,18 @@
 # WEEKLY LIST        
+## 第5周文章列表       
+1. [文章： 2016机器学习大盘点（第1篇）](http://www.infoq.com/cn/articles/2016-machine-learning-market-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Monthly Web Development Update 1/2018: Browser Diversity, Ethical Design, And CSS Alignment](https://www.smashingmagazine.com/2018/01/monthly-web-development-update-1-2018/)       
+3. [Learning Elm From A Drum Sequencer (Part 2)](https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-2/)       
+4. [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)       
+5. [A Comprehensive Guide To UX Research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/)       
+6. [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](http://www.infoq.com/cn/news/2017/01/Ali-9-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： Chaos工程](http://www.infoq.com/cn/articles/chaos-engineering?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 2016年区块链技术回顾与总结：联盟链与公有链的分道扬镳](http://www.infoq.com/cn/articles/review-and-summary-of-chain-technology-in-2016?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [视频演讲： 京东数据中心网络的高可用架构](http://www.infoq.com/cn/presentations/jingdong-data-center-network-highly-available-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_5/)*       
+
+       
 ## 第4周文章列表       
 1. [视频演讲： FinTech圆桌论坛](http://www.infoq.com/cn/presentations/round-table-forum-of-fintech?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [FEX 技术周刊 - 2018/01/15](http://fex.baidu.com/blog/2018/01/fex-weekly-15//)       
@@ -10,7 +24,7 @@
 8. [视频演讲： 构建规模化的企业级风险感知体系](http://www.infoq.com/cn/presentations/the-construction-of-a-large-scale-enterprise-level-risk-perception-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 为了可测性而设计](http://www.infoq.com/cn/articles/design-for-testability?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： FinTech带来的挑战与机遇](http://www.infoq.com/cn/presentations/challenges-and-opportunities-brought-by-fintech?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_4/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_5/)*       
 
        
 ## 第3周文章列表       
@@ -24,7 +38,7 @@
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 科技把我们每个人都变成一个有“围墙的花园”](http://www.infoq.com/cn/articles/technology-turn-us-all-into-a-walled-garden?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 一个遗留系统自动化测试的七年之痒](http://www.infoq.com/cn/articles/automation-test-of-a-seven-year-legacy-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_4/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_5/)*       
 
        
 ## 第2周文章列表       
@@ -39,5 +53,5 @@
 8. [谷歌以物联网操作系统Android Things进军物联网](http://www.infoq.com/cn/news/2017/01/android-things?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 解读2016之物联网：巨头割据、安全问题凸显](http://www.infoq.com/cn/articles/2016-review-iot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [This week's JavaScript news, issue 316](http://javascriptweekly.com/issues/316)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_4/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_5/)*       
 
