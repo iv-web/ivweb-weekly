@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第5周文章列表       
-1. [文章： 2016机器学习大盘点（第1篇）](http://www.infoq.com/cn/articles/2016-machine-learning-market-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Monthly Web Development Update 1/2018: Browser Diversity, Ethical Design, And CSS Alignment](https://www.smashingmagazine.com/2018/01/monthly-web-development-update-1-2018/)       
-3. [Learning Elm From A Drum Sequencer (Part 2)](https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-2/)       
-4. [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)       
-5. [A Comprehensive Guide To UX Research](https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/)       
+1. [文章： 集成软件开发工具有多难？现实很残酷！](http://www.infoq.com/cn/articles/tool-integration-hard-truth?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)       
+3. [How To Internationalize Your WordPress Website](https://www.smashingmagazine.com/2018/01/internationalize-your-wordpress-website/)       
+4. [Learning Elm From A Drum Sequencer (Part 2)](https://www.smashingmagazine.com/2018/01/learning-elm-drum-sequencer-part-2/)       
+5. [Understanding And Using REST APIs](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)       
 6. [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](http://www.infoq.com/cn/news/2017/01/Ali-9-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： Chaos工程](http://www.infoq.com/cn/articles/chaos-engineering?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
