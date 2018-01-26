@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第5周文章列表       
-1. [LinkedIn Bluepill：开源的大规模iOS UI测试工具](http://www.infoq.com/cn/news/2017/01/linkedin-bluepill-ios-testing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/)       
-3. [Work-Life Balance: Tips From The Community](https://www.smashingmagazine.com/2018/01/work-life-balance-tips-community/)       
-4. [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/)       
-5. [Monthly Web Development Update 1/2018: Browser Diversity, Ethical Design, And CSS Alignment](https://www.smashingmagazine.com/2018/01/monthly-web-development-update-1-2018/)       
+1. [How Mail.Ru Reduced Email Storage From 50 To 32 PB](https://www.smashingmagazine.com/2017/01/reducing-email-storage-mailru/)       
+2. [Be Watchful: PHP And WordPress Functions That Can Make Your Site Insecure](https://www.smashingmagazine.com/2018/01/php-wordpress-functions-site-insecure/)       
+3. [A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/)       
+4. [Optimizing Sketch Files: Lessons Learned In Creating The Reduce App (Case Study)](https://www.smashingmagazine.com/2018/01/reduce-app-optimizing-sketch-files/)       
+5. [Work-Life Balance: Tips From The Community](https://www.smashingmagazine.com/2018/01/work-life-balance-tips-community/)       
 6. [阿里9年，我总结的前端架构演进3大阶段及团队管理心法](http://www.infoq.com/cn/news/2017/01/Ali-9-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： Chaos工程](http://www.infoq.com/cn/articles/chaos-engineering?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
