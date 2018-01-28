@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第5周文章列表       
-1. [Web Development Reading List #167: On Team Retreats, Immutable Cache, And Eliminating Clearfix Hacks](https://www.smashingmagazine.com/2017/01/web-development-reading-list-167/)       
+1. [Nodemailer 4.4.2 发布，Node.js 邮件发送组件](https://www.oschina.net/news/92634/nodemailer-4-4-2)       
 2. [Be Watchful: PHP And WordPress Functions That Can Make Your Site Insecure](https://www.smashingmagazine.com/2018/01/php-wordpress-functions-site-insecure/)       
 3. [A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/)       
 4. [Optimizing Sketch Files: Lessons Learned In Creating The Reduce App (Case Study)](https://www.smashingmagazine.com/2018/01/reduce-app-optimizing-sketch-files/)       
