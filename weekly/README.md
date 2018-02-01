@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第6周文章列表       
-1. [大数据与机器学习 2016年大事记](http://www.infoq.com/cn/news/2017/02/Big-data-machine-learning-2016?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [编写良好的单元测试](http://www.infoq.com/cn/news/2017/02/writing-good-unit-tests?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [线程笔记：Future模式 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5608663.html)       
 3. [HTML5笔记：跨域通讯、多线程、本地存储和多图片上传技术 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5554530.html)       
 4. [Spark笔记：复杂RDD的API的理解（下） - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5521495.html)       
