@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第6周文章列表       
-1. [Ant Design 3.1.6 发布，阿里企业级 UI 设计语言](https://www.oschina.net/news/92854/ant-design-3-1-6)       
+1. [视频演讲： 阿里巴巴调度与集群管理系统Sigma](http://www.infoq.com/cn/presentations/alibaba-scheduling-and-cluster-management-system-sigma?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [线程笔记：Future模式 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5608663.html)       
 3. [HTML5笔记：跨域通讯、多线程、本地存储和多图片上传技术 - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5554530.html)       
 4. [Spark笔记：复杂RDD的API的理解（下） - 夏天的森林](http://www.cnblogs.com/sharpxiajun/p/5521495.html)       
