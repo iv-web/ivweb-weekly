@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第7周文章列表       
-1. [文章： 禁用Python的GC机制后，Instagram性能提升10%](http://www.infoq.com/cn/articles/disable-python-gc-mechanism-instagram-performance-increase?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [JS startup performance / WebAssembly performance / React Native at Instagram](http://javascriptweekly.com/issues/321)       
 2. [设计 Timeline 时间轴来更精确地控制动画](https://www.h5jun.com/post/timeline-for-animations.html)       
 3. [漫谈 JS 函数式编程（一）](https://www.h5jun.com/post/js-functional-1.html)       
 4. [JavaScript 最新特性实现的三大黑科技](https://www.h5jun.com/post/three-black-tech-in-modern-js.html)       
