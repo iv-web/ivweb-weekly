@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第7周文章列表       
-1. [Google神经机器翻译系统实现Zero-Shot翻译](http://www.infoq.com/cn/news/2017/02/zero-shot-translation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [协作翻译 | 用于进行 AJAX 调用的顶级 JavaScript 库](https://www.oschina.net/translate/top-javascript-libraries-for-making-ajax-calls)       
 2. [设计 Timeline 时间轴来更精确地控制动画](https://www.h5jun.com/post/timeline-for-animations.html)       
 3. [漫谈 JS 函数式编程（一）](https://www.h5jun.com/post/js-functional-1.html)       
 4. [JavaScript 最新特性实现的三大黑科技](https://www.h5jun.com/post/three-black-tech-in-modern-js.html)       
