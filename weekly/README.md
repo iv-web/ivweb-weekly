@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第8周文章列表       
-1. [文章： 《Cassandra权威指南》第二版书评及访谈](http://www.infoq.com/cn/articles/cassandra-2nd-edition-book-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： 一次一个微优化，改进Node.js应用的吞吐量](http://www.infoq.com/cn/articles/node-micro-optimizations-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html)       
 3. [React v16.2.0: Improved Support for Fragments](https://reactjs.org/blog/2017/11/28/react-v16.2.0-fragment-support.html)       
 4. [React v16.0](https://reactjs.org/blog/2017/09/26/react-v16.0.html)       
