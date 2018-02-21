@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [视频演讲： 蚂蚁金服在大数据合作上的创新实践](http://www.infoq.com/cn/presentations/innovation-practice-of-antgroup-clothing-in-the-cooperation-of-big-data?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [轻松管理你的 Node 版本](https://www.h5jun.com/post/manage_node_with_n.html)       
 2. [Bootstrap 4](http://blog.getbootstrap.com/2018/01/18/bootstrap-4/)       
 3. [Bootstrap 4 Beta 2](http://blog.getbootstrap.com/2017/10/19/bootstrap-4-beta-2/)       
 4. [Bootstrap 4 Beta](http://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)       
