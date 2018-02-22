@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [轻松管理你的 Node 版本](https://www.h5jun.com/post/manage_node_with_n.html)       
-2. [Bootstrap 4](http://blog.getbootstrap.com/2018/01/18/bootstrap-4/)       
-3. [Bootstrap 4 Beta 2](http://blog.getbootstrap.com/2017/10/19/bootstrap-4-beta-2/)       
-4. [Bootstrap 4 Beta](http://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)       
-5. [Introducing Bootstrap Jobs](http://blog.getbootstrap.com/2017/06/14/introducing-bootstrap-jobs/)       
+1. [架构周报| 一个经过优化的微服务架构案例](http://www.infoq.com/cn/news/2017/02/arch-weekly-Micro-service-archit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [New Bootstrap themes](http://blog.getbootstrap.com/2018/02/21/new-bootstrap-themes/)       
+3. [Bootstrap 4 Beta 3](http://blog.getbootstrap.com/2017/12/28/bootstrap-4-beta-3/)       
+4. [Bootstrap 4 Beta 2](http://blog.getbootstrap.com/2017/10/19/bootstrap-4-beta-2/)       
+5. [Bootstrap 4 Beta](http://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)       
 6. [文章： 就《在企业中发起和推广DevOps》的问答](http://www.infoq.com/cn/articles/book-review-scaling-DevOps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 基于容器服务的持续集成与云端交付（二）- 多维度打磨交付能力](http://www.infoq.com/cn/articles/CICDInCaaS-ImproveCD?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 真正的投资者如何区分AI的炒作与现实](http://www.infoq.com/cn/articles/how-real-investors-separate-ai-hype-from-reality?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
