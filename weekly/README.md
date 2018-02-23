@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第9周文章列表       
-1. [架构周报| 一个经过优化的微服务架构案例](http://www.infoq.com/cn/news/2017/02/arch-weekly-Micro-service-archit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [WSO2的开源物联网服务器提供了增强的集成与分析能力](http://www.infoq.com/cn/news/2017/02/wso2-iot-server-advances?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [New Bootstrap themes](http://blog.getbootstrap.com/2018/02/21/new-bootstrap-themes/)       
 3. [Bootstrap 4 Beta 3](http://blog.getbootstrap.com/2017/12/28/bootstrap-4-beta-3/)       
 4. [Bootstrap 4 Beta 2](http://blog.getbootstrap.com/2017/10/19/bootstrap-4-beta-2/)       
