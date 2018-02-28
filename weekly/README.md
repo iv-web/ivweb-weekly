@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [视频演讲： 大数据场景下应用性能排查的智能根源分析](http://www.infoq.com/cn/presentations/intelligent-data-analysis-in-big-data-scenarios?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [通过 Schema.org 让网站更智能，第 1 部分: Schema.org 信息模型简介](http://www.ibm.com/developerworks/cn/web/wa-schemaorg1/index.html?ca=drs-)       
-3. [Python API 类型系统的设计与演变](http://www.ibm.com/developerworks/cn/web/wa-lo-python-api-type-sysytem-design-evolution/index.html?ca=drs-)       
-4. [使用 bluebird 实现更强大的 Promise](http://www.ibm.com/developerworks/cn/web/wa-lo-use-bluebird-implements-power-promise/index.html?ca=drs-)       
-5. [使用 Angular2 和 Ionic3 开发 iOS 应用](http://www.ibm.com/developerworks/cn/web/wa-use-angular2-and-ionic3-develop-ios/index.html?ca=drs-)       
+1. [文章： MuseFind：编写React组件的最佳实践](http://www.infoq.com/cn/articles/our-best-practices-for-writing-react-components?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [在 IBM Cloud Functions 平台上的调用操作](http://www.ibm.com/developerworks/cn/web/wa-invoke-openwhisk-action/index.html?ca=drs-)       
+3. [通过 Schema.org 让网站更智能，第 2 部分: Schema.org 语法](http://www.ibm.com/developerworks/cn/web/wa-schemaorg2/index.html?ca=drs-)       
+4. [Python API 类型系统的设计与演变](http://www.ibm.com/developerworks/cn/web/wa-lo-python-api-type-sysytem-design-evolution/index.html?ca=drs-)       
+5. [使用 bluebird 实现更强大的 Promise](http://www.ibm.com/developerworks/cn/web/wa-lo-use-bluebird-implements-power-promise/index.html?ca=drs-)       
 6. [文章： GANs将改变世界](http://www.infoq.com/cn/articles/gans-change-the-world?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 我在ThoughtWorks中的敏捷实践](http://www.infoq.com/cn/articles/my-agile-practice-in-thoughtworks?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 证券极速交易系统关键技术分析以及架构实践](http://www.infoq.com/cn/presentations/key-technology-of-the-securities-trading-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
