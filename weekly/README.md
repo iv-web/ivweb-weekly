@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [视频演讲： 天猫智能供应链](http://www.infoq.com/cn/presentations/tmall-intelligent-supply-chain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Node 7.6默认支持Async/Await](http://www.infoq.com/cn/news/2017/03/node-76-async-await?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [使用 Mavo 快速开发 Web 应用程序简介，第 1
                 部分: 开源 Web 应用程序框架 Mavo 入门](http://www.ibm.com/developerworks/cn/web/wa-rapid-application-development-mavo-1/index.html?ca=drs-)       
 3. [在 IBM Cloud Functions 平台上的调用操作](http://www.ibm.com/developerworks/cn/web/wa-invoke-openwhisk-action/index.html?ca=drs-)       
