@@ -1,11 +1,11 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [Node 7.6默认支持Async/Await](http://www.infoq.com/cn/news/2017/03/node-76-async-await?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [使用 Mavo 快速开发 Web 应用程序简介，第 1
-                部分: 开源 Web 应用程序框架 Mavo 入门](http://www.ibm.com/developerworks/cn/web/wa-rapid-application-development-mavo-1/index.html?ca=drs-)       
-3. [在 IBM Cloud Functions 平台上的调用操作](http://www.ibm.com/developerworks/cn/web/wa-invoke-openwhisk-action/index.html?ca=drs-)       
-4. [通过 Schema.org 让网站更智能，第 1 部分: Schema.org 信息模型简介](http://www.ibm.com/developerworks/cn/web/wa-schemaorg1/index.html?ca=drs-)       
-5. [通过 Schema.org 让网站更智能，第 2 部分: Schema.org 语法](http://www.ibm.com/developerworks/cn/web/wa-schemaorg2/index.html?ca=drs-)       
+1. [Shopify的闪购限流解决方案](http://www.infoq.com/cn/news/2017/03/Shopify-solve-idea?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [log.io：浏览器端实时日志监管系统](http://www.ibm.com/developerworks/cn/web/1607-browser-logio-monitor/index.html?ca=drs-)       
+3. [使用 Mavo 快速开发 Web 应用程序简介，第 2
+                部分: 使用 Mavo 处理多个属性、插件和 GitHub 存储](http://www.ibm.com/developerworks/cn/web/wa-rapid-application-development-mavo-2/index.html?ca=drs-)       
+4. [在 IBM Cloud Functions 平台上的调用操作](http://www.ibm.com/developerworks/cn/web/wa-invoke-openwhisk-action/index.html?ca=drs-)       
+5. [通过 Schema.org 让网站更智能，第 1 部分: Schema.org 信息模型简介](http://www.ibm.com/developerworks/cn/web/wa-schemaorg1/index.html?ca=drs-)       
 6. [文章： GANs将改变世界](http://www.infoq.com/cn/articles/gans-change-the-world?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 我在ThoughtWorks中的敏捷实践](http://www.infoq.com/cn/articles/my-agile-practice-in-thoughtworks?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 证券极速交易系统关键技术分析以及架构实践](http://www.infoq.com/cn/presentations/key-technology-of-the-securities-trading-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
