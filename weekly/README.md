@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第10周文章列表       
-1. [Shopify的闪购限流解决方案](http://www.infoq.com/cn/news/2017/03/Shopify-solve-idea?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [OSChina 初十乱弹 — 你明白好多道理 还是过不好这一生](https://my.oschina.net/xxiaobian/blog/1623608)       
 2. [log.io：浏览器端实时日志监管系统](http://www.ibm.com/developerworks/cn/web/1607-browser-logio-monitor/index.html?ca=drs-)       
 3. [使用 Mavo 快速开发 Web 应用程序简介，第 2
                 部分: 使用 Mavo 处理多个属性、插件和 GitHub 存储](http://www.ibm.com/developerworks/cn/web/wa-rapid-application-development-mavo-2/index.html?ca=drs-)       
