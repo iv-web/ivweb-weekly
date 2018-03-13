@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [如何落地和管理一个“大前端”团队?饿了么大前端团队解密](http://www.infoq.com/cn/news/2017/03/Hungry-front-team-decryption?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Hexchat 2.14.0 发布，开源 IRC 客户端](https://www.oschina.net/news/94097/hexchat-2-14-0)       
-3. [MyBatis 3.4.6 发布，Java 数据持久层框架](https://www.oschina.net/news/94095/mybatis-3-4-6-released)       
-4. [Linux Kernel 4.4.121，4.9.87，4.14.26，4.15.9 等发布](https://www.oschina.net/news/94094/linux-kernel-4-4-121)       
-5. [CoffeeScript 2.2.3 发布，编译成 JS 的小巧语言](https://www.oschina.net/news/94093/coffeescript-2-2-3-released)       
+1. [克服自我限制](http://www.infoq.com/cn/news/2017/03/self-imposed-limitations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [libgit2 v0.26.3 发布，Git 核心开发包](https://www.oschina.net/news/94135/libgit2-v-0-26-3)       
+3. [RocksDB 5.11.3，可持久化的 key-value 存储系统](https://www.oschina.net/news/94133/rocksdb-5-11-3-released)       
+4. [Jug 1.6.5 发布，基于任务的并行处理框架](https://www.oschina.net/news/94132/jug-1-6-5)       
+5. [Ember.js 3.1.0-beta.5 发布，JavaScript MVC 框架](https://www.oschina.net/news/94131/emberjs-3-1-0-beta5-released)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
