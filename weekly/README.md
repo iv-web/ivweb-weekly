@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [克服自我限制](http://www.infoq.com/cn/news/2017/03/self-imposed-limitations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [libgit2 v0.26.3 发布，Git 核心开发包](https://www.oschina.net/news/94135/libgit2-v-0-26-3)       
-3. [RocksDB 5.11.3，可持久化的 key-value 存储系统](https://www.oschina.net/news/94133/rocksdb-5-11-3-released)       
-4. [Jug 1.6.5 发布，基于任务的并行处理框架](https://www.oschina.net/news/94132/jug-1-6-5)       
-5. [Ember.js 3.1.0-beta.5 发布，JavaScript MVC 框架](https://www.oschina.net/news/94131/emberjs-3-1-0-beta5-released)       
+1. [Kotlin 1.1新增协程、类型别名特性，提升了对JavaScript的支持](http://www.infoq.com/cn/news/2017/03/kotlin-11-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [OSChina 周三乱弹 —— who's your 大爷](https://my.oschina.net/xxiaobian/blog/1634326)       
+3. [GitLab 调查报告显示：2018 将是 DevOps 和开源年](https://www.oschina.net/news/94172/gitlabs-2018-devops-open-source-survey)       
+4. [Tails 3.6 发布，内建因特网匿名访问的 Linux 发行版](https://www.oschina.net/news/94171/tails-3-6-released)       
+5. [PhpStorm 2017.3.5 发布，错误修复和改进](https://www.oschina.net/news/94170/phpstorm-2017-3-5)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
