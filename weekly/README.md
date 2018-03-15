@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [Kotlin 1.1新增协程、类型别名特性，提升了对JavaScript的支持](http://www.infoq.com/cn/news/2017/03/kotlin-11-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [OSChina 周三乱弹 —— who's your 大爷](https://my.oschina.net/xxiaobian/blog/1634326)       
-3. [GitLab 调查报告显示：2018 将是 DevOps 和开源年](https://www.oschina.net/news/94172/gitlabs-2018-devops-open-source-survey)       
-4. [Tails 3.6 发布，内建因特网匿名访问的 Linux 发行版](https://www.oschina.net/news/94171/tails-3-6-released)       
-5. [PhpStorm 2017.3.5 发布，错误修复和改进](https://www.oschina.net/news/94170/phpstorm-2017-3-5)       
+1. [创造一个更为公平的工作环境](http://www.infoq.com/cn/news/2017/03/more-equal-workplace-inclusion?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [MyBatis Spring Boot 1.3.2 发布，功能增强](https://www.oschina.net/news/94222/mybatis-spring-boot-1-3-2-released)       
+3. [PhpStorm 2018.1 公开预览版发布](https://www.oschina.net/news/94220/phpstorm-2018-1-released)       
+4. [AppCode 2018.1 候选版发布，集成开发环境](https://www.oschina.net/news/94219/appcode-2018-1-released)       
+5. [MyBatis Migrations 3.3.2 发布，数据库迁移工具](https://www.oschina.net/news/94218/mybatis-migrations-3-3-2-released)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
