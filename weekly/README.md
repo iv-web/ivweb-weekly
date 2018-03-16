@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [创造一个更为公平的工作环境](http://www.infoq.com/cn/news/2017/03/more-equal-workplace-inclusion?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [MyBatis Spring Boot 1.3.2 发布，功能增强](https://www.oschina.net/news/94222/mybatis-spring-boot-1-3-2-released)       
-3. [PhpStorm 2018.1 公开预览版发布](https://www.oschina.net/news/94220/phpstorm-2018-1-released)       
-4. [AppCode 2018.1 候选版发布，集成开发环境](https://www.oschina.net/news/94219/appcode-2018-1-released)       
-5. [MyBatis Migrations 3.3.2 发布，数据库迁移工具](https://www.oschina.net/news/94218/mybatis-migrations-3-3-2-released)       
+1. [京东如何从OpenStack迁移至Kubernetes](http://www.infoq.com/cn/news/2017/03/jd-kubernetes-openstack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [码云推荐 | 视频转码切片系统  Video_Server](https://gitee.com/PackTeamCode/Video_Server)       
+3. [Firefox 60 预计五月上线：打击网站调用摄像头偷拍行为](https://www.oschina.net/news/94261/mozilla-firefox-60-promises-enhanced-camera-privacy)       
+4. [AMD 漏洞被“暴力”公开 Linux 之父愤怒回应](https://www.oschina.net/news/94260/linus-torvalds-slams-cts-labs)       
+5. [调查结果显示：如何命名成为了程序员最难攻克的关卡](https://www.oschina.net/news/94259/named-to-be-the-most-difficult-for-programmers)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
