@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [京东如何从OpenStack迁移至Kubernetes](http://www.infoq.com/cn/news/2017/03/jd-kubernetes-openstack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [码云推荐 | 视频转码切片系统  Video_Server](https://gitee.com/PackTeamCode/Video_Server)       
-3. [Firefox 60 预计五月上线：打击网站调用摄像头偷拍行为](https://www.oschina.net/news/94261/mozilla-firefox-60-promises-enhanced-camera-privacy)       
-4. [AMD 漏洞被“暴力”公开 Linux 之父愤怒回应](https://www.oschina.net/news/94260/linus-torvalds-slams-cts-labs)       
-5. [调查结果显示：如何命名成为了程序员最难攻克的关卡](https://www.oschina.net/news/94259/named-to-be-the-most-difficult-for-programmers)       
+1. [iOS 开发周报：Apple 更新 HomeKit 页面、闲谈 iOS 的动态化](http://www.infoq.com/cn/news/2017/03/iOS-weekly-HomeKit-replace?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Percona Server for MongoDB 3.2.19-3.10 发布](https://www.oschina.net/news/94284/percona-server-mongodb-3-2-19-released)       
+3. [Spring Security OAuth 2.3.0  发布，新增签名验证](https://www.oschina.net/news/94282/spring-security-oauth-2-3-0-released)       
+4. [Percona Toolkit 3.0.8 发布，MySQL 管理工具包](https://www.oschina.net/news/94281/percona-toolkit-3-0-8-now-available)       
+5. [Apache Struts 2.5.16 GA 发布，MVC 框架](https://www.oschina.net/news/94280/apache-struts-2-5-16-ga-released)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
