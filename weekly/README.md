@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第12周文章列表       
-1. [iOS 开发周报：Apple 更新 HomeKit 页面、闲谈 iOS 的动态化](http://www.infoq.com/cn/news/2017/03/iOS-weekly-HomeKit-replace?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Percona Server for MongoDB 3.2.19-3.10 发布](https://www.oschina.net/news/94284/percona-server-mongodb-3-2-19-released)       
-3. [Spring Security OAuth 2.3.0  发布，新增签名验证](https://www.oschina.net/news/94282/spring-security-oauth-2-3-0-released)       
-4. [Percona Toolkit 3.0.8 发布，MySQL 管理工具包](https://www.oschina.net/news/94281/percona-toolkit-3-0-8-now-available)       
-5. [Apache Struts 2.5.16 GA 发布，MVC 框架](https://www.oschina.net/news/94280/apache-struts-2-5-16-ga-released)       
+1. [视频演讲： 如何出品一个技术专题](http://www.infoq.com/cn/presentations/how-to-produce-a-technical-topic?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Varnish Cache 6.0.0 发布，开源 HTTP 加速器](https://www.oschina.net/news/94314/varnish-cache-6-0-0-released)       
+3. [高性能 Java 网络框架 Apache MINA 2.0.17 发布](https://www.oschina.net/news/94312/mina-2-0-17-released)       
+4. [巨硬！微软将强制使用 Edge 打开自带邮件应用中的链接](https://www.oschina.net/news/94311/microsoft-edge-open-link-windows-mail)       
+5. [万维网 29 岁生日之际，发明人表示巨头正在压垮互联网](https://www.oschina.net/news/94310/tim-bernerslee-has-written-an-open-letter)       
 6. [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)       
 7. [Chrome开始集成图形识别 API（Shape Detection API）](http://www.infoq.com/cn/news/2017/03/Chrome-Shape-Detection-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
