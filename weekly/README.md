@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [文章： 使用模板将Web服务的结果转换为标记语言](http://www.infoq.com/cn/articles/templates-with-http-rpc-java?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 微博视频推荐](http://www.infoq.com/cn/presentations/micro-blog-video?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [CSS Grid中的陷阱和绊脚石](https://www.w3cplus.com/css/css-grid-gotchas-stumbling-blocks.html)       
 3. [使用perspective和transform实现容器上的悬浮效果](https://www.w3cplus.com/css/animate-a-container-on-mouse-over-using-perspective-and-transform.html)       
 4. [阿里巴巴智能场景事业部招人了](https://www.w3cplus.com/page/2371.html)       
