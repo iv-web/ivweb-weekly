@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [视频演讲： 微博视频推荐](http://www.infoq.com/cn/presentations/micro-blog-video?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [前端每周清单第5期：jQuery 3.2发布，滴滴采用Vue 2.0重构Web App、饿了么 PWA 实践经验分享](http://www.infoq.com/cn/news/2017/03/FE-Weekly-5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [CSS Grid中的陷阱和绊脚石](https://www.w3cplus.com/css/css-grid-gotchas-stumbling-blocks.html)       
 3. [使用perspective和transform实现容器上的悬浮效果](https://www.w3cplus.com/css/animate-a-container-on-mouse-over-using-perspective-and-transform.html)       
 4. [阿里巴巴智能场景事业部招人了](https://www.w3cplus.com/page/2371.html)       
