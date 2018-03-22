@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [前端每周清单第5期：jQuery 3.2发布，滴滴采用Vue 2.0重构Web App、饿了么 PWA 实践经验分享](http://www.infoq.com/cn/news/2017/03/FE-Weekly-5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [CSS Grid中的陷阱和绊脚石](https://www.w3cplus.com/css/css-grid-gotchas-stumbling-blocks.html)       
-3. [使用perspective和transform实现容器上的悬浮效果](https://www.w3cplus.com/css/animate-a-container-on-mouse-over-using-perspective-and-transform.html)       
-4. [阿里巴巴智能场景事业部招人了](https://www.w3cplus.com/page/2371.html)       
-5. [CSS Houdini和CSS Paint API](https://www.w3cplus.com/css/say-hello-to-houdini-and-the-css-paint-api.html)       
+1. [视频演讲： 移动页面加速框架的探索与实践](http://www.infoq.com/cn/presentations/practice-of-mobile-page-acceleration-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [使用Vue制作切口盒子组件](https://www.w3cplus.com/vue/create-notched-boxes-component-with-vue.html)       
+3. [快速构建一个圆形的进度条](https://www.w3cplus.com/svg/building-progress-ring-quickly.html)       
+4. [使用perspective和transform实现容器上的悬浮效果](https://www.w3cplus.com/css/animate-a-container-on-mouse-over-using-perspective-and-transform.html)       
+5. [阿里巴巴智能场景事业部招人了](https://www.w3cplus.com/page/2371.html)       
 6. [文章： 差分隐私简介](http://www.infoq.com/cn/articles/differential-privacy-intro?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 测试工程能力容器化改造方案](http://www.infoq.com/cn/articles/test-engineering-capacity-container-transformation-scheme?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 如何打造一个百万亿级的日志搜索引擎：Poseidon](http://www.infoq.com/cn/presentations/how-to-build-a-million-level-log-search-engine-poseidon?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
