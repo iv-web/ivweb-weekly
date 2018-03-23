@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [视频演讲： 移动页面加速框架的探索与实践](http://www.infoq.com/cn/presentations/practice-of-mobile-page-acceleration-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [架构周报| 京东如何从OpenStack迁移至Kubernetes](http://www.infoq.com/cn/news/2017/03/Architecture-weekly-OpenStack-Ku?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [使用Vue制作切口盒子组件](https://www.w3cplus.com/vue/create-notched-boxes-component-with-vue.html)       
 3. [快速构建一个圆形的进度条](https://www.w3cplus.com/svg/building-progress-ring-quickly.html)       
 4. [使用perspective和transform实现容器上的悬浮效果](https://www.w3cplus.com/css/animate-a-container-on-mouse-over-using-perspective-and-transform.html)       
