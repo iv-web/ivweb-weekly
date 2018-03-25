@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第13周文章列表       
-1. [NGINX Plus R12提供了集群配置共享并改进了nginScript](http://www.infoq.com/cn/news/2017/03/nginx-plus-12-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Web Development Reading List #175: GraphQL, IndexedDB2, And An Open Ethical Internet](https://www.smashingmagazine.com/2017/03/web-development-reading-list-175/)       
 2. [Vue 2.0学习笔记：Vue组件内容分发（slot）](https://www.w3cplus.com/vue/vue-slot.html)       
 3. [CSS Grid中的陷阱和绊脚石](https://www.w3cplus.com/css/css-grid-gotchas-stumbling-blocks.html)       
 4. [快速构建一个圆形的进度条](https://www.w3cplus.com/svg/building-progress-ring-quickly.html)       
