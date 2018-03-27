@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [视频演讲： 使用 TypeScript 构建大规模 Web 应用](http://www.infoq.com/cn/presentations/using-typescript-to-build-large-scale-web-applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 百度人脸识别的行业应用与发展](http://www.infoq.com/cn/presentations/baidu-face-recognition-application-and-development?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Making Maps With React](https://blog.webkid.io/making-maps-with-react/)       
 3. [Datasets for Machine Learning](https://blog.webkid.io/datasets-for-machine-learning/)       
 4. [React UI Libraries](https://blog.webkid.io/react-ui-libraries/)       
