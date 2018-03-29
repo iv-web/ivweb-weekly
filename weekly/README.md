@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [Fable 1.0 Beta提供更好的工具集成、全新项目格式等改进](http://www.infoq.com/cn/news/2017/03/fable-10-beta-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Android开发周报：Android O预览版发布、Android内存优化详解](http://www.infoq.com/cn/news/2017/03/Android-weekly-O?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Making Maps With React](https://blog.webkid.io/making-maps-with-react/)       
 3. [Datasets for Machine Learning](https://blog.webkid.io/datasets-for-machine-learning/)       
 4. [React UI Libraries](https://blog.webkid.io/react-ui-libraries/)       
