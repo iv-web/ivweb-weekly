@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第14周文章列表       
-1. [Android开发周报：Android O预览版发布、Android内存优化详解](http://www.infoq.com/cn/news/2017/03/Android-weekly-O?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [How to process geospatial data with Node.js and TURF](http://blog.webkid.io/how-to-handle-geospatial-data-with-nodejs-and-turf/)       
 2. [Making Maps With React](https://blog.webkid.io/making-maps-with-react/)       
 3. [Datasets for Machine Learning](https://blog.webkid.io/datasets-for-machine-learning/)       
 4. [React UI Libraries](https://blog.webkid.io/react-ui-libraries/)       
