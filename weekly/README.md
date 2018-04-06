@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第15周文章列表       
 1. [CSS in JS 简介](http://www.ruanyifeng.com/blog/2017/04/css_in_js.html)       
-2. [前端每周清单第 7 期：Next 2.0 发布，Safari 10.1 新增系列重要特性，Vue.js 2.2 完整API 手册](http://www.infoq.com/cn/news/2017/04/FE-Weekly-7?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 全栈与大前端，前端工程师进阶该如何抉择？](http://www.infoq.com/cn/articles/full-stack-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [#329: An opinionated comparison of React, Angular and Aurelia](http://javascriptweekly.com/issues/329)       
+2. [Analyzing Your Company’s Social Media Presence With IBM Watson And Node.js](https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/)       
+3. [前端每周清单第 7 期：Next 2.0 发布，Safari 10.1 新增系列重要特性，Vue.js 2.2 完整API 手册](http://www.infoq.com/cn/news/2017/04/FE-Weekly-7?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 全栈与大前端，前端工程师进阶该如何抉择？](http://www.infoq.com/cn/articles/full-stack-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： Protobuf 有没有比 JSON 快 5 倍？](http://www.infoq.com/cn/articles/json-is-5-times-faster-than-protobuf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [React v15.5.0](https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html)       
-8. [第三届360前端星计划在线作业题](https://www.h5jun.com/post/75team-star-handlock.html)       
-9. [视频演讲： Golang+Lua 在京东前端业务系统中最佳实践](http://www.infoq.com/cn/presentations/golang-lua-in-Jingdong-front-end-business-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： Java 10 var关键字深度解读](http://www.infoq.com/cn/articles/java-10-var-type-inference?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [#329: An opinionated comparison of React, Angular and Aurelia](http://javascriptweekly.com/issues/329)       
+8. [React v15.5.0](https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html)       
+9. [第三届360前端星计划在线作业题](https://www.h5jun.com/post/75team-star-handlock.html)       
+10. [视频演讲： Golang+Lua 在京东前端业务系统中最佳实践](http://www.infoq.com/cn/presentations/golang-lua-in-Jingdong-front-end-business-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_15/)*       
 
        
