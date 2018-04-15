@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第16周文章列表       
 1. [前端每周清单：TensorFlow.js，深入了解wasm-bindgen](http://www.infoq.com/cn/news/2018/04/arch-weekly-57?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [#330: Prettier 1.0, What is GraphQL, and Crockford's Post JavaScript Apocalypse](http://javascriptweekly.com/issues/330)       
 3. [Art Directing For The Web With CSS Grid Template Areas](https://www.smashingmagazine.com/2018/04/art-directing-web-css-grid/)       
 4. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
 6. [#330: Prettier 1.0, What is GraphQL, and Crockford's Post JavaScript Apocalypse](http://javascriptweekly.com/issues/330)       
-7. [Next.js 2.0添加所需功能而不失简洁](http://www.infoq.com/cn/news/2017/04/next-js-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [#330: Prettier 1.0, What is GraphQL, and Crockford's Post JavaScript Apocalypse](http://javascriptweekly.com/issues/330)       
+7. [文章： Uber的外卖团队是如何使用React Native的？](http://www.infoq.com/cn/articles/how-does-the-uber-takeaway-team-use-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Next.js 2.0添加所需功能而不失简洁](http://www.infoq.com/cn/news/2017/04/next-js-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
 10. [视频演讲： 编程语言如何演化—— 以 JS 的 private 为例](http://www.infoq.com/cn/presentations/how-programming-languages-evolve-take-js-private-as-an-example?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_16/)*       
