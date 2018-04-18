@@ -2,14 +2,14 @@
 ## 第17周文章列表       
 1. [前端每周清单第9期：向重度 jQuery 开发者介绍Vue.js；React Studio 1.0.2、ECharts GL 1.0 alpha、Prettier 1.0、Meteor 1.4.4发布](http://www.infoq.com/cn/news/2017/04/Front-end-weekly-9?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [#331: Arrow functions, popular JS patterns, and React VR](http://javascriptweekly.com/issues/331)       
-3. [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)       
-4. [Web Development Reading List #179: Firefox 53, The Top Web Browsers, And Vue.js Authentication](https://www.smashingmagazine.com/2017/04/web-development-reading-list-179/)       
+3. [文章： 想成为一名Web开发者？你应该学习Node.js而不是PHP](http://www.infoq.com/cn/articles/want-to-be-a-web-developer-learn-node-js-not-php?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [前端每周清单第58期：百度“小程序”上线，深入了解JavaScript的Proxies](http://www.infoq.com/cn/news/2018/04/arch-weekly-58?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [JavaScript 内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)       
-6. [Phantom.js维护者退出，项目的未来成疑](http://www.infoq.com/cn/news/2017/04/Phantomjs-future-uncertain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)       
-8. [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)       
-9. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 一份关于Angular的倡议清单](http://www.infoq.com/cn/articles/angular-wish-list?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [如何用原生 JS 实现手势解锁组件](https://www.h5jun.com/post/handlock-comp.html)       
+8. [Web Development Reading List #179: Firefox 53, The Top Web Browsers, And Vue.js Authentication](https://www.smashingmagazine.com/2017/04/web-development-reading-list-179/)       
+9. [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)       
+10. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_17/)*       
 
        
