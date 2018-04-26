@@ -2,13 +2,13 @@
 ## 第18周文章列表       
 1. [前端每周清单第10期：Firefox 53、React VR发布、JS测试技术概述、Microsoft Edge现代DOM树构建及性能之道](http://www.infoq.com/cn/news/2017/04/Front-end-weekly-10?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Facebook发布React VR，使用React进行虚拟现实开发](http://www.infoq.com/cn/news/2017/04/Facebook-React-VR?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： Transcrypt：剖析Python转JavaScript编译器](http://www.infoq.com/cn/articles/transcrypt-python-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [Slack从JavaScript切换至TypeScript](http://www.infoq.com/cn/news/2017/04/going-typescript-slack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 四个Webix实例：生成多种类型的JavaScript列表](http://www.infoq.com/cn/articles/javascript-lists-with-webix?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Marcin Grzejszczak访谈：Spring Cloud Contract](http://www.infoq.com/cn/news/2017/04/spring-cloud-contract?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Marcin Grzejszczak访谈：Spring Cloud Contract](http://www.infoq.com/cn/news/2017/04/spring-cloud-contract?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： Transcrypt：剖析Python转JavaScript编译器](http://www.infoq.com/cn/articles/transcrypt-python-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Slack从JavaScript切换至TypeScript](http://www.infoq.com/cn/news/2017/04/going-typescript-slack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 四个Webix实例：生成多种类型的JavaScript列表](http://www.infoq.com/cn/articles/javascript-lists-with-webix?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 七行JSON代码将你的网站变成移动应用](http://www.infoq.com/cn/articles/how-to-turn-your-website-into-mobile-app-with-7-lines-json?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [前端每周清单第59期：Redux 4.0，用Kotlin重构Java应用](http://www.infoq.com/cn/news/2018/04/arch-weekly-59?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： 百度搜索对PWA的探索和初步实践](http://www.infoq.com/cn/articles/exploration-and-practice-of-baidu-search-for-pwa?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 如何从业务和平台两方面入手，设计更具可靠性的微服务](http://www.infoq.com/cn/articles/design-a-more-reliable-micro-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [谷歌的Fuchsia：一个新的操作系统](http://www.infoq.com/cn/news/2017/04/Fuchsia-Google-OS?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_18/)*       
 
