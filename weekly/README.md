@@ -9,7 +9,7 @@
 7. [文章： 七行JSON代码将你的网站变成移动应用](http://www.infoq.com/cn/articles/how-to-turn-your-website-into-mobile-app-with-7-lines-json?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [A new calendar control, Node 10, and a webpack 4 configuration tool](https://javascriptweekly.com/issues/383)       
 9. [前端每周清单第59期：Redux 4.0，用Kotlin重构Java应用](http://www.infoq.com/cn/news/2018/04/arch-weekly-59?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [每周分享第 1 期](http://www.ruanyifeng.com/blog/2018/04/weekly-issue-1.html)       
+10. [文章： 专访Rafael Schloming：用于微服务开发人员的工作流程和部署模式](http://www.infoq.com/cn/articles/microservice-developer-workflows?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_18/)*       
 
        
