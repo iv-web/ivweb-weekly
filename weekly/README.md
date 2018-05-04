@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第19周文章列表       
 1. [#333: A New JS Optimization Tool, Headless Chrome and the 'Elements of JavaScript Style'](http://javascriptweekly.com/issues/333)       
-2. [前端每周清单第11期：Angular 4.1支持TypeScript 2.3，Vue 2.3优化服务端渲染，优秀 React 界面框架合集](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-11?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 规模化场景下的Twitter Lite与高性能React渐进式Web应用](http://www.infoq.com/cn/articles/twitter-lite-react-web-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [谷歌放弃Octane JavaScript基准测试](http://www.infoq.com/cn/news/2017/05/octane-benchmark-retired?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Facebook开源JavaScript代码优化工具Prepack](http://www.infoq.com/cn/news/2017/05/Facebook-JavaScript-Prepack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： 哪些GPU更适合深度学习和数据库？](http://www.infoq.com/cn/articles/which-gpu-to-get-for-deep-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [视频演讲： Spotify-广告系统架构演进](http://www.infoq.com/cn/presentations/spotify-advertising-system-arch-evolution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [专访死马：为什么说Egg.js是企业级Node框架](http://www.infoq.com/cn/news/2018/05/eggjs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [前端每周清单第11期：Angular 4.1支持TypeScript 2.3，Vue 2.3优化服务端渲染，优秀 React 界面框架合集](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-11?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 规模化场景下的Twitter Lite与高性能React渐进式Web应用](http://www.infoq.com/cn/articles/twitter-lite-react-web-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [谷歌放弃Octane JavaScript基准测试](http://www.infoq.com/cn/news/2017/05/octane-benchmark-retired?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Facebook开源JavaScript代码优化工具Prepack](http://www.infoq.com/cn/news/2017/05/Facebook-JavaScript-Prepack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： 海量日志架构中的后端数据处理技术对比](http://www.infoq.com/cn/articles/data-processing-technology-comparison?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： PWA的探索与实践](http://www.infoq.com/cn/presentations/exploration-and-practice-of-pwa?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [FEX 技术周刊 - 2017/05/02](http://fex.baidu.com/blog/2017/05/fex-weekly-02//)       
 10. [文章： The Rise and Fall of Software Recipes作者访谈](http://www.infoq.com/cn/articles/book-review-rise-software-recipes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
