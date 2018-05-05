@@ -7,7 +7,7 @@
 5. [谷歌放弃Octane JavaScript基准测试](http://www.infoq.com/cn/news/2017/05/octane-benchmark-retired?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Facebook开源JavaScript代码优化工具Prepack](http://www.infoq.com/cn/news/2017/05/Facebook-JavaScript-Prepack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 海量日志架构中的后端数据处理技术对比](http://www.infoq.com/cn/articles/data-processing-technology-comparison?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： PWA的探索与实践](http://www.infoq.com/cn/presentations/exploration-and-practice-of-pwa?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [统一的.NET文档体验发布](http://www.infoq.com/cn/news/2017/05/dotnet-unified-documentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [FEX 技术周刊 - 2017/05/02](http://fex.baidu.com/blog/2017/05/fex-weekly-02//)       
 10. [文章： The Rise and Fall of Software Recipes作者访谈](http://www.infoq.com/cn/articles/book-review-rise-software-recipes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
