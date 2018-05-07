@@ -1,4 +1,18 @@
 # WEEKLY LIST        
+## 第20周文章列表       
+1. [深入了解React新引擎：React Fiber](http://www.infoq.com/cn/news/2017/05/react-fiber-closer-look?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [使用 Node.js 对文本内容分词和关键词抽取](https://www.h5jun.com/post/segment-with-nodejs.html)       
+3. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
+5. [ReactorKit：iOS单向数据流架构](http://www.infoq.com/cn/news/2017/05/ReactorKit-iOS-data-flow-danxian?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Web Development Reading List #182: IPFS Wikipedia, New Webpack CLI, And CSS Grid Breakout](https://www.smashingmagazine.com/2017/05/web-development-reading-list-182/)       
+7. [JavaScript编译器Prepack：旨在减少启动时间](http://www.infoq.com/cn/news/2017/05/prepack-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [微软升级Azure物联网平台：增添接口，加入时序见解分析和边缘设备分析](http://www.infoq.com/cn/news/2017/05/Azure-IoT-Insights?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [视频演讲： 深度学习框架的性能优化及其在医药行业的应用实践](http://www.infoq.com/cn/presentations/deep-learning-optimization-in-pharmaceutical-industry?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Android开发周报：不使用虚拟机的Kotlin发布、Android方法数杂谈](http://www.infoq.com/cn/news/2017/05/Android-weekly-Kotlin-way?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
+
+       
 ## 第19周文章列表       
 1. [#333: A New JS Optimization Tool, Headless Chrome and the 'Elements of JavaScript Style'](http://javascriptweekly.com/issues/333)       
 2. [专访死马：为什么说Egg.js是企业级Node框架](http://www.infoq.com/cn/news/2018/05/eggjs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
@@ -10,7 +24,7 @@
 8. [统一的.NET文档体验发布](http://www.infoq.com/cn/news/2017/05/dotnet-unified-documentation?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [FEX 技术周刊 - 2017/05/02](http://fex.baidu.com/blog/2017/05/fex-weekly-02//)       
 10. [文章： The Rise and Fall of Software Recipes作者访谈](http://www.infoq.com/cn/articles/book-review-rise-software-recipes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第18周文章列表       
@@ -24,7 +38,7 @@
 8. [A new calendar control, Node 10, and a webpack 4 configuration tool](https://javascriptweekly.com/issues/383)       
 9. [前端每周清单第59期：Redux 4.0，用Kotlin重构Java应用](http://www.infoq.com/cn/news/2018/04/arch-weekly-59?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 专访Rafael Schloming：用于微服务开发人员的工作流程和部署模式](http://www.infoq.com/cn/articles/microservice-developer-workflows?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第17周文章列表       
@@ -38,7 +52,7 @@
 8. [React 15.5带来重大修改](http://www.infoq.com/cn/news/2017/04/React-15-5-deprecations?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Best Practices With CSS Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/)       
 10. [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第16周文章列表       
@@ -52,7 +66,7 @@
 8. [Next.js 2.0添加所需功能而不失简洁](http://www.infoq.com/cn/news/2017/04/next-js-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Web Development Reading List #178: On CAA, Pong.js, And Meaningful Work](https://www.smashingmagazine.com/2017/04/web-development-reading-list-178/)       
 10. [视频演讲： 编程语言如何演化—— 以 JS 的 private 为例](http://www.infoq.com/cn/presentations/how-programming-languages-evolve-take-js-private-as-an-example?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第15周文章列表       
@@ -66,7 +80,7 @@
 8. [React v15.5.0](https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html)       
 9. [视频演讲： React Native 项目实战之最后一公里——增量升级解决方案](http://www.infoq.com/cn/presentations/the-last-mile-of-the-react-native-project?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [#329: An opinionated comparison of React, Angular and Aurelia](http://javascriptweekly.com/issues/329)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第14周文章列表       
@@ -80,7 +94,7 @@
 8. [[后端] 深入了解 Docker 存储驱动](http://gold.xitu.io/entry/5817d929a0bb9f005880bad9)       
 9. [[前端] 基础篇章：关于 & nbsp;React Native 之 & nbsp;Touchable 系列组件的讲解](http://gold.xitu.io/entry/5817d1760ce4630058566906)       
 10. [[iOS] Objc 对象的今生今世](http://gold.xitu.io/entry/5817c7ec0ce4630058564c8a)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第13周文章列表       
@@ -94,7 +108,7 @@
 8. [视频演讲： 如何打造一个百万亿级的日志搜索引擎：Poseidon](http://www.infoq.com/cn/presentations/how-to-build-a-million-level-log-search-engine-poseidon?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 迷失的中层管理者以及使用Kanban逃离无序管理](http://www.infoq.com/cn/articles/agile2016-middle-management-kanban?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 构建高效的私有云平台：今日头条私有云架构设计](http://www.infoq.com/cn/presentations/private-cloud-architecture-of-toutiao?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第12周文章列表       
@@ -108,7 +122,7 @@
 8. [文章： 百度云互动直播的技术细节和解决方案实践经验谈](http://www.infoq.com/cn/articles/practical-experience-of-Baidu-cloud-interactive-live?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 历经8年双11流量洗礼，淘宝开放平台如何攻克技术难关？](http://www.infoq.com/cn/articles/taobao-open-platform-overcome-technical-difficulties?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 就欧盟的通用数据保护法规(GDPR)影响采访Immuta](http://www.infoq.com/cn/articles/immuta-gdpr-implications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第11周文章列表       
@@ -122,7 +136,7 @@
 8. [[前端] React Native 开源项目 - 高仿「ONE· 一个」，兼容 Android、iOS 双平台](http://gold.xitu.io/entry/58169039c4c971005550d50e)       
 9. [[阅读] 关于 Code Review，你「必须」了解的一些关键点……](http://gold.xitu.io/entry/58168f132f301e005ce163f1)       
 10. [[前端] JavaScript 知识点整理](http://gold.xitu.io/entry/58168a3a2e958a00549fa8c3)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第10周文章列表       
@@ -137,7 +151,7 @@
 8. [视频演讲： 证券极速交易系统关键技术分析以及架构实践](http://www.infoq.com/cn/presentations/key-technology-of-the-securities-trading-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 京东从OpenStack切换到Kubernetes的经验之谈](http://www.infoq.com/cn/articles/jingdong-from-openstack-to-kubernetes?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [为IoT应用搭建DevOps管道](http://www.infoq.com/cn/news/2017/02/setting-up-devops-iot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第9周文章列表       
@@ -151,7 +165,7 @@
 8. [文章： 真正的投资者如何区分AI的炒作与现实](http://www.infoq.com/cn/articles/how-real-investors-separate-ai-hype-from-reality?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [第二届GMTC全球移动技术大会正式启动  11大技术专场等你来](http://www.infoq.com/cn/news/2017/02/GMTC-2017-launch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [FEX 技术周刊 - 2017/02/20](http://fex.baidu.com/blog/2017/02/fex-weekly-20//)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第8周文章列表       
@@ -165,7 +179,7 @@
 8. [文章： 使用聚合、事件溯源和CQRS开发事务型微服务（第二部分）](http://www.infoq.com/cn/articles/microservices-aggregates-events-cqrs-part-2-richardson?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： “针对产品负责人的分析技巧”在线课程的问答](http://www.infoq.com/cn/articles/analysis-techniques-product-owners?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频访谈： 李丽：高并发高用户量高存储量场景，建议非关系型数据服务方案](http://www.infoq.com/cn/interviews/interview-with-lili-talk-storage-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第7周文章列表       
@@ -179,7 +193,7 @@
 8. [文章： 书评：实战Apache JMeter](http://www.infoq.com/cn/articles/jmeter-by-example-book-review?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 处理分布式团队间的文化差异](http://www.infoq.com/cn/articles/culture-distributed-team?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [使用Teal规范](http://www.infoq.com/cn/news/2017/02/applying-teal-paradigm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第6周文章列表       
@@ -193,7 +207,7 @@
 8. [Redesigning The Paris Metro Map](https://www.smashingmagazine.com/2017/01/redesigning-the-paris-metro-map/)       
 9. [视频演讲： Twitter 的监控系统是如何处理十亿量级 metrics 的](http://www.infoq.com/cn/presentations/how-twitter-monitoring-system-deal-with-billion-order-metrics?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [From The Design Community With Love: Unique And Inspiring Desktop Wallpapers](https://www.smashingmagazine.com/2017/01/from-the-community-with-love-unique-inspiring-desktop-wallpapers/)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第5周文章列表       
@@ -207,7 +221,7 @@
 8. [视频演讲： 冰与火之歌：企业安全的攻与防](http://www.infoq.com/cn/presentations/attack-and-defense-of-enterprise-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 2016年区块链技术回顾与总结：联盟链与公有链的分道扬镳](http://www.infoq.com/cn/articles/review-and-summary-of-chain-technology-in-2016?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 京东数据中心网络的高可用架构](http://www.infoq.com/cn/presentations/jingdong-data-center-network-highly-available-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第4周文章列表       
@@ -221,7 +235,7 @@
 8. [视频演讲： 构建规模化的企业级风险感知体系](http://www.infoq.com/cn/presentations/the-construction-of-a-large-scale-enterprise-level-risk-perception-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 为了可测性而设计](http://www.infoq.com/cn/articles/design-for-testability?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： FinTech带来的挑战与机遇](http://www.infoq.com/cn/presentations/challenges-and-opportunities-brought-by-fintech?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第3周文章列表       
@@ -235,7 +249,7 @@
 8. [视频演讲： 微服务的集成，远远不止一个API](http://www.infoq.com/cn/presentations/micro-service-integration-far-more-than-one-api?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 科技把我们每个人都变成一个有“围墙的花园”](http://www.infoq.com/cn/articles/technology-turn-us-all-into-a-walled-garden?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 一个遗留系统自动化测试的七年之痒](http://www.infoq.com/cn/articles/automation-test-of-a-seven-year-legacy-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
 ## 第2周文章列表       
@@ -250,5 +264,5 @@
 8. [谷歌以物联网操作系统Android Things进军物联网](http://www.infoq.com/cn/news/2017/01/android-things?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 解读2016之物联网：巨头割据、安全问题凸显](http://www.infoq.com/cn/articles/2016-review-iot?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [This week's JavaScript news, issue 316](http://javascriptweekly.com/issues/316)       
-*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_19/)*       
+*[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
