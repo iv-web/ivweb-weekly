@@ -5,11 +5,11 @@
 3. [使用 Node.js 对文本内容分词和关键词抽取](https://www.h5jun.com/post/segment-with-nodejs.html)       
 4. [Node.js 10.0和NPM 6发布，强化安全性](http://www.infoq.com/cn/news/2018/05/node-10-npm-6-released-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [前端每周清单第 12 期：LinkedIn用Brotli 加快网页响应速度、饿了么PWA 升级实践、支付宝前端构建工具发展](http://www.infoq.com/cn/news/2017/05/Front-weekly-12?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
-7. [JavaScript编译器Prepack：旨在减少启动时间](http://www.infoq.com/cn/news/2017/05/prepack-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [JavaScript编译器Prepack：旨在减少启动时间](http://www.infoq.com/cn/news/2017/05/prepack-javascript-compiler?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [Web Development Reading List #182: IPFS Wikipedia, New Webpack CLI, And CSS Grid Breakout](https://www.smashingmagazine.com/2017/05/web-development-reading-list-182/)       
 8. [ReactorKit：iOS单向数据流架构](http://www.infoq.com/cn/news/2017/05/ReactorKit-iOS-data-flow-danxian?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [New CSS Features That Are Changing Web Design](https://www.smashingmagazine.com/2018/05/future-of-web-design/)       
-10. [Web Development Reading List #182: IPFS Wikipedia, New Webpack CLI, And CSS Grid Breakout](https://www.smashingmagazine.com/2017/05/web-development-reading-list-182/)       
+10. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_20/)*       
 
        
