@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第21周文章列表       
 1. [json-api-normalizer: An Easy Way To Integrate The JSON API And Redux](https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/)       
-2. [Shoutem旨在成为React Native移动应用领域的WordPress](http://www.infoq.com/cn/news/2017/05/shoutem-react-native-mobile-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
-4. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
-5. [最终，JavaScript成为了一流语言](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
+3. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
+4. [最终，JavaScript成为了一流语言](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Shoutem旨在成为React Native移动应用领域的WordPress](http://www.infoq.com/cn/news/2017/05/shoutem-react-native-mobile-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [#335: JSConf EU videos, a cartoon introduction to WebAssembly, and Polymer 2.0](http://javascriptweekly.com/issues/335)       
 7. [What's New in Create React App](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html)       
-8. [视频演讲： 德比软件数据对接平台高可用架构实践](http://www.infoq.com/cn/presentations/high-availability-architecture-of-the-software-platform-for-software-docking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [视频演讲： 付钱拉金融云系统架构演进和最佳实践](http://www.infoq.com/cn/presentations/pay-financial-cloud-system-architecture-evolution-and-best-practices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [A Strategy Guide To CSS Custom Properties](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/)       
+9. [文章： 使用思维工具增强测试技能](http://www.infoq.com/cn/articles/testing-mindset-tools?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 全球最大游戏网站运维过程中积累的SRE经验](http://www.infoq.com/cn/articles/world-largest-gaming-site-sre-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_21/)*       
 
