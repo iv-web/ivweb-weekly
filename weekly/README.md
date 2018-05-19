@@ -3,13 +3,13 @@
 1. [json-api-normalizer: An Easy Way To Integrate The JSON API And Redux](https://www.smashingmagazine.com/2017/05/json-api-normalizer-redux/)       
 2. [前端每周清单第62期：Dojo 2.0，Excel支持JavaScript了，Kotlin使用率已达35%](http://www.infoq.com/cn/news/2018/05/arch-weekly-62?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [#335: JSConf EU videos, a cartoon introduction to WebAssembly, and Polymer 2.0](http://javascriptweekly.com/issues/335)       
-4. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
-5. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
-6. [最终，JavaScript成为了一流语言](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [Shoutem旨在成为React Native移动应用领域的WordPress](http://www.infoq.com/cn/news/2017/05/shoutem-react-native-mobile-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [最终，JavaScript成为了一流语言](http://www.infoq.com/cn/news/2017/05/JavaScript-become-language?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Shoutem旨在成为React Native移动应用领域的WordPress](http://www.infoq.com/cn/news/2017/05/shoutem-react-native-mobile-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [What if JavaScript becomes the default programming language?](https://javascriptweekly.com/issues/386)       
+7. [Fluid Responsive Typography With CSS Poly Fluid Sizing](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)       
 8. [What's New in Create React App](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html)       
 9. [A Strategy Guide To CSS Custom Properties](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/)       
-10. [Babylon.js 3.2版改进了3D渲染](http://www.infoq.com/cn/news/2018/05/babylonjs-32-release-3d-renderin?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Introducing Mavo: Create Web Apps Entirely By Writing HTML!](https://www.smashingmagazine.com/2017/05/introducing-mavo/)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_21/)*       
 
        
