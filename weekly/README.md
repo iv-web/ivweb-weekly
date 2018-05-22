@@ -1,11 +1,11 @@
 # WEEKLY LIST        
 ## 第22周文章列表       
-1. [前端每周清单第14期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-14?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [简单构建 ThinkJS + Vue2.0 前后端分离的多页应用](https://www.h5jun.com/post/thinkjs-vue2.0-build.html)       
-3. [智能时代的大前端：GMTC2017全球移动技术大会](http://www.infoq.com/cn/news/2017/05/gmtc-2017-bj?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 微博广告分层实验平台(Faraday)架构实践](http://www.infoq.com/cn/articles/weibo-ad-layered-experiment-platform-faraday?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [FEX 技术周刊 - 2017/05/22](http://fex.baidu.com/blog/2017/05/fex-weekly-22//)       
-6. [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)       
+1. [谷歌应用引擎使用新近开源的gVisor沙箱提供Node.js 8.x支持](http://www.infoq.com/cn/news/2018/05/gae-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Medium迁移到基于React.js和GraphQL的架构](http://www.infoq.com/cn/news/2018/05/medium-reactjs-graphql-migration?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [前端每周清单第14期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-14?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [简单构建 ThinkJS + Vue2.0 前后端分离的多页应用](https://www.h5jun.com/post/thinkjs-vue2.0-build.html)       
+5. [智能时代的大前端：GMTC2017全球移动技术大会](http://www.infoq.com/cn/news/2017/05/gmtc-2017-bj?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 萨摩耶金服CTO刘智勇：回归Fintech本质，用技术提升金融的效率](http://www.infoq.com/cn/articles/technology-improves-financial-efficiency?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： “从此社区再无 Docker？” 那 “Moby” 又是什么？](http://www.infoq.com/cn/articles/no-docker-in-the-community-moby?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
