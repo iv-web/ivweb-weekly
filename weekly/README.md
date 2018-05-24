@@ -5,9 +5,9 @@
 3. [文章： 苏宁Nodejs性能优化实战](http://www.infoq.com/cn/articles/suning-nodejs-performance-optimization?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [前端每周清单第14期：Vue现状与展望、编写现代 JavaScript 代码、Web 开发者安全自检列表](http://www.infoq.com/cn/news/2017/05/Front-end-weekly-14?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [简单构建 ThinkJS + Vue2.0 前后端分离的多页应用](https://www.h5jun.com/post/thinkjs-vue2.0-build.html)       
-6. [智能时代的大前端：GMTC2017全球移动技术大会](http://www.infoq.com/cn/news/2017/05/gmtc-2017-bj?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [Xamarin Live Player加速了APP的开发周期](http://www.infoq.com/cn/news/2017/05/xamarin-live-player?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： 服务设计：客户旅程地图](http://www.infoq.com/cn/articles/customer-journey-mapping?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [RxJS 6发布，改进了性能和模块化](http://www.infoq.com/cn/news/2018/05/rxjs-6-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [智能时代的大前端：GMTC2017全球移动技术大会](http://www.infoq.com/cn/news/2017/05/gmtc-2017-bj?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Server-Sent Events 教程](http://www.ruanyifeng.com/blog/2017/05/server-sent_events.html)       
 9. [文章： Product Mastery 作者访谈](http://www.infoq.com/cn/articles/book-review-product-mastery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 60分钟搞定，基于ResNet和Azure GPU加速的肺癌CT图像识别](http://www.infoq.com/cn/articles/resnet-azure-gpu?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_22/)*       
