@@ -5,9 +5,9 @@
 3. [视频演讲： 基于OpenResty和Node.js的微服务架构实践](http://www.infoq.com/cn/presentations/micro-service-architecture-based-on-openresty-and-Nodejs?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Node.js v8.0.0 带来了哪些主要新特性](http://www.infoq.com/cn/news/2017/06/node-js-8.0?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [前端每周清单第64期：React 16.4发布，一个程序员的成长之路](http://www.infoq.com/cn/news/2018/05/arch-weekly-64?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [#337: Node 8, Meteor 1.5, and Migrating from Mocha to Jest](http://javascriptweekly.com/issues/337)       
-7. [Propel项目改为基于TensorFlow.js](http://www.infoq.com/cn/news/2018/05/propelml-tensorflowjs-shift?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Web Development Reading List #184: New Library Updates, Page Load Performance, And Continuance](https://www.smashingmagazine.com/2017/06/web-development-reading-list-184/)       
+6. [Propel项目改为基于TensorFlow.js](http://www.infoq.com/cn/news/2018/05/propelml-tensorflowjs-shift?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [#337: Node 8, Meteor 1.5, and Migrating from Mocha to Jest](http://javascriptweekly.com/issues/337)       
+8. [视频演讲： 使用Amazon ECS构建容器化的深度学习平台](http://www.infoq.com/cn/presentations/use-amazon-ecs-to-build-a-container-deep-learning-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： Tera在百亿级实时搜索架构中的应用](http://www.infoq.com/cn/presentations/tera-in-the-ten-thousand-level-real-time-search-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [XOR 加密简介](http://www.ruanyifeng.com/blog/2017/05/xor.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_23/)*       
