@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第24周文章列表       
 1. [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-16?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Making Avengers ID Card In HTML And CSS](https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/)       
-3. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
-5. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [文章： “搜你所想”之用户搜索意图识别](http://www.infoq.com/cn/articles/user-search-intention-recognition?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： nginScript系列：通过TCP负载均衡和Galera集群来扩展MySQL](http://www.infoq.com/cn/articles/introduction-to-nginscript-part03?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [前端每周清单第65期：npm出乌龙，发送错误代码，Node之父发布"下一代Node"项目](http://www.infoq.com/cn/news/2018/06/srch-weekly-65?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Making Avengers ID Card In HTML And CSS](https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/)       
+4. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
+6. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)       
 8. [视频演讲： AWS 数据中心与 VPC 揭秘](http://www.infoq.com/cn/presentations/aws-data-center-and-vpc-secret?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 共享行业的分布式MQTT设计](http://www.infoq.com/cn/articles/distributed-mqtt-design-for-shared-industries?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
