@@ -6,7 +6,7 @@
 4. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
 6. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [TCP 协议简介](http://www.ruanyifeng.com/blog/2017/06/tcp-protocol.html)       
+7. [When Large Isn’t Large Enough: Designing With Hero Images](https://www.smashingmagazine.com/2017/06/designing-hero-images/)       
 8. [视频演讲： AWS 数据中心与 VPC 揭秘](http://www.infoq.com/cn/presentations/aws-data-center-and-vpc-secret?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 共享行业的分布式MQTT设计](http://www.infoq.com/cn/articles/distributed-mqtt-design-for-shared-industries?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
