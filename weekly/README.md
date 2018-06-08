@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第24周文章列表       
-1. [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-16?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [前端每周清单第65期：npm出乌龙，发送错误代码，Node之父发布"下一代Node"项目](http://www.infoq.com/cn/news/2018/06/srch-weekly-65?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Making Avengers ID Card In HTML And CSS](https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/)       
-4. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
-6. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [When Large Isn’t Large Enough: Designing With Hero Images](https://www.smashingmagazine.com/2017/06/designing-hero-images/)       
-8. [视频演讲： AWS 数据中心与 VPC 揭秘](http://www.infoq.com/cn/presentations/aws-data-center-and-vpc-secret?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： 共享行业的分布式MQTT设计](http://www.infoq.com/cn/articles/distributed-mqtt-design-for-shared-industries?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/)       
+2. [前端每周清单第 16 期：JavaScript 模块化现状；Node V8 与V6 真实性能对比；Nuxt.js SSR与权限验证指南](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-16?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [前端每周清单第65期：npm出乌龙，发送错误代码，Node之父发布"下一代Node"项目](http://www.infoq.com/cn/news/2018/06/srch-weekly-65?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [Making Avengers ID Card In HTML And CSS](https://www.smashingmagazine.com/2018/06/avengers-id-card-html-css/)       
+5. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
+7. [我对React Native的那些执念](http://www.infoq.com/cn/news/2018/06/react-native-insistence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [Siri之父：终有一天，人工智能可以帮你记住一切](http://www.infoq.com/cn/news/2017/06/Father-Siri-artificial-intellige?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_24/)*       
 
