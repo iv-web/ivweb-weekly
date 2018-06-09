@@ -7,9 +7,9 @@
 5. [文章： 文章系列：响应式JavaScript](http://www.infoq.com/cn/articles/reactive-javascript-series?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Web Development Reading List #185: Safari 11, New Edge Build, Chrome 59, And CSS Optimization Insights](https://www.smashingmagazine.com/2017/06/web-development-reading-list-185/)       
 7. [我对React Native的那些执念](http://www.infoq.com/cn/news/2018/06/react-native-insistence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [Siri之父：终有一天，人工智能可以帮你记住一切](http://www.infoq.com/cn/news/2017/06/Father-Siri-artificial-intellige?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 自包含系统：打开微服务的正确方式](http://www.infoq.com/cn/articles/scs-microservices-done-right?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Apple introduces MapKitJS, Meteor 1.7 released](https://javascriptweekly.com/issues/389)       
+9. [GMTC全球移动技术大会召开，极客邦科技指引大前端技术升级](http://www.infoq.com/cn/news/2017/06/GMTC-Geeks-technology-upgrades?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [人力资源需要敏捷变革](http://www.infoq.com/cn/news/2017/06/hr-agile-makeover?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_24/)*       
 
        
