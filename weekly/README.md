@@ -1,6 +1,6 @@
 # WEEKLY LIST        
 ## 第25周文章列表       
-1. [腾讯云答治茜：云计算为独角兽和传统企业提供了哪些沃土？](http://www.infoq.com/cn/news/2017/06/qcloud-provides-tech-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [摩拜单车进军英国：开放数据才是共赢之道](http://www.infoq.com/cn/news/2017/06/Mobell-bike-UK?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [[Android] Android 性能优化之利用 LeakCanary 检测内存泄漏及解决办法](http://gold.xitu.io/entry/5817e6e0a0bb9f005880fc5d)       
 3. [[前端] React Native 实现二维码扫描](http://gold.xitu.io/entry/58176d2e2e958a0054a8dac7)       
 4. [[阅读] 如何写出小而清晰的函数？（JS 版）](http://gold.xitu.io/entry/5817447e67f35600586a952b)       
