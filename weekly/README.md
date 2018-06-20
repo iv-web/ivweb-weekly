@@ -6,7 +6,7 @@
 4. [JavaScript 的 this 原理](http://www.ruanyifeng.com/blog/2018/06/javascript-this.html)       
 5. [SpriteJS —— Canvas动画从未如此简单](https://www.h5jun.com/post/spritejs.html)       
 6. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [虚拟现实的未来在哪里](http://www.infoq.com/cn/news/2017/06/Tencent-mobile-analytics-MTA-Cra?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [FEX 技术周刊 - 2017/06/19](http://fex.baidu.com/blog/2017/06/fex-weekly-19//)       
 8. [文章： 制定代码规范并不难，但你知道如何让它可执行吗？](http://www.infoq.com/cn/articles/how-can-code-specification-be-executable?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Reaching The Milllennials: Mobile Marketing Trends And Techniques](https://www.smashingmagazine.com/2017/06/mobile-marketing-experiences-millennial/)       
 10. [Web Development Reading List #186: Tor 7, Designing Depth, And Mac Ransomware](https://www.smashingmagazine.com/2017/06/web-development-reading-list-186/)       
