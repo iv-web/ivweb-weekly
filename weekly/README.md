@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第26周文章列表       
 1. [前端每周清单第18期：Firefox、Chrome、React、Angular发布新版本；提升RN应用性能的方法](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-18?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)       
-3. [#340: How Long 1MB of JS Takes to Parse on Various Devices](http://javascriptweekly.com/issues/340)       
-4. [JavaScript 的 this 原理](http://www.ruanyifeng.com/blog/2018/06/javascript-this.html)       
-5. [SpriteJS —— Canvas动画从未如此简单](https://www.h5jun.com/post/spritejs.html)       
-6. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [FEX 技术周刊 - 2017/06/19](http://fex.baidu.com/blog/2017/06/fex-weekly-19//)       
-8. [文章： 制定代码规范并不难，但你知道如何让它可执行吗？](http://www.infoq.com/cn/articles/how-can-code-specification-be-executable?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [Reaching The Milllennials: Mobile Marketing Trends And Techniques](https://www.smashingmagazine.com/2017/06/mobile-marketing-experiences-millennial/)       
-10. [Web Development Reading List #186: Tor 7, Designing Depth, And Mac Ransomware](https://www.smashingmagazine.com/2017/06/web-development-reading-list-186/)       
+2. [为什么要从众多的前端框架中选择React?](http://www.infoq.com/cn/news/2018/06/why-choose-React?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)       
+4. [#340: How Long 1MB of JS Takes to Parse on Various Devices](http://javascriptweekly.com/issues/340)       
+5. [JavaScript 的 this 原理](http://www.ruanyifeng.com/blog/2018/06/javascript-this.html)       
+6. [SpriteJS —— Canvas动画从未如此简单](https://www.h5jun.com/post/spritejs.html)       
+7. [FB正在大规模重构React Native，预计今年发布](http://www.infoq.com/cn/news/2018/06/facebook-refactor-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Oracle弃用Nashorn JavaScript引擎](http://www.infoq.com/cn/news/2018/06/deprecate-nashorn?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [视频演讲： 搜狗深度学习技术在广告推荐领域的应用](http://www.infoq.com/cn/presentations/application-of-sogou-deep-learning-technology-in-ad-recommendation-field?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_26/)*       
 
        
