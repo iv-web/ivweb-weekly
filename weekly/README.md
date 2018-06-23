@@ -2,14 +2,14 @@
 ## 第26周文章列表       
 1. [前端每周清单第18期：Firefox、Chrome、React、Angular发布新版本；提升RN应用性能的方法](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-18?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [为什么要从众多的前端框架中选择React?](http://www.infoq.com/cn/news/2018/06/why-choose-React?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [#340: How Long 1MB of JS Takes to Parse on Various Devices](http://javascriptweekly.com/issues/340)       
+3. [SpriteJS —— Canvas动画从未如此简单](https://www.h5jun.com/post/spritejs.html)       
 4. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)       
-5. [JavaScript 的 this 原理](http://www.ruanyifeng.com/blog/2018/06/javascript-this.html)       
-6. [SpriteJS —— Canvas动画从未如此简单](https://www.h5jun.com/post/spritejs.html)       
-7. [FB正在大规模重构React Native，预计今年发布](http://www.infoq.com/cn/news/2018/06/facebook-refactor-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Oracle弃用Nashorn JavaScript引擎](http://www.infoq.com/cn/news/2018/06/deprecate-nashorn?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： Hero Node刘国平：Dapp如何落地？](http://www.infoq.com/cn/articles/hero-node-how-does-dapp-land?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 大前端公共知识杂谈](http://www.infoq.com/cn/articles/public-knowledge-of-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [#340: How Long 1MB of JS Takes to Parse on Various Devices](http://javascriptweekly.com/issues/340)       
+6. [JavaScript 的 this 原理](http://www.ruanyifeng.com/blog/2018/06/javascript-this.html)       
+7. [文章： Hero Node刘国平：Dapp如何落地？](http://www.infoq.com/cn/articles/hero-node-how-does-dapp-land?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [How to use JavaScript modules on the web](https://javascriptweekly.com/issues/391)       
+9. [FB正在大规模重构React Native，预计今年发布](http://www.infoq.com/cn/news/2018/06/facebook-refactor-react-native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [Oracle弃用Nashorn JavaScript引擎](http://www.infoq.com/cn/news/2018/06/deprecate-nashorn?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_26/)*       
 
        
