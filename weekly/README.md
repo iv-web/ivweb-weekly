@@ -5,7 +5,7 @@
 3. [视频演讲： QQ 空间萌宠之舞——HTML5 骨骼动画实践](http://www.infoq.com/cn/presentations/dancing-in-qq-space-html-5-skeleton-animation-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [#341: TC39, ECMAScript, and the Future of JavaScript](http://javascriptweekly.com/issues/341)       
 5. [文章： 2018年JavaScript发展状态](http://www.infoq.com/cn/articles/the-state-of-JavaScript-in-2018?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [视频演讲： Blink：阿里新一代实时计算引擎](http://www.infoq.com/cn/presentations/blink-a-new-generation-of-real-time-computing-engine-for-ali?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [勒索病毒卷土重来，安全事件频发为何故？](http://www.infoq.com/cn/news/2017/06/Blackmail-virus-comeback-why?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 深入浅出TensorFlow（六）TensorFlow高层封装](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part06?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频访谈： 专访明略数据邵蓥侠：传统公安领域的机器学习实践](http://www.infoq.com/cn/interviews/interview-with-shaoyingxia-talk-machine-learning-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [应用工程师的分布式系统理论](http://www.infoq.com/cn/news/2017/06/distributed-systems-theory?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
