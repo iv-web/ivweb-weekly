@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第27周文章列表       
 1. [前端每周清单第 19 期： Vue的优势与劣势；Node.js有望超越Java；JS在嵌入式及物联网的应用现状](http://www.infoq.com/cn/news/2017/06/Front-end-weekly-19?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [漫谈 JS 函数式编程（一）](https://www.h5jun.com/post/js-functional-1.html)       
-3. [视频演讲： QQ 空间萌宠之舞——HTML5 骨骼动画实践](http://www.infoq.com/cn/presentations/dancing-in-qq-space-html-5-skeleton-animation-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [#341: TC39, ECMAScript, and the Future of JavaScript](http://javascriptweekly.com/issues/341)       
-5. [文章： 2018年JavaScript发展状态](http://www.infoq.com/cn/articles/the-state-of-JavaScript-in-2018?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [勒索病毒卷土重来，安全事件频发为何故？](http://www.infoq.com/cn/news/2017/06/Blackmail-virus-comeback-why?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 深入浅出TensorFlow（六）TensorFlow高层封装](http://www.infoq.com/cn/articles/introduction-of-tensorflow-part06?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [前端每周清单第67期：Airbnb 宣布放弃使用 React Native，Vue超越了React？](http://www.infoq.com/cn/news/2018/06/arch-weekly-67?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [漫谈 JS 函数式编程（一）](https://www.h5jun.com/post/js-functional-1.html)       
+4. [视频演讲： QQ 空间萌宠之舞——HTML5 骨骼动画实践](http://www.infoq.com/cn/presentations/dancing-in-qq-space-html-5-skeleton-animation-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [#341: TC39, ECMAScript, and the Future of JavaScript](http://javascriptweekly.com/issues/341)       
+6. [文章： 2018年JavaScript发展状态](http://www.infoq.com/cn/articles/the-state-of-JavaScript-in-2018?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [视频演讲： 从纯技术到技术管理，那些跌宕起伏的转型经历](http://www.infoq.com/cn/presentations/from-pure-technology-to-technical-management-of-the-transition-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频访谈： 专访明略数据邵蓥侠：传统公安领域的机器学习实践](http://www.infoq.com/cn/interviews/interview-with-shaoyingxia-talk-machine-learning-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [应用工程师的分布式系统理论](http://www.infoq.com/cn/news/2017/06/distributed-systems-theory?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 谈服务发现的背景、架构以及落地方案](http://www.infoq.com/cn/articles/background-architecture-and-solutions-of-service-discovery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
