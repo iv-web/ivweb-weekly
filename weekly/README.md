@@ -7,7 +7,7 @@
 5. [#341: TC39, ECMAScript, and the Future of JavaScript](http://javascriptweekly.com/issues/341)       
 6. [文章： 2018年JavaScript发展状态](http://www.infoq.com/cn/articles/the-state-of-JavaScript-in-2018?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [ES2018 spec published, and writing better JavaScript by linting](https://javascriptweekly.com/issues/392)       
-8. [滴滴插件化项目VirtualAPK开源](http://www.infoq.com/cn/news/2017/06/VirtualAPK-opensource?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Core ML的利与弊，会不会又是苹果的一个响声雷？](http://www.infoq.com/cn/news/2017/06/Core-ML-apple-lei?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [应用工程师的分布式系统理论](http://www.infoq.com/cn/news/2017/06/distributed-systems-theory?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 谈服务发现的背景、架构以及落地方案](http://www.infoq.com/cn/articles/background-architecture-and-solutions-of-service-discovery?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_27/)*       
