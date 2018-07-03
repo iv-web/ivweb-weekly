@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第28周文章列表       
 1. [前端每周清单第20期：Angular 2/4 是否为时已晚？React 组件解耦之道；基于 Headless Chrome 的自动化测试](http://www.infoq.com/cn/news/2017/07/Front-end-weekly-20?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [#342: Some Best Practices for JavaScript Projects](http://javascriptweekly.com/issues/342)       
-5. [视频演讲： 从技术到管理的 3 大挑战](http://www.infoq.com/cn/presentations/3-challenges-from-technology-to-management?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [我们为什么需要一个时序数据库？](http://www.infoq.com/cn/news/2017/07/Why-time-series-database?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 发展中的工作](http://www.infoq.com/cn/articles/jobs-marching-in?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Building Mobile Apps With Capacitor And Vue.js](https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/)       
+6. [文章： 太平洋保险CIMS系统微前端实践](http://www.infoq.com/cn/articles/cpic-cims-micro-frontend-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [视频演讲： serverless小程序后端技术分享](http://www.infoq.com/cn/presentations/serverless-applet-backend-technology-sharing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： A/B测试之外：Netflix通过实验和数据科学改善流媒体播放体验](http://www.infoq.com/cn/articles/netflix-improves-streaming-media-experience?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [FEX 技术周刊 - 2017/07/03](http://fex.baidu.com/blog/2017/07/fex-weekly-03//)       
 10. [Sonatype收购Vor Security，扩展对Nexus开源组件的支持](http://www.infoq.com/cn/news/2017/07/nexus-open-source-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
