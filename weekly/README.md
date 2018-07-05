@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第28周文章列表       
 1. [前端每周清单第20期：Angular 2/4 是否为时已晚？React 组件解耦之道；基于 Headless Chrome 的自动化测试](http://www.infoq.com/cn/news/2017/07/Front-end-weekly-20?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [#342: Some Best Practices for JavaScript Projects](http://javascriptweekly.com/issues/342)       
+2. [#342: Some Best Practices for JavaScript Projects](http://javascriptweekly.com/issues/342)       
+3. [文章： 机器学习与JavaScript（一）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 机器学习与JavaScript（二）](http://www.infoq.com/cn/articles/machine-learning-with-javascript-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Building Mobile Apps With Capacitor And Vue.js](https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/)       
 6. [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)       
-7. [文章： 太平洋保险CIMS系统微前端实践](http://www.infoq.com/cn/articles/cpic-cims-micro-frontend-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： serverless小程序后端技术分享](http://www.infoq.com/cn/presentations/serverless-applet-backend-technology-sharing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： DevOps实践-打造自服务持续交付 -下](http://www.infoq.com/cn/articles/devops--build-self-service-continuous-delivery-part02?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [SpriteJS：重新定义Canvas API](http://www.infoq.com/cn/news/2018/07/spritejs-redefinition-canvas?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 太平洋保险CIMS系统微前端实践](http://www.infoq.com/cn/articles/cpic-cims-micro-frontend-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [视频演讲： serverless小程序后端技术分享](http://www.infoq.com/cn/presentations/serverless-applet-backend-technology-sharing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [Sonatype收购Vor Security，扩展对Nexus开源组件的支持](http://www.infoq.com/cn/news/2017/07/nexus-open-source-security?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_28/)*       
 
