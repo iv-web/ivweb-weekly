@@ -5,7 +5,7 @@
 3. [Java平台模块化系统（JSR 376）通过公开测评复议投票](http://www.infoq.com/cn/news/2017/07/jsr-376-approved?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Web Development Reading List #189: Sync Via Push API, RTL CSS, And The Disaster Factory](https://www.smashingmagazine.com/2017/07/web-development-reading-list-189/)       
 5. [Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/)       
-6. [视频演讲： 微信 H5 视频播放器在海量业务下的实践](http://www.infoq.com/cn/presentations/practice-of-wechat-h5-video-player-in-mass-service?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 面向应用的云端迁移方法](http://www.infoq.com/cn/articles/cloud-application-principles?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 刨根究底正则表达式之一：正则表达式概述](http://www.infoq.com/cn/articles/regular-expressions-introduction-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 百度云存储的产品与解决方案](http://www.infoq.com/cn/presentations/baidu-cloud-storage-products-and-solutions?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： Rust in 2017：Rust 的过去、现在与未来](http://www.infoq.com/cn/presentations/rust-in-2017-rust-past-present-and-future?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
