@@ -2,10 +2,10 @@
 ## 第29周文章列表       
 1. [前端每周清单第 21 期：JS 项目开发样式指南；基于 Vue 的分角色权限验证；深入 React.js 内部原理](http://www.infoq.com/cn/news/2017/07/Front-end-weekly-21?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [物联网技术周报第 97 期: 使用 React 和 Node.js 构建智能家居应用](http://www.infoq.com/cn/news/2017/07/iot-weekly-97?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Java平台模块化系统（JSR 376）通过公开测评复议投票](http://www.infoq.com/cn/news/2017/07/jsr-376-approved?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [JSUI：一个管理JavaScript应用的UI工具](http://www.infoq.com/cn/news/2018/07/jsui-manage-js-apps?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [Web Development Reading List #189: Sync Via Push API, RTL CSS, And The Disaster Factory](https://www.smashingmagazine.com/2017/07/web-development-reading-list-189/)       
-5. [Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/)       
-6. [文章： 面向应用的云端迁移方法](http://www.infoq.com/cn/articles/cloud-application-principles?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [Java平台模块化系统（JSR 376）通过公开测评复议投票](http://www.infoq.com/cn/news/2017/07/jsr-376-approved?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/)       
 7. [文章： 刨根究底正则表达式之一：正则表达式概述](http://www.infoq.com/cn/articles/regular-expressions-introduction-part01?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [视频演讲： 百度云存储的产品与解决方案](http://www.infoq.com/cn/presentations/baidu-cloud-storage-products-and-solutions?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： Rust in 2017：Rust 的过去、现在与未来](http://www.infoq.com/cn/presentations/rust-in-2017-rust-past-present-and-future?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
