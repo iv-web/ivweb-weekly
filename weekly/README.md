@@ -7,7 +7,7 @@
 5. [Web Development Reading List #189: Sync Via Push API, RTL CSS, And The Disaster Factory](https://www.smashingmagazine.com/2017/07/web-development-reading-list-189/)       
 6. [Pattern Library First: An Approach For Managing CSS](https://www.smashingmagazine.com/2018/07/pattern-library-first-css/)       
 7. [Udacity也弃用React Native了 ！](http://www.infoq.com/cn/news/2018/07/Udacity-Abandon-React-Native?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Spotify的容器使用情况](http://www.infoq.com/cn/news/2017/07/Spotify-container-usage?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Web Worker 使用教程](http://www.ruanyifeng.com/blog/2018/07/web-worker.html)       
 9. [视频演讲： Rust in 2017：Rust 的过去、现在与未来](http://www.infoq.com/cn/presentations/rust-in-2017-rust-past-present-and-future?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 使用一致协议来实现数据复制](http://www.infoq.com/cn/presentations/data-replication-using-a-consistent-protocol?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_29/)*       
