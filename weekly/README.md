@@ -3,7 +3,7 @@
 1. [WebAssembly：解决 JavaScript 痼疾的一颗银弹？](http://www.infoq.com/cn/news/2017/07/WebAssembly-solve-JavaScript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [#344: JavaScript Factory Functions with ES6+](http://javascriptweekly.com/issues/344)       
 3. [视频演讲： 大前端趋势之下的驱动力](http://www.infoq.com/cn/presentations/driving-force-under-the-trend-of-the-big-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 机器学习技术之预测性维护](http://www.infoq.com/cn/articles/machine-learning-techniques-predictive-maintenance?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [恒丰银行微服务架构优化实践](http://www.infoq.com/cn/news/2017/07/hengfeng-bank-micro-service-arch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Netflix发布Genie3](http://www.infoq.com/cn/news/2017/07/netflix-genie-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 复杂环境下的视觉同时定位与地图构建](http://www.infoq.com/cn/presentations/simultaneous-visual-localization-and-map-building-in-complex-environments?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 《It's All Upside Down》作者访谈录](http://www.infoq.com/cn/articles/book-review-upside-down?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
