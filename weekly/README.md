@@ -1,11 +1,11 @@
 # WEEKLY LIST        
 ## 第30周文章列表       
-1. [WebAssembly：解决 JavaScript 痼疾的一颗银弹？](http://www.infoq.com/cn/news/2017/07/WebAssembly-solve-JavaScript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [#344: JavaScript Factory Functions with ES6+](http://javascriptweekly.com/issues/344)       
-3. [视频演讲： 大前端趋势之下的驱动力](http://www.infoq.com/cn/presentations/driving-force-under-the-trend-of-the-big-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： InfoQ虚拟研讨会：无服务器计算的实践方法](http://www.infoq.com/cn/articles/practical-serverless-computing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Netflix发布Genie3](http://www.infoq.com/cn/news/2017/07/netflix-genie-3?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [视频演讲： 复杂环境下的视觉同时定位与地图构建](http://www.infoq.com/cn/presentations/simultaneous-visual-localization-and-map-building-in-complex-environments?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [视频演讲： 去哪儿网 Node.js 实践及性能监控方案](http://www.infoq.com/cn/presentations/qunar-node-js-practice-and-performance-monitoring-scheme?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [前端周报第69期：Udacity弃用React Native，微信小程序将支持npm、分包和可视化编程](http://www.infoq.com/cn/news/2018/07/arch-weekly-69?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [WebAssembly：解决 JavaScript 痼疾的一颗银弹？](http://www.infoq.com/cn/news/2017/07/WebAssembly-solve-JavaScript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [#344: JavaScript Factory Functions with ES6+](http://javascriptweekly.com/issues/344)       
+5. [视频演讲： 大前端趋势之下的驱动力](http://www.infoq.com/cn/presentations/driving-force-under-the-trend-of-the-big-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [视频演讲： 从大公司到创业公司](http://www.infoq.com/cn/presentations/from-big-companies-to-start-up-companies?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 《It's All Upside Down》作者访谈录](http://www.infoq.com/cn/articles/book-review-upside-down?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 当DevOps遇见AI，智能运维的黄金时代](http://www.infoq.com/cn/articles/when-devops-meets-ai?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [Blazor将.NET带回到浏览器](http://www.infoq.com/cn/news/2017/07/Blazor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
