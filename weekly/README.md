@@ -6,9 +6,9 @@
 4. [#344: JavaScript Factory Functions with ES6+](http://javascriptweekly.com/issues/344)       
 5. [视频演讲： 大前端趋势之下的驱动力](http://www.infoq.com/cn/presentations/driving-force-under-the-trend-of-the-big-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [视频演讲： 百度统一前端平台技术面面观](http://www.infoq.com/cn/presentations/baidu-unified-front-end-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [视频演讲： 前后端分离在APICloud的实践](http://www.infoq.com/cn/presentations/the-practice-of-front-and-back-separation-in-apicloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [迷你书： 架构师特刊：进击的618](http://www.infoq.com/cn/minibooks/618-great-advance?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [Blazor将.NET带回到浏览器](http://www.infoq.com/cn/news/2017/07/Blazor?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [视频访谈： 邹达：大前端趋势下的驱动力](http://www.infoq.com/cn/interviews/interview-with-zouda-talk-driving-force-under-the-big-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [视频演讲： 前后端分离在APICloud的实践](http://www.infoq.com/cn/presentations/the-practice-of-front-and-back-separation-in-apicloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 数据公民：为什么我们这么关心数据道德](http://www.infoq.com/cn/articles/data-ethics?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 分布式数据库和 Hadoop 都不够好，于是我们设计了分布式 SQL 计算系统](http://www.infoq.com/cn/articles/distributed-database-hadoop-distributed-sql-computing-system?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_30/)*       
 
