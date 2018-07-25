@@ -4,12 +4,12 @@
 2. [视频演讲： 探究 Node.js 的服务端之路](http://www.infoq.com/cn/presentations/explore-the-node.js-server-side-of-the-road?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [AWS发布Lambda@Edge，支持在CloudFront CND的边缘服务器上执行Node.js函数](http://www.infoq.com/cn/news/2017/07/aws-lambda-at-edge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [视频访谈： 李德兴：前端人员如何做HTML5开发](http://www.infoq.com/cn/interviews/interview-with-lidexing-talk-how-do-html5-development?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-6. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-7. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
+5. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
+6. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+7. [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)       
 8. [This week's JavaScript news, issue 345](http://javascriptweekly.com/issues/345)       
-9. [穷忙的人生](http://www.ruanyifeng.com/blog/2017/07/working-poor.html)       
-10. [文章： OpenStack 七年盘点，热潮褪去后的明天在哪？](http://www.infoq.com/cn/articles/openstack-seven-years-tomorrow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+10. [视频演讲： 基于HTML5开发高性能跨平台APP](http://www.infoq.com/cn/presentations/developing-high-performance-cross-platform-app-based-on-html5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_31/)*       
 
        
