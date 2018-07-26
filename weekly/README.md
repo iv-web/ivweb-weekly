@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第31周文章列表       
 1. [前端每周清单第 23 期：React 内部原理与实现，自定义基于 JavaScript 的 16 位虚拟机，使用 Apollo Server 快速搭建 GraphQL 服务端](http://www.infoq.com/cn/news/2017/07/arch-weekly-23?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [视频演讲： 探究 Node.js 的服务端之路](http://www.infoq.com/cn/presentations/explore-the-node.js-server-side-of-the-road?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [AWS发布Lambda@Edge，支持在CloudFront CND的边缘服务器上执行Node.js函数](http://www.infoq.com/cn/news/2017/07/aws-lambda-at-edge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [AWS发布Lambda@Edge，支持在CloudFront CND的边缘服务器上执行Node.js函数](http://www.infoq.com/cn/news/2017/07/aws-lambda-at-edge?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [视频演讲： 探究 Node.js 的服务端之路](http://www.infoq.com/cn/presentations/explore-the-node.js-server-side-of-the-road?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [视频访谈： 李德兴：前端人员如何做HTML5开发](http://www.infoq.com/cn/interviews/interview-with-lidexing-talk-how-do-html5-development?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
-6. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-7. [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)       
+5. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+6. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
+7. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
 8. [This week's JavaScript news, issue 345](http://javascriptweekly.com/issues/345)       
-9. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
+9. [2018，你需要知道的11个实用JavaScript库](http://www.infoq.com/cn/news/2018/07/javascript-11library-mustknow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 基于HTML5开发高性能跨平台APP](http://www.infoq.com/cn/presentations/developing-high-performance-cross-platform-app-based-on-html5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_31/)*       
 
