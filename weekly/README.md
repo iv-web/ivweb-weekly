@@ -7,9 +7,9 @@
 5. [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
 6. [Error Handling in React 16](https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html)       
 7. [Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)       
-8. [This week's JavaScript news, issue 345](http://javascriptweekly.com/issues/345)       
-9. [2018，你需要知道的11个实用JavaScript库](http://www.infoq.com/cn/news/2018/07/javascript-11library-mustknow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [视频演讲： 基于HTML5开发高性能跨平台APP](http://www.infoq.com/cn/presentations/developing-high-performance-cross-platform-app-based-on-html5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [2018，你需要知道的11个实用JavaScript库](http://www.infoq.com/cn/news/2018/07/javascript-11library-mustknow?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [视频演讲： 基于HTML5开发高性能跨平台APP](http://www.infoq.com/cn/presentations/developing-high-performance-cross-platform-app-based-on-html5?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_31/)*       
 
        
