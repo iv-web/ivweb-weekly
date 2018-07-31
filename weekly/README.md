@@ -6,10 +6,10 @@
 4. [前端每周清单第 24 期：React 16 中异常处理与 Fiber 实战、Vue 图表与 jQuery 插件、V8 Turbofan 性能优化](http://www.infoq.com/cn/news/2017/08/arch-weekly-24?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [Creating Custom Inputs With Vue.js](https://www.smashingmagazine.com/2017/08/creating-custom-inputs-vue-js/)       
 6. [文章： 用GraphQL增强React](http://www.infoq.com/cn/articles/turbocharge-react-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-7. [文章： 美团点评收银台前端可用性保障实践](http://www.infoq.com/cn/articles/the-availability-of-meituan-cash-front-desk-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [视频演讲： ROS在百度自动驾驶的探索和实践](http://www.infoq.com/cn/presentations/ros-in-baidu-automatic-driving?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： Yelp将核心商家搜索功能迁移至Elasticsearch](http://www.infoq.com/cn/articles/yelp-moves-core-merchant-search-function-to-elasticsearch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 从算法实现到MiniFlow实现，打造机器学习的基础架构平台](http://www.infoq.com/cn/articles/miniflow-build-machine-learning-infrastructure-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [What Do You Need To Know When Converting A Flash Game Into HTML5?](https://www.smashingmagazine.com/2018/07/converting-flash-game-html5/)       
+8. [CSS 的空格处理](http://www.ruanyifeng.com/blog/2018/07/white-space.html)       
+9. [为什么说JSON不适合做配置文件？](http://www.infoq.com/cn/news/2018/07/json-isnt-good-configlang?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 美团点评收银台前端可用性保障实践](http://www.infoq.com/cn/articles/the-availability-of-meituan-cash-front-desk-practice?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_32/)*       
 
        
