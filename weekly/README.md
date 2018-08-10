@@ -3,7 +3,7 @@
 1. [前端每周清单第 25 期：Vue2 响应式原理，RN 运行内置 Node，JS 巧用 Proxy 反混淆，GraphQL 优劣思辨，深入 React 动画](http://www.infoq.com/cn/news/2017/08/arch-weekly-25?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Building A Simple AI Chatbot With Web Speech API And Node.js](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)       
 3. [前端周报第70期：TypeScript 3.0发布，前端面试指南免费下载](http://www.infoq.com/cn/news/2018/08/arch-weekly-70?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 对大企业的精益创业的重新思考](http://www.infoq.com/cn/articles/lean-startup-corporate?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 卷积神经网络的糟糕表现和CoordConv解决方案](http://www.infoq.com/cn/articles/uber-CoordConv-solution?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [视频演讲： 微信广告引擎与播放节奏算法实践](http://www.infoq.com/cn/presentations/practice-of-wechat-advertising-engine-and-rhythm-algorithm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： 企业的组织架构是如何影响技术架构的？](http://www.infoq.com/cn/articles/organization-arch-influence-technology-arch?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 案例学习：Jigsaw模块化迁移](http://www.infoq.com/cn/articles/Java-Jigsaw-Migration-Guide?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
