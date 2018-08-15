@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第34周文章列表       
-1. [API 之下](http://www.ruanyifeng.com/blog/2018/08/api-below.html)       
-2. [文章： 管理微服务中的数据](http://www.infoq.com/cn/articles/managing-data-microservices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [Uber开源Fusion.js：一个基于插件架构的通用Web框架](http://www.infoq.com/cn/news/2018/08/uber-Web-open-fusion-js?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 使用契约测试提高分布式系统的质量](http://www.infoq.com/cn/articles/contract-testing-spring-cloud-contract?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [文章： IPFS如何冲击我们熟知的网络世界](http://www.infoq.com/cn/articles/how-ipfs-is-disrupting-the-web?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 区块链架构设计建议：我们应该用区块链做什么？](http://www.infoq.com/cn/articles/what-should-we-do-using-blockchain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 如何理解“Unix里一切都是文件”这句话？](http://www.infoq.com/cn/articles/in-unix-everything-is-a-file?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [继爆款超级账本后，IBM再次推出新产品](http://www.infoq.com/cn/news/2018/08/ibm-blockchain-LedgerConnect?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [Everything You Need To Know About Alignment In Flexbox](https://www.smashingmagazine.com/2018/08/flexbox-alignment/)       
-8. [文章： 使用契约测试提高分布式系统的质量](http://www.infoq.com/cn/articles/contract-testing-spring-cloud-contract?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 管理微服务中的数据](http://www.infoq.com/cn/articles/managing-data-microservices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 人工智能与区块链初探：交集与前瞻](http://www.infoq.com/cn/articles/ai-blockchain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： 实时音频混音技术在视频直播场景中的实践](http://www.infoq.com/cn/articles/remix-in-live-video?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_34/)*       
