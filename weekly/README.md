@@ -1,8 +1,8 @@
 # WEEKLY LIST        
 ## 第34周文章列表       
 1. [Uber开源Fusion.js：一个基于插件架构的通用Web框架](http://www.infoq.com/cn/news/2018/08/uber-Web-open-fusion-js?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [API 之下](http://www.ruanyifeng.com/blog/2018/08/api-below.html)       
-3. [文章： IPFS如何冲击我们熟知的网络世界](http://www.infoq.com/cn/articles/how-ipfs-is-disrupting-the-web?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 你或许从未听说过的15个HTML元素方法](http://www.infoq.com/cn/articles/15-html-element-methods-youve-potentially-never-heard?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： 想要高效上传下载？试试去中心化的Docker镜像仓库设计](http://www.infoq.com/cn/articles/decentralized-docker-image-registry?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 区块链架构设计建议：我们应该用区块链做什么？](http://www.infoq.com/cn/articles/what-should-we-do-using-blockchain?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [文章： 如何理解“Unix里一切都是文件”这句话？](http://www.infoq.com/cn/articles/in-unix-everything-is-a-file?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [继爆款超级账本后，IBM再次推出新产品](http://www.infoq.com/cn/news/2018/08/ibm-blockchain-LedgerConnect?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
