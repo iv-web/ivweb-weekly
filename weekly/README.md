@@ -1,9 +1,14 @@
 # WEEKLY LIST        
 ## 第35周文章列表       
-1. [文章： REST将会过时，而GraphQL则会长存](http://www.infoq.com/cn/articles/rest-apis-are-rest-in-peace-apis-long-live-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 工业AI时代，大数据云平台未来5年迎最佳发展时机](http://www.infoq.com/cn/articles/the-best-5-years-for-bigdata-cloud-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [文章： Envoy服务网格实践：Lyft是如何解决级联故障问题的](http://www.infoq.com/cn/articles/envoy-service-mesh-cascading-failure?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 容器运维最佳实践](http://www.infoq.com/cn/articles/best-practices-for-operating-containers?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)       
+2. [文章： 我用Vue和React构建了相同的应用程序，这是他们的差异](http://www.infoq.com/cn/articles/differences-between-react-and-vue?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： REST将会过时，而GraphQL则会长存](http://www.infoq.com/cn/articles/rest-apis-are-rest-in-peace-apis-long-live-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 工业AI时代，大数据云平台未来5年迎最佳发展时机](http://www.infoq.com/cn/articles/the-best-5-years-for-bigdata-cloud-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： Envoy服务网格实践：Lyft是如何解决级联故障问题的](http://www.infoq.com/cn/articles/envoy-service-mesh-cascading-failure?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [文章： 容器运维最佳实践](http://www.infoq.com/cn/articles/best-practices-for-operating-containers?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [通过XAML Islands使Windows桌面应用程序现代化](http://www.infoq.com/cn/news/2018/08/Modern-Desktop-Applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： 将Web站点改造为渐进式Web应用](http://www.infoq.com/cn/articles/retrofit-your-website-as-a-progressive-web-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 苏宁MOCK测试桩服务建设实践](http://www.infoq.com/cn/articles/suning-mock-test?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_35/)*       
 
        
