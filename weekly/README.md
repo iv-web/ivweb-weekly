@@ -1,10 +1,10 @@
 # WEEKLY LIST        
 ## 第35周文章列表       
 1. [文章： 前端性能之JavaScript成本2018版](http://www.infoq.com/cn/articles/the-cost-of-javascript-in-2018?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)       
-3. [文章： 我用Vue和React构建了相同的应用程序，这是他们的差异](http://www.infoq.com/cn/articles/differences-between-react-and-vue?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [Uber宣布开源Fusion.js框架](http://www.infoq.com/cn/news/2018/08/uber-fusionjs-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 协作是持续测试的关键推动力](http://www.infoq.com/cn/articles/collaboration-continuous-testing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Uber宣布开源Fusion.js框架](http://www.infoq.com/cn/news/2018/08/uber-fusionjs-framework?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 1)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/)       
+4. [文章： 我用Vue和React构建了相同的应用程序，这是他们的差异](http://www.infoq.com/cn/articles/differences-between-react-and-vue?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： REST将会过时，而GraphQL则会长存](http://www.infoq.com/cn/articles/rest-apis-are-rest-in-peace-apis-long-live-graphql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： Envoy服务网格实践：Lyft是如何解决级联故障问题的](http://www.infoq.com/cn/articles/envoy-service-mesh-cascading-failure?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [通过XAML Islands使Windows桌面应用程序现代化](http://www.infoq.com/cn/news/2018/08/Modern-Desktop-Applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 将Web站点改造为渐进式Web应用](http://www.infoq.com/cn/articles/retrofit-your-website-as-a-progressive-web-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
