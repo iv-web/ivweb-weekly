@@ -1,13 +1,13 @@
 # WEEKLY LIST        
 ## 第36周文章列表       
 1. [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)       
-2. [漂在旧金山](http://www.ruanyifeng.com/blog/2018/08/san-francisco.html)       
-3. [文章： Taireum 一种兼容以太坊的企业级分布式账本与智能合约平台](http://www.infoq.com/cn/articles/Taireum-ethereum-compatible-contract-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： SSL 是否应当在负载均衡器上卸载？](http://www.infoq.com/cn/articles/should-ssl-be-terminated-at-a-load-balancer?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [文章： 分析和预防机器学习中的无意识偏差](http://www.infoq.com/cn/articles/machine-learning-unconscious-bias?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [视频演讲： 极致性能：Serverless架构场景化应用](http://www.infoq.com/cn/presentations/serverless-architecture-for-scenario-applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： Flink关系型API解读：Table API 与SQL](http://www.infoq.com/cn/articles/flink-api-table-api-and-sql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [文章： SSL 是否应当在负载均衡器上卸载？](http://www.infoq.com/cn/articles/should-ssl-be-terminated-at-a-load-balancer?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 分析和预防机器学习中的无意识偏差](http://www.infoq.com/cn/articles/machine-learning-unconscious-bias?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [视频演讲： 极致性能：Serverless架构场景化应用](http://www.infoq.com/cn/presentations/serverless-architecture-for-scenario-applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [漂在旧金山](http://www.ruanyifeng.com/blog/2018/08/san-francisco.html)       
 7. [视频演讲： 基于 Serverless 架构的小程序开发实践](http://www.infoq.com/cn/presentations/small-program-development-based-on-serverless-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： Flink关系型API解读：Table API 与SQL](http://www.infoq.com/cn/articles/flink-api-table-api-and-sql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [文章： Taireum 一种兼容以太坊的企业级分布式账本与智能合约平台](http://www.infoq.com/cn/articles/Taireum-ethereum-compatible-contract-platform?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 深入理解JUnit 5的扩展模型](http://www.infoq.com/cn/articles/deep-dive-junit5-extensions?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [文章： Serverless架构开发与SCF部署实践](http://www.infoq.com/cn/articles/Serverless-framework-and-scf-deployment?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_36/)*       
