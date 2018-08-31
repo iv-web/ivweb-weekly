@@ -2,8 +2,8 @@
 ## 第36周文章列表       
 1. [UX And HTML5: Let’s Help Users Fill In Your Mobile Form (Part 2)](https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-2/)       
 2. [谷歌推出最新AngularJS升级工具，可快速迁移至Angular](http://www.infoq.com/cn/news/2018/08/new-AngularJS-updatetools?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Best Practices For Mobile Form Design](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)       
-4. [文章： 分析和预防机器学习中的无意识偏差](http://www.infoq.com/cn/articles/machine-learning-unconscious-bias?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [2018年，你应该知道的11个React Native组件库](http://www.infoq.com/cn/news/2018/08/18-11-react-native-componetlib?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [文章： 电商平台Shopify的技术架构演进思路](http://www.infoq.com/cn/articles/e-commerce-at-scale-inside-shopifys-tech-stack?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [视频演讲： 极致性能：Serverless架构场景化应用](http://www.infoq.com/cn/presentations/serverless-architecture-for-scenario-applications?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [漂在旧金山](http://www.ruanyifeng.com/blog/2018/08/san-francisco.html)       
 7. [视频演讲： 基于 Serverless 架构的小程序开发实践](http://www.infoq.com/cn/presentations/small-program-development-based-on-serverless-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
