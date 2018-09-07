@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第37周文章列表       
 1. [改造React DOM！FB将推React Fire计划](http://www.infoq.com/cn/news/2018/09/fb-reform-reactdom-react-fire?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [Take A New Look At CSS Shapes](https://www.smashingmagazine.com/2018/09/css-shapes/)       
-3. [前端要凉？微软开源Sketch2Code，草图秒变代码](http://www.infoq.com/cn/news/2018/09/Ms-sketch2Code-opensourcing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [文章： 构建一个运行在Azure虚拟机上的MySQL Spring Boot应用程序](http://www.infoq.com/cn/articles/azure-wildfly-spring-boot-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-5. [FEX 技术周刊 - 2018/09/03](http://fex.baidu.com/blog/2018/09/fex-weekly-03//)       
+2. [文章： 从Sun离职后，我“抛弃”了Java，拥抱JavaScript和Node](http://www.infoq.com/cn/articles/why-is-a-java-guy-so-excited-about-node-js-and-javascript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Take A New Look At CSS Shapes](https://www.smashingmagazine.com/2018/09/css-shapes/)       
+4. [前端要凉？微软开源Sketch2Code，草图秒变代码](http://www.infoq.com/cn/news/2018/09/Ms-sketch2Code-opensourcing?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： 聊聊工程师的影响力](http://www.infoq.com/cn/articles/engineers-and-influence?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [文章： 银行业DevOps状态：来自DOES 2018伦敦大会的报告](http://www.infoq.com/cn/articles/state-devops-banking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [文章： 如何编写bash自动补全脚本](http://www.infoq.com/cn/articles/bash-programmable-completion-tutorial?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 发布至今18年，为什么SQLite一定要用C语言来开发？](http://www.infoq.com/cn/articles/why-is-SQLite-coded-in-C?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 安全中的道德问题](http://www.infoq.com/cn/articles/security-ethics?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 为什么区块链永远不会干掉数据库](http://www.infoq.com/cn/articles/why-blockchain-will-never-kill-the-database?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 构建一个运行在Azure虚拟机上的MySQL Spring Boot应用程序](http://www.infoq.com/cn/articles/azure-wildfly-spring-boot-app?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_37/)*       
 
        
