@@ -1,13 +1,15 @@
 # WEEKLY LIST        
 ## 第38周文章列表       
-1. [文章： 关于.NET Core是否应该支持WCF Hosting的争论](http://www.infoq.com/cn/articles/WCF-Net-Core-Debate?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [文章： 清华&商汤开源超高精度边缘感知人脸对齐算法](http://www.infoq.com/cn/articles/a-boundary-aware-face-alignment-algorithm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+1. [文章： Java序列化的状态](http://www.infoq.com/cn/articles/java-serialization-aug18?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [文章： 关于.NET Core是否应该支持WCF Hosting的争论](http://www.infoq.com/cn/articles/WCF-Net-Core-Debate?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 3. [文章： MariaDB和MySQL全面对比：选择数据库需要考虑这几点](http://www.infoq.com/cn/articles/mariadb-vs-mysql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 闲鱼基于Flutter的移动端跨平台应用实践](http://www.infoq.com/cn/articles/xianyu-cross-platform-based-on-flutter?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [FEX 技术周刊 - 2018/09/10](http://fex.baidu.com/blog/2018/09/fex-weekly-10//)       
 6. [如何降低软件的复杂性？](http://www.ruanyifeng.com/blog/2018/09/complexity.html)       
-7. [文章： Java序列化的状态](http://www.infoq.com/cn/articles/java-serialization-aug18?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： 清华&商汤开源超高精度边缘感知人脸对齐算法](http://www.infoq.com/cn/articles/a-boundary-aware-face-alignment-algorithm?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 8. [文章： 谷歌为何会选用TypeScript？](http://www.infoq.com/cn/articles/typescript-at-google?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [文章： 无需安装的CLI才是最好的](http://www.infoq.com/cn/articles/azure-cloud-shell?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： Oracle即将发布的全新Java垃圾收集器 ZGC](http://www.infoq.com/cn/articles/oracle-release-java-gc-zgc?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_38/)*       
 
        
