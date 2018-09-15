@@ -1,7 +1,7 @@
 # WEEKLY LIST        
 ## 第38周文章列表       
 1. [Introducing the React Profiler](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)       
-2. [敏捷的忠实拥护者David Hussman于8月18日去世](http://www.infoq.com/cn/news/2018/09/david-hussman-died?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Celebrating 10 Years of the V8 JavaScript engine](https://javascriptweekly.com/issues/403)       
 3. [文章： MariaDB和MySQL全面对比：选择数据库需要考虑这几点](http://www.infoq.com/cn/articles/mariadb-vs-mysql?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 4. [文章： 闲鱼基于Flutter的移动端跨平台应用实践](http://www.infoq.com/cn/articles/xianyu-cross-platform-based-on-flutter?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [FEX 技术周刊 - 2018/09/10](http://fex.baidu.com/blog/2018/09/fex-weekly-10//)       
