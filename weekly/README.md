@@ -6,8 +6,8 @@
 4. [#349: React in a single post, Node forked, and using JS in key-value stores](http://javascriptweekly.com/issues/349)       
 5. [前端每周清单第 28 期：JS 运行原理与优化，高性能 CSS 引擎，Coursera GraphQL 实践](http://www.infoq.com/cn/news/2017/08/arch-weekly-28?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [#353: Quantifying Detectable Bugs in JS](http://javascriptweekly.com/issues/353)       
-7. [文章： 深度学习不是万能良药](http://www.infoq.com/cn/articles/when-not-to-use-deep-learning?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [文章： Java云托管服务的开支削减策略](http://www.infoq.com/cn/articles/java-cloud-cost-reduction?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [JS可以写操作系统？Windows 95被装进Electron App](http://www.infoq.com/cn/news/2018/09/Windows95-plugin-electronapp?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [JavaScript中Array方法的正确打开方式](http://www.infoq.com/cn/news/2018/09/js-array-correctway?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频访谈： 左耳朵耗子：技术一定会让人失业，但我没有生不逢时](http://www.infoq.com/cn/interviews/interview-with-chenhao-talk-technology?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [Fable 1.2将在首次FableConf大会上发布](http://www.infoq.com/cn/news/2017/09/fable-12-released-fableconf?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_39/)*       
