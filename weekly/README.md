@@ -9,7 +9,7 @@
 7. [#354: React 16 Released](http://javascriptweekly.com/issues/354)       
 8. [Facebook发布React 16](http://www.infoq.com/cn/news/2017/09/react-16-released-fiber?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 微服务架构，同程旅游让你少踩坑](http://www.infoq.com/cn/articles/micro-service-architecture-of-tongcheng?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+10. [文章： 一文了解云目录服务](http://www.infoq.com/cn/articles/understanding-cloud-directory-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_40/)*       
 
        
