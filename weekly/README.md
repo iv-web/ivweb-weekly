@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第40周文章列表       
 1. [前端每周清单第 32 期：React 开源协议更新、JS 完整编年史、Vue 组件通信](http://www.infoq.com/cn/news/2017/09/arch-weekly-32?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-2. [物联网技术周报第 108 期: ESP8266 + JavaScript 操作系统 Mongoose OS 制作物联网项目](http://www.infoq.com/cn/news/2017/09/iot-weekly-108?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-3. [Facebook将React的许可改为MIT](http://www.infoq.com/cn/news/2017/09/facebook-react-mit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)       
-5. [React v15.6.2](https://facebook.github.io/react/blog/2017/09/25/react-v15.6.2.html)       
-6. [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)       
+2. [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/)       
+3. [物联网技术周报第 108 期: ESP8266 + JavaScript 操作系统 Mongoose OS 制作物联网项目](http://www.infoq.com/cn/news/2017/09/iot-weekly-108?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+4. [Facebook将React的许可改为MIT](http://www.infoq.com/cn/news/2017/09/facebook-react-mit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)       
+6. [React v15.6.2](https://facebook.github.io/react/blog/2017/09/25/react-v15.6.2.html)       
 7. [#354: React 16 Released](http://javascriptweekly.com/issues/354)       
 8. [Facebook发布React 16](http://www.infoq.com/cn/news/2017/09/react-16-released-fiber?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [文章： 一文了解云目录服务](http://www.infoq.com/cn/articles/understanding-cloud-directory-services?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [Parcel 1.10, TypeScript 3.1, and lots of handy JS snippets](https://javascriptweekly.com/issues/405)       
+10. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_40/)*       
 
        
