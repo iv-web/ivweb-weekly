@@ -6,10 +6,10 @@
 4. [Facebook将React的许可改为MIT](http://www.infoq.com/cn/news/2017/09/facebook-react-mit?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [React v16.0](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)       
 6. [React v15.6.2](https://facebook.github.io/react/blog/2017/09/25/react-v15.6.2.html)       
-7. [#354: React 16 Released](http://javascriptweekly.com/issues/354)       
-8. [Facebook发布React 16](http://www.infoq.com/cn/news/2017/09/react-16-released-fiber?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [Parcel 1.10, TypeScript 3.1, and lots of handy JS snippets](https://javascriptweekly.com/issues/405)       
-10. [视频演讲： ui-model，更纯粹的前端](http://www.infoq.com/cn/presentations/ui-model-a-more-pure-front-end?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [文章： V8十年故事：从农场诞生的星球最强JS引擎](http://www.infoq.com/cn/articles/v8-10-years?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [Parcel 1.10, TypeScript 3.1, and lots of handy JS snippets](https://javascriptweekly.com/issues/405)       
+9. [#354: React 16 Released](http://javascriptweekly.com/issues/354)       
+10. [Facebook发布React 16](http://www.infoq.com/cn/news/2017/09/react-16-released-fiber?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_40/)*       
 
        
