@@ -1,8 +1,8 @@
 # WEEKLY LIST        
 ## 第41周文章列表       
 1. [statty —— 低调的 React 和 Preact 应用状态管理库](https://www.oschina.net/p/statty)       
-2. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
-3. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
+2. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
+3. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
 4. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
 5. [视频演讲： 业务端技术团队真的痛](http://www.infoq.com/cn/presentations/business-side-technology-team-really-hurts?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Non-Disclosure Agreements For Developers: What To Know Before You Sign](https://www.smashingmagazine.com/2017/10/developer-non-disclosure-agreements/)       
