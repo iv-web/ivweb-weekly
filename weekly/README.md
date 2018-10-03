@@ -1,12 +1,12 @@
 # WEEKLY LIST        
 ## 第41周文章列表       
 1. [statty —— 低调的 React 和 Preact 应用状态管理库](https://www.oschina.net/p/statty)       
-2. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
-3. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
+2. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
+3. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
 4. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
-5. [视频演讲： 业务端技术团队真的痛](http://www.infoq.com/cn/presentations/business-side-technology-team-really-hurts?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Non-Disclosure Agreements For Developers: What To Know Before You Sign](https://www.smashingmagazine.com/2017/10/developer-non-disclosure-agreements/)       
-7. [文章： 创业公司如何用好OKR](http://www.infoq.com/cn/articles/how-to-make-okrs-actually-work-at-your-startup?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+5. [文章： JShell：Java REPL综合指南](http://www.infoq.com/cn/articles/jshell-java-repl?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+6. [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)       
+7. [ImageMagick 7.0.7-7 发布，图片处理软件](https://www.oschina.net/news/89370/imagemagick-7-0-7-7)       
 8. [视频演讲： 高可用实践：从淘宝到上云的差异](http://www.infoq.com/cn/presentations/high-availability-practices-differences-from-taobao-to-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 从设计理念解读实时操作系统RT-Thread](http://www.infoq.com/cn/articles/rt-thread?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 互联网思维下的 MOOC 课程实践](http://www.infoq.com/cn/presentations/mooc-curriculum-practice-under-the-internet-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
