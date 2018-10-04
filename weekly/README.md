@@ -6,7 +6,7 @@
 4. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
 5. [文章： JShell：Java REPL综合指南](http://www.infoq.com/cn/articles/jshell-java-repl?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 6. [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)       
-7. [ImageMagick 7.0.7-7 发布，图片处理软件](https://www.oschina.net/news/89370/imagemagick-7-0-7-7)       
+7. [PYPL 10 月 IDE 指数榜：Eclipse 反超 Visual Studio](https://www.oschina.net/news/89376/pypl-10-ide-trend)       
 8. [视频演讲： 高可用实践：从淘宝到上云的差异](http://www.infoq.com/cn/presentations/high-availability-practices-differences-from-taobao-to-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 9. [文章： 从设计理念解读实时操作系统RT-Thread](http://www.infoq.com/cn/articles/rt-thread?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 互联网思维下的 MOOC 课程实践](http://www.infoq.com/cn/presentations/mooc-curriculum-practice-under-the-internet-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
