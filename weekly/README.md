@@ -1,14 +1,14 @@
 # WEEKLY LIST        
 ## 第41周文章列表       
 1. [statty —— 低调的 React 和 Preact 应用状态管理库](https://www.oschina.net/p/statty)       
-2. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
-3. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
-4. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
-5. [文章： JShell：Java REPL综合指南](http://www.infoq.com/cn/articles/jshell-java-repl?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-6. [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)       
-7. [LibreOffice 5.4.2 发布，开源办公软件套件](https://www.oschina.net/news/89375/libreoffice-5-4-2)       
-8. [视频演讲： 高可用实践：从淘宝到上云的差异](http://www.infoq.com/cn/presentations/high-availability-practices-differences-from-taobao-to-cloud?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [文章： 从设计理念解读实时操作系统RT-Thread](http://www.infoq.com/cn/articles/rt-thread?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+2. [Create React App 2.0, the next Vue.js, and lots of VS Code goodies](https://javascriptweekly.com/issues/406)       
+3. [CSS Grid Challenge: Winners and Templates](https://www.smashingmagazine.com/2017/10/css-grid-challenge-2017-winners/)       
+4. [Sass 3.5.2 发布，CSS 框架](https://www.oschina.net/news/89342/sass-3-5-2)       
+5. [Immutable.js v4.0.0-rc.7 发布，不可变数据集合](https://www.oschina.net/news/89320/immutable-js-4-0-0-rc7)       
+6. [文章： JShell：Java REPL综合指南](http://www.infoq.com/cn/articles/jshell-java-repl?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+7. [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)       
+8. [Taming this In JavaScript With Bind Operator](https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/)       
+9. [迷你书： AI前线（2018年9月）](http://www.infoq.com/cn/minibooks/AI-front-201809?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 互联网思维下的 MOOC 课程实践](http://www.infoq.com/cn/presentations/mooc-curriculum-practice-under-the-internet-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_41/)*       
 
