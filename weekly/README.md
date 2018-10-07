@@ -8,7 +8,7 @@
 6. [文章： JShell：Java REPL综合指南](http://www.infoq.com/cn/articles/jshell-java-repl?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 7. [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)       
 8. [Taming this In JavaScript With Bind Operator](https://www.smashingmagazine.com/2018/10/taming-this-javascript-bind-operator/)       
-9. [迷你书： AI前线（2018年9月）](http://www.infoq.com/cn/minibooks/AI-front-201809?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [BAT都有哪些AIOps的经典案例？](http://www.infoq.com/cn/news/2018/09/bat-aiops-cases?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 10. [视频演讲： 互联网思维下的 MOOC 课程实践](http://www.infoq.com/cn/presentations/mooc-curriculum-practice-under-the-internet-thinking?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_41/)*       
 
