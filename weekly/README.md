@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第42周文章列表       
 1. [Node.js v8.7.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/89497/nodejs-8-7-0)       
-2. [Node.js 内容管理框架 DoraCMS v2.0.0 版本更新](https://www.oschina.net/news/89417/doracms-2-0-0)       
-3. [Node.js基金会官方的开发者认证准备就绪](http://www.infoq.com/cn/news/2017/10/Node-certified-developer-exam?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-4. [Next.js 4.0.2 发布，支持 React 16 提速 2.6 倍](https://www.oschina.net/news/89468/nextjs-4-0-2)       
+2. [Sequelize 4.13.11-15 发布，Node.js 的 ORM](https://www.oschina.net/news/89587/sequelize-4-13-11-15)       
+3. [Sequelize 4.13.9 和 4.13.10 发布，Node.js 的 ORM](https://www.oschina.net/news/89558/sequelize-4-13-9-and-4-13-10)       
+4. [Node.js 内容管理框架 DoraCMS v2.0.0 版本更新](https://www.oschina.net/news/89417/doracms-2-0-0)       
 5. [core-js —— JavaScript 的模块化标准库](https://www.oschina.net/p/core-js)       
-6. [Sequelize 4.13.11-15 发布，Node.js 的 ORM](https://www.oschina.net/news/89587/sequelize-4-13-11-15)       
-7. [Sequelize 4.13.9 和 4.13.10 发布，Node.js 的 ORM](https://www.oschina.net/news/89558/sequelize-4-13-9-and-4-13-10)       
-8. [HyperApp 0.14.0 发布，构建前端应用的 JS 库](https://www.oschina.net/news/89393/hyperapp-0-14-0)       
-9. [前端每周清单第 34 期：Vue 现状盘点与 3.0 展望，React 代码迁移与优化，图片优化详论](http://www.infoq.com/cn/news/2017/10/arch-weekly-34?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-10. [Framework7 v2.0.0-beta.9 发布，HTML 移动端框架](https://www.oschina.net/news/89426/framework7-v2-0-0-beta9)       
+6. [Next.js 4.0.2 发布，支持 React 16 提速 2.6 倍](https://www.oschina.net/news/89468/nextjs-4-0-2)       
+7. [Node.js基金会官方的开发者认证准备就绪](http://www.infoq.com/cn/news/2017/10/Node-certified-developer-exam?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+8. [前端每周清单第 34 期：Vue 现状盘点与 3.0 展望，React 代码迁移与优化，图片优化详论](http://www.infoq.com/cn/news/2017/10/arch-weekly-34?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+9. [HyperApp 0.14.0 发布，构建前端应用的 JS 库](https://www.oschina.net/news/89393/hyperapp-0-14-0)       
+10. [新发布的CoffeeScript 2中添加了现代JavaScript特性](http://www.infoq.com/cn/news/2017/10/coffeescript-2-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_42/)*       
 
        
