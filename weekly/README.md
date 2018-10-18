@@ -2,14 +2,14 @@
 ## 第43周文章列表       
 1. [前端每周清单第 35 期：Vue.js 2.5 发布、微前端概念详解、浏览器扩展开发实践](http://www.infoq.com/cn/news/2017/10/arch-weekly-35?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 2. [Sequelize 4.13.16 和 4.13.17 发布，Node.js 的 ORM](https://www.oschina.net/news/89608/sequelize-4-13-16-and-17)       
-3. [Next.js 4.1.0 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89647/next-js-4-1-0)       
-4. [Sequelize 4.14.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89646/sequelize-4-14-0)       
-5. [Napa.js —— 微软开源的多线程 JavaScript 运行环境](https://www.oschina.net/p/napajs)       
-6. [Sequelize 4.15.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89686/sequelize-4-15-0)       
-7. [Handlebars.js 4.0.11 发布，JavaScript 页面模板库](https://www.oschina.net/news/89689/handlebars-js-4-0-11)       
-8. [UglifyJS 3.1.5 发布，JavaScript 压缩和美化工具包](https://www.oschina.net/news/89815/uglifyjs-3-1-5)       
-9. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
-10. [Next.js 4.1.1 发布，添加 styled-jsx-plugin-sass 示例](https://www.oschina.net/news/89761/next-js-4-1-1)       
+3. [Sequelize 4.14.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89646/sequelize-4-14-0)       
+4. [Sequelize 4.15.0 发布，Node.js 的 ORM](https://www.oschina.net/news/89686/sequelize-4-15-0)       
+5. [Handlebars.js 4.0.11 发布，JavaScript 页面模板库](https://www.oschina.net/news/89689/handlebars-js-4-0-11)       
+6. [Next.js 4.1.0 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89647/next-js-4-1-0)       
+7. [Next.js 4.1.1 发布，添加 styled-jsx-plugin-sass 示例](https://www.oschina.net/news/89761/next-js-4-1-1)       
+8. [Next.js 4.0.5 发布，引入了 styled-jsx 插件](https://www.oschina.net/news/89606/nextjs-4-0-5)       
+9. [UglifyJS 3.1.5 发布，JavaScript 压缩和美化工具包](https://www.oschina.net/news/89815/uglifyjs-3-1-5)       
+10. [Napa.js —— 微软开源的多线程 JavaScript 运行环境](https://www.oschina.net/p/napajs)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_43/)*       
 
        
