@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第44周文章列表       
 1. [Nodemailer 4.1.3 发布，Node.js 邮件发送组件](https://www.oschina.net/news/89880/nodemailer-4-1-3)       
-2. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
-3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
-4. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
-5. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
-6. [翻译 | 我们为什么以及是如何从Angular.js迁移到Vue.js？](https://www.oschina.net/translate/why-and-how-we-migrated-from-angularjs-to-vuejs)       
-7. [微软发布Azure Application Insights for Node.js 1.0版本](http://www.infoq.com/cn/news/2017/10/application-insights-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-8. [Node 8.8.0、6.11.5 和 4.8.5 发布，你在用哪版？](https://www.oschina.net/news/89918/node-8-8-0-and-4-8-5)       
-9. [JavaScript与函数式编程](http://geek.csdn.net/news/detail/111968)       
-10. [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)       
+2. [微软发布Azure Application Insights for Node.js 1.0版本](http://www.infoq.com/cn/news/2017/10/application-insights-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
+3. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
+4. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
+5. [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)       
+6. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
+7. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
+8. [翻译 | 我们为什么以及是如何从Angular.js迁移到Vue.js？](https://www.oschina.net/translate/why-and-how-we-migrated-from-angularjs-to-vuejs)       
+9. [Javascript window.fetch API](http://geek.csdn.net/news/detail/112007)       
+10. [Next.js 7发布，构建速度提升40%](http://www.infoq.com/cn/news/2018/10/next.js-7-faster-builds?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_44/)*       
 
        
