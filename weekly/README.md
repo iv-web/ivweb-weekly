@@ -8,7 +8,7 @@
 6. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
 7. [翻译 | 我们为什么以及是如何从Angular.js迁移到Vue.js？](https://www.oschina.net/translate/why-and-how-we-migrated-from-angularjs-to-vuejs)       
 8. [微软发布Azure Application Insights for Node.js 1.0版本](http://www.infoq.com/cn/news/2017/10/application-insights-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [V8 JavaScript 引擎 6.3 版本改进了速度和内存消耗](https://www.oschina.net/news/89980/v8-release-63)       
+9. [uiw v1.2.8 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90022/uiw-1-2-8)       
 10. [Javascript window.fetch API](http://geek.csdn.net/news/detail/112007)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_44/)*       
 
