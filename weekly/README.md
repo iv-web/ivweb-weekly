@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第44周文章列表       
 1. [Nodemailer 4.1.3 发布，Node.js 邮件发送组件](https://www.oschina.net/news/89880/nodemailer-4-1-3)       
-2. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
-3. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
-4. [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)       
+2. [React Hooks, and the state of JavaScript and WebAssembly](https://javascriptweekly.com/issues/409)       
+3. [Napa.js 0.1.4 发布，多线程 JavaScript 运行环境](https://www.oschina.net/news/89842/napajs-0-1-4)       
+4. [Fastify — 号称是目前最快的 Node.js 应用框架之一](https://www.oschina.net/p/fastify)       
 5. [LoopBack 2.39.0 发布，高度可扩展的 Node.js 框架](https://www.oschina.net/news/89882/loopback-2-39-0)       
 6. [Egg 1.10.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/89914/egg-1-10-0)       
 7. [翻译 | 我们为什么以及是如何从Angular.js迁移到Vue.js？](https://www.oschina.net/translate/why-and-how-we-migrated-from-angularjs-to-vuejs)       
 8. [微软发布Azure Application Insights for Node.js 1.0版本](http://www.infoq.com/cn/news/2017/10/application-insights-node?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [uiw v1.2.8 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90022/uiw-1-2-8)       
-10. [Javascript window.fetch API](http://geek.csdn.net/news/detail/112007)       
+9. [Splicing HTML’s DNA With CSS Attribute Selectors](https://www.smashingmagazine.com/2018/10/attribute-selectors-splicing-html-dna-css/)       
+10. [CSS 框架 Bulma 教程](http://www.ruanyifeng.com/blog/2017/10/bulma.html)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_44/)*       
 
        
