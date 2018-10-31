@@ -8,8 +8,8 @@
 6. [React 16.1.0-beta 发布，开源的 JavaScript 库](https://www.oschina.net/news/90236/react-16-1-0-beta)       
 7. [Ember.js 2.16.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/90171/emberjs-2-16-2)       
 8. [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](http://www.infoq.com/cn/news/2017/11/arch-weekly-37?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [#359: Angular 5, Node 9 and TypeScript 2.6 Released](http://javascriptweekly.com/issues/359)       
-10. [Slate.js —— 完全可定制的富文本编辑框架](https://www.oschina.net/p/slate-editor)       
+9. [uiw v1.2.10 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90119/uiw-1-2-10)       
+10. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_45/)*       
 
        
