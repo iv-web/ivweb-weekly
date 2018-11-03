@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第45周文章列表       
 1. [Node.js v9.0.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90138/nodejs-9-0-0)       
-2. [Ember.js 2.16.1 发布，JavaScript MVC 框架](https://www.oschina.net/news/90072/emberjs-2-16-1)       
+2. [Sequelize 4.22.2 和 4.22.3 和 4.22.4 发布，Node.js 的 ORM](https://www.oschina.net/news/90265/sequelize-4-22-2-and-4-22-3-and-4-22-4)       
 3. [The CSS Working Group At TPAC: What’s New In CSS?](https://www.smashingmagazine.com/2018/10/tpac-css-working-group-new/)       
-4. [Sequelize 4.22.2 和 4.22.3 和 4.22.4 发布，Node.js 的 ORM](https://www.oschina.net/news/90265/sequelize-4-22-2-and-4-22-3-and-4-22-4)       
-5. [开源的链式事件流轻量级迷你 JS 库 - hubJS](https://www.oschina.net/p/hubjs)       
-6. [React 16.1.0-beta 发布，开源的 JavaScript 库](https://www.oschina.net/news/90236/react-16-1-0-beta)       
-7. [Ember.js 2.16.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/90171/emberjs-2-16-2)       
+4. [开源的链式事件流轻量级迷你 JS 库 - hubJS](https://www.oschina.net/p/hubjs)       
+5. [React 16.1.0-beta 发布，开源的 JavaScript 库](https://www.oschina.net/news/90236/react-16-1-0-beta)       
+6. [Ember.js 2.16.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/90171/emberjs-2-16-2)       
+7. [Ember.js 2.16.1 发布，JavaScript MVC 框架](https://www.oschina.net/news/90072/emberjs-2-16-1)       
 8. [前端每周清单第 37 期：Bootstrap 4 必知必会、2017 Vue.js 报告、Graphcool 开源框架](http://www.infoq.com/cn/news/2017/11/arch-weekly-37?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
-9. [#359: Angular 5, Node 9 and TypeScript 2.6 Released](http://javascriptweekly.com/issues/359)       
-10. [ReactOS 0.4.7-rc1 发布，类 XP 的操作系统](https://www.oschina.net/news/90074/reactos-0-4-7-rc1)       
+9. [fastjson-1.1.65.android 发布, 增强 Kotlin 支持](https://www.oschina.net/news/90240/fastjson-1-1-65-android)       
+10. [uiw v1.2.9 发布， 基于 React 的 UI 组件库](https://www.oschina.net/news/90065/uiw-1-2-9)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_45/)*       
 
        
