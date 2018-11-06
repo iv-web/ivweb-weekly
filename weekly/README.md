@@ -1,15 +1,15 @@
 # WEEKLY LIST        
 ## 第46周文章列表       
 1. [[前端] 理解 Node.js 事件循环 · 文蔺的前端之路](http://gold.xitu.io/entry/582736d1128fe1005cc906da)       
-2. [Nodemailer 4.4.0 发布，Node.js 邮件发送组件](https://www.oschina.net/news/90470/nodemailer-4-4-0)       
-3. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
+2. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
+3. [Nodemailer 4.4.0 发布，Node.js 邮件发送组件](https://www.oschina.net/news/90470/nodemailer-4-4-0)       
 4. [前端每周清单第 38 期: Node 9 发布，Kotlin 与 React，Netflix 架构解密](http://www.infoq.com/cn/news/2017/11/arch-weekly-38?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
-6. [Sequelize 4.22.5 发布，Node.js 的 ORM](https://www.oschina.net/news/90297/sequelize-4-22-5)       
+6. [10月新增开源项目：号称最快的 Node.js 应用框架来了](https://my.oschina.net/editorial-story/blog/1563990)       
 7. [React 16.1.0 发布，开源的 JavaScript 库](https://www.oschina.net/news/90435/react-16-1-0-release)       
-8. [Web Development Reading List #158: Form Usability, Vue.js, And Unfolding Critical CSS](https://www.smashingmagazine.com/2016/11/web-development-reading-list-158/)       
-9. [Storybook 4.0, the evolution of async JavaScript, and a new JS podcast](https://javascriptweekly.com/issues/410)       
-10. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
+8. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
+9. [jsoup 1.11.1 发布，最强的 Java HTML 解析器](https://www.oschina.net/news/90310/jsoup-1-11-1)       
+10. [Node v8.9.1 (LTS)  发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/node-8-9-1-lts)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_46/)*       
 
        
