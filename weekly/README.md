@@ -5,10 +5,10 @@
 3. [Node.js v9.1.0 发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/nodejs-9-1-0)       
 4. [前端每周清单第 38 期: Node 9 发布，Kotlin 与 React，Netflix 架构解密](http://www.infoq.com/cn/news/2017/11/arch-weekly-38?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global)       
 5. [[后端] 我在阅读 NodeJS 文档中读出的 19 个套路](http://gold.xitu.io/entry/58233a212f301e005c3b913a)       
-6. [Egg 1.11.0 发布，阿里企业级 Node.js 框架](https://www.oschina.net/news/90399/egg-1-11-0)       
-7. [React 16.1.0 发布，开源的 JavaScript 库](https://www.oschina.net/news/90435/react-16-1-0-release)       
-8. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
-9. [切版 CSS 框架 v1.6 发布，移动优先的 CSS 框架](https://www.oschina.net/news/90327/qieban-1-6)       
+6. [Sequelize 4.22.5 发布，Node.js 的 ORM](https://www.oschina.net/news/90297/sequelize-4-22-5)       
+7. [Angular 3, the 2016 JS Awards, and logging errors in client-side JavaScript](http://javascriptweekly.com/issues/309)       
+8. [React 16.1.0 发布，开源的 JavaScript 库](https://www.oschina.net/news/90435/react-16-1-0-release)       
+9. [Egg 2.0.0 首个测试版发布，企业级 Node.js 框架](https://www.oschina.net/news/90472/egg-2-0-0-beta0)       
 10. [Node v8.9.1 (LTS)  发布，服务器端 JavaScript 运行环境](https://www.oschina.net/news/90359/node-8-9-1-lts)       
 *[查看更多](https://github.com/iv-web/ivweb-weekly/blob/master/weekly/2018/week_46/)*       
 
